@@ -1,4 +1,4 @@
-REPO_PATH = '/root/se-router'
+REPO_PATH = '/root/starouter'
 
 TESTING_BENCHMARKS = ['TestEval_line', 'TestEval_branch', 'TestEval_path', 'TestEval_total', 'LIBRO_d4j']
 CODE_GENERATION_BENCHMARKS = ['HumanEval', 'APPS']
