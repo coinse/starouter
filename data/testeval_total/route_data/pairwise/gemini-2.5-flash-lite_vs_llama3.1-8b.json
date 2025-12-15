@@ -1,0 +1,1472 @@
+[
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 0,
+        "key": "4",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 1,
+        "key": "10",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 2,
+        "key": "15",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 3,
+        "key": "44",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 4,
+        "key": "54",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 5,
+        "key": "65",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 6,
+        "key": "73",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 7,
+        "key": "97",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 8,
+        "key": "126",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 9,
+        "key": "130",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 10,
+        "key": "132",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 11,
+        "key": "218",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 12,
+        "key": "227",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 13,
+        "key": "289",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 14,
+        "key": "310",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 15,
+        "key": "327",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 16,
+        "key": "335",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 17,
+        "key": "336",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 18,
+        "key": "391",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 19,
+        "key": "402",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 20,
+        "key": "407",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 21,
+        "key": "417",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 22,
+        "key": "420",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 23,
+        "key": "423",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 24,
+        "key": "457",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 25,
+        "key": "524",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 26,
+        "key": "542",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 27,
+        "key": "547",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 28,
+        "key": "581",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 29,
+        "key": "591",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 30,
+        "key": "648",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 31,
+        "key": "673",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 32,
+        "key": "684",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 33,
+        "key": "685",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 34,
+        "key": "688",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 35,
+        "key": "689",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 36,
+        "key": "691",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 37,
+        "key": "722",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 38,
+        "key": "730",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 39,
+        "key": "735",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 40,
+        "key": "743",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 41,
+        "key": "770",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 42,
+        "key": "777",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 43,
+        "key": "782",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 44,
+        "key": "786",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 45,
+        "key": "787",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 46,
+        "key": "794",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 47,
+        "key": "805",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 48,
+        "key": "815",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 49,
+        "key": "838",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 50,
+        "key": "845",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 51,
+        "key": "854",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 52,
+        "key": "861",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 53,
+        "key": "866",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 54,
+        "key": "882",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 55,
+        "key": "909",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 56,
+        "key": "913",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 57,
+        "key": "923",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 58,
+        "key": "927",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 59,
+        "key": "935",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 60,
+        "key": "939",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 61,
+        "key": "952",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 62,
+        "key": "963",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 63,
+        "key": "990",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 64,
+        "key": "999",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 65,
+        "key": "1001",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 66,
+        "key": "1093",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 67,
+        "key": "1129",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 68,
+        "key": "1139",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 69,
+        "key": "1162",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 70,
+        "key": "1202",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 71,
+        "key": "1210",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 72,
+        "key": "1253",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 73,
+        "key": "1254",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 74,
+        "key": "1263",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 75,
+        "key": "1267",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 76,
+        "key": "1284",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 77,
+        "key": "1293",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 78,
+        "key": "1301",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 79,
+        "key": "1334",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 80,
+        "key": "1340",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 81,
+        "key": "1345",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 82,
+        "key": "1377",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 83,
+        "key": "1417",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 84,
+        "key": "1462",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 85,
+        "key": "1489",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 86,
+        "key": "1573",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 87,
+        "key": "1574",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 88,
+        "key": "1579",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 89,
+        "key": "1582",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 90,
+        "key": "1583",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 91,
+        "key": "1591",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 92,
+        "key": "1604",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 93,
+        "key": "1615",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 94,
+        "key": "1616",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 95,
+        "key": "1617",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 96,
+        "key": "1627",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 97,
+        "key": "1631",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 98,
+        "key": "1632",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 99,
+        "key": "1654",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 100,
+        "key": "1655",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 101,
+        "key": "1681",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 102,
+        "key": "1687",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 103,
+        "key": "1705",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 104,
+        "key": "1706",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 105,
+        "key": "1707",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 106,
+        "key": "1717",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 107,
+        "key": "1719",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 108,
+        "key": "1722",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 109,
+        "key": "1735",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 110,
+        "key": "1765",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 111,
+        "key": "1782",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 112,
+        "key": "1786",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 113,
+        "key": "1793",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 114,
+        "key": "1805",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 115,
+        "key": "1857",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 116,
+        "key": "1878",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 117,
+        "key": "1896",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 118,
+        "key": "1906",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 119,
+        "key": "1923",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 120,
+        "key": "1926",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 121,
+        "key": "1928",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 122,
+        "key": "1938",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 123,
+        "key": "1971",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 124,
+        "key": "1976",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 125,
+        "key": "1977",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 126,
+        "key": "1994",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 127,
+        "key": "1998",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 128,
+        "key": "2019",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 129,
+        "key": "2030",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 130,
+        "key": "2040",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 131,
+        "key": "2045",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 132,
+        "key": "2059",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 133,
+        "key": "2076",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 134,
+        "key": "2086",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 135,
+        "key": "2092",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 136,
+        "key": "2115",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 137,
+        "key": "2127",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 138,
+        "key": "2132",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 139,
+        "key": "2146",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 140,
+        "key": "2157",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 141,
+        "key": "2182",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 142,
+        "key": "2203",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 143,
+        "key": "2242",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 144,
+        "key": "2245",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 145,
+        "key": "2257",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 146,
+        "key": "2258",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 147,
+        "key": "2290",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 148,
+        "key": "2299",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 149,
+        "key": "2301",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 150,
+        "key": "2322",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 151,
+        "key": "2332",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 152,
+        "key": "2337",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 153,
+        "key": "2392",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 154,
+        "key": "2437",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 155,
+        "key": "2456",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 156,
+        "key": "2462",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 157,
+        "key": "2467",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 158,
+        "key": "2499",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 159,
+        "key": "2503",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 160,
+        "key": "2508",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 161,
+        "key": "2523",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 162,
+        "key": "2532",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 163,
+        "key": "2577",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 164,
+        "key": "2601",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 165,
+        "key": "2603",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 166,
+        "key": "2653",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 167,
+        "key": "2662",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 168,
+        "key": "2663",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 169,
+        "key": "2672",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 170,
+        "key": "2684",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 171,
+        "key": "2685",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 172,
+        "key": "2699",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 173,
+        "key": "2708",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 174,
+        "key": "2709",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 175,
+        "key": "2736",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 176,
+        "key": "2747",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 177,
+        "key": "2751",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 178,
+        "key": "2812",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 179,
+        "key": "2818",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 180,
+        "key": "2836",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 181,
+        "key": "2844",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 182,
+        "key": "2846",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 183,
+        "key": "2850",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 184,
+        "key": "2851",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 185,
+        "key": "2876",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 186,
+        "key": "2901",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 187,
+        "key": "2904",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 188,
+        "key": "2911",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 189,
+        "key": "2932",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 190,
+        "key": "2940",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 191,
+        "key": "2948",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 192,
+        "key": "2953",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 193,
+        "key": "2959",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 194,
+        "key": "2973",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 195,
+        "key": "2976",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 196,
+        "key": "2977",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 197,
+        "key": "2983",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 198,
+        "key": "3001",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 199,
+        "key": "3006",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 200,
+        "key": "3029",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 201,
+        "key": "3030",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 202,
+        "key": "3043",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 203,
+        "key": "3044",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 204,
+        "key": "3072",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 205,
+        "key": "3095",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 206,
+        "key": "3102",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 207,
+        "key": "3108",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 208,
+        "key": "3112",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "llama3.1-8b",
+        "idx": 209,
+        "key": "3123",
+        "winner": "model_a"
+    }
+]

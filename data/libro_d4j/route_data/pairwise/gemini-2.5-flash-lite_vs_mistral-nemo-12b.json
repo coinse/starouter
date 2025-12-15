@@ -1,0 +1,5210 @@
+[
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 0,
+        "key": "Cli_10",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 1,
+        "key": "Cli_1",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 2,
+        "key": "Cli_13",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 3,
+        "key": "Cli_16",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 4,
+        "key": "Chart_1",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 5,
+        "key": "Chart_17",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 6,
+        "key": "Cli_15",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 7,
+        "key": "Cli_14",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 8,
+        "key": "Cli_17",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 9,
+        "key": "Chart_16",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 10,
+        "key": "Chart_9",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 11,
+        "key": "Chart_5",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 12,
+        "key": "Chart_2",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 13,
+        "key": "Chart_11",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 14,
+        "key": "Cli_18",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 15,
+        "key": "Cli_20",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 16,
+        "key": "Cli_2",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 17,
+        "key": "Cli_27",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 18,
+        "key": "Cli_21",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 19,
+        "key": "Cli_28",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 20,
+        "key": "Cli_26",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 21,
+        "key": "Cli_30",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 22,
+        "key": "Cli_29",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 23,
+        "key": "Cli_31",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 24,
+        "key": "Cli_33",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 25,
+        "key": "Cli_34",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 26,
+        "key": "Cli_32",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 27,
+        "key": "Cli_36",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 28,
+        "key": "Cli_35",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 29,
+        "key": "Cli_39",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 30,
+        "key": "Cli_9",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 31,
+        "key": "Cli_5",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 32,
+        "key": "Cli_8",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 33,
+        "key": "Cli_40",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 34,
+        "key": "Cli_7",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 35,
+        "key": "Cli_23",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 36,
+        "key": "Closure_101",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 37,
+        "key": "Closure_105",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 38,
+        "key": "Closure_106",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 39,
+        "key": "Closure_103",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 40,
+        "key": "Closure_102",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 41,
+        "key": "Closure_100",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 42,
+        "key": "Closure_104",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 43,
+        "key": "Closure_107",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 44,
+        "key": "Closure_10",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 45,
+        "key": "Closure_1",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 46,
+        "key": "Closure_114",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 47,
+        "key": "Closure_108",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 48,
+        "key": "Closure_11",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 49,
+        "key": "Closure_113",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 50,
+        "key": "Closure_109",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 51,
+        "key": "Closure_12",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 52,
+        "key": "Closure_124",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 53,
+        "key": "Closure_112",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 54,
+        "key": "Closure_110",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 55,
+        "key": "Closure_116",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 56,
+        "key": "Closure_111",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 57,
+        "key": "Closure_122",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 58,
+        "key": "Closure_120",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 59,
+        "key": "Closure_118",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 60,
+        "key": "Closure_117",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 61,
+        "key": "Closure_121",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 62,
+        "key": "Closure_119",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 63,
+        "key": "Closure_128",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 64,
+        "key": "Closure_125",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 65,
+        "key": "Closure_126",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 66,
+        "key": "Closure_123",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 67,
+        "key": "Closure_127",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 68,
+        "key": "Closure_129",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 69,
+        "key": "Closure_135",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 70,
+        "key": "Closure_139",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 71,
+        "key": "Closure_130",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 72,
+        "key": "Closure_138",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 73,
+        "key": "Closure_134",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 74,
+        "key": "Closure_131",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 75,
+        "key": "Closure_136",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 76,
+        "key": "Closure_13",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 77,
+        "key": "Closure_132",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 78,
+        "key": "Closure_143",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 79,
+        "key": "Closure_141",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 80,
+        "key": "Closure_133",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 81,
+        "key": "Closure_142",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 82,
+        "key": "Closure_149",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 83,
+        "key": "Closure_145",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 84,
+        "key": "Closure_140",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 85,
+        "key": "Closure_144",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 86,
+        "key": "Closure_146",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 87,
+        "key": "Closure_148",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 88,
+        "key": "Closure_147",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 89,
+        "key": "Closure_150",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 90,
+        "key": "Closure_152",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 91,
+        "key": "Closure_151",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 92,
+        "key": "Closure_153",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 93,
+        "key": "Closure_14",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 94,
+        "key": "Closure_155",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 95,
+        "key": "Closure_154",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 96,
+        "key": "Closure_156",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 97,
+        "key": "Closure_15",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 98,
+        "key": "Closure_159",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 99,
+        "key": "Closure_157",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 100,
+        "key": "Closure_158",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 101,
+        "key": "Closure_16",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 102,
+        "key": "Closure_161",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 103,
+        "key": "Closure_160",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 104,
+        "key": "Closure_164",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 105,
+        "key": "Closure_163",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 106,
+        "key": "Closure_165",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 107,
+        "key": "Closure_162",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 108,
+        "key": "Closure_166",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 109,
+        "key": "Closure_169",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 110,
+        "key": "Closure_17",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 111,
+        "key": "Closure_168",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 112,
+        "key": "Closure_173",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 113,
+        "key": "Closure_167",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 114,
+        "key": "Closure_175",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 115,
+        "key": "Closure_172",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 116,
+        "key": "Closure_171",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 117,
+        "key": "Closure_170",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 118,
+        "key": "Closure_2",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 119,
+        "key": "Closure_18",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 120,
+        "key": "Closure_174",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 121,
+        "key": "Closure_19",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 122,
+        "key": "Closure_176",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 123,
+        "key": "Closure_20",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 124,
+        "key": "Closure_22",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 125,
+        "key": "Closure_26",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 126,
+        "key": "Closure_33",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 127,
+        "key": "Closure_21",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 128,
+        "key": "Closure_29",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 129,
+        "key": "Closure_34",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 130,
+        "key": "Closure_23",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 131,
+        "key": "Closure_24",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 132,
+        "key": "Closure_25",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 133,
+        "key": "Closure_28",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 134,
+        "key": "Closure_27",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 135,
+        "key": "Closure_31",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 136,
+        "key": "Closure_30",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 137,
+        "key": "Closure_3",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 138,
+        "key": "Closure_35",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 139,
+        "key": "Closure_32",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 140,
+        "key": "Closure_38",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 141,
+        "key": "Closure_36",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 142,
+        "key": "Closure_37",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 143,
+        "key": "Closure_39",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 144,
+        "key": "Closure_41",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 145,
+        "key": "Closure_4",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 146,
+        "key": "Closure_40",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 147,
+        "key": "Closure_43",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 148,
+        "key": "Closure_42",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 149,
+        "key": "Closure_44",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 150,
+        "key": "Closure_48",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 151,
+        "key": "Closure_45",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 152,
+        "key": "Closure_46",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 153,
+        "key": "Closure_49",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 154,
+        "key": "Closure_50",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 155,
+        "key": "Closure_47",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 156,
+        "key": "Closure_5",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 157,
+        "key": "Closure_51",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 158,
+        "key": "Closure_53",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 159,
+        "key": "Closure_52",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 160,
+        "key": "Closure_55",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 161,
+        "key": "Closure_56",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 162,
+        "key": "Closure_57",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 163,
+        "key": "Closure_54",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 164,
+        "key": "Closure_59",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 165,
+        "key": "Closure_64",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 166,
+        "key": "Closure_62",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 167,
+        "key": "Closure_58",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 168,
+        "key": "Closure_65",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 169,
+        "key": "Closure_60",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 170,
+        "key": "Closure_61",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 171,
+        "key": "Closure_6",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 172,
+        "key": "Closure_69",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 173,
+        "key": "Closure_66",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 174,
+        "key": "Closure_70",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 175,
+        "key": "Closure_72",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 176,
+        "key": "Closure_68",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 177,
+        "key": "Closure_67",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 178,
+        "key": "Closure_75",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 179,
+        "key": "Closure_74",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 180,
+        "key": "Closure_7",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 181,
+        "key": "Closure_73",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 182,
+        "key": "Closure_76",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 183,
+        "key": "Closure_71",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 184,
+        "key": "Closure_79",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 185,
+        "key": "Closure_77",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 186,
+        "key": "Closure_78",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 187,
+        "key": "Closure_81",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 188,
+        "key": "Closure_80",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 189,
+        "key": "Closure_85",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 190,
+        "key": "Closure_84",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 191,
+        "key": "Closure_83",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 192,
+        "key": "Closure_87",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 193,
+        "key": "Closure_86",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 194,
+        "key": "Closure_82",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 195,
+        "key": "Closure_88",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 196,
+        "key": "Closure_8",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 197,
+        "key": "Closure_89",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 198,
+        "key": "Codec_1",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 199,
+        "key": "Closure_92",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 200,
+        "key": "Closure_90",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 201,
+        "key": "Closure_91",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 202,
+        "key": "Closure_94",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 203,
+        "key": "Closure_95",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 204,
+        "key": "Codec_10",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 205,
+        "key": "Codec_14",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 206,
+        "key": "Closure_98",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 207,
+        "key": "Closure_99",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 208,
+        "key": "Closure_9",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 209,
+        "key": "Closure_96",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 210,
+        "key": "Closure_97",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 211,
+        "key": "Codec_11",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 212,
+        "key": "Codec_12",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 213,
+        "key": "Codec_16",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 214,
+        "key": "Codec_13",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 215,
+        "key": "Codec_15",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 216,
+        "key": "Codec_17",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 217,
+        "key": "Codec_2",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 218,
+        "key": "Collections_27",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 219,
+        "key": "Codec_5",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 220,
+        "key": "Codec_3",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 221,
+        "key": "Codec_6",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 222,
+        "key": "Codec_4",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 223,
+        "key": "Codec_18",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 224,
+        "key": "Codec_8",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 225,
+        "key": "Codec_7",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 226,
+        "key": "Codec_9",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 227,
+        "key": "Compress_1",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 228,
+        "key": "Compress_12",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 229,
+        "key": "Compress_11",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 230,
+        "key": "Compress_14",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 231,
+        "key": "Collections_26",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 232,
+        "key": "Compress_10",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 233,
+        "key": "Compress_22",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 234,
+        "key": "Collections_25",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 235,
+        "key": "Compress_13",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 236,
+        "key": "Compress_17",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 237,
+        "key": "Compress_15",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 238,
+        "key": "Compress_21",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 239,
+        "key": "Compress_16",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 240,
+        "key": "Collections_28",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 241,
+        "key": "Compress_20",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 242,
+        "key": "Compress_23",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 243,
+        "key": "Compress_2",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 244,
+        "key": "Compress_18",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 245,
+        "key": "Compress_31",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 246,
+        "key": "Compress_24",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 247,
+        "key": "Compress_19",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 248,
+        "key": "Compress_27",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 249,
+        "key": "Compress_25",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 250,
+        "key": "Compress_3",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 251,
+        "key": "Compress_26",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 252,
+        "key": "Compress_28",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 253,
+        "key": "Compress_32",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 254,
+        "key": "Compress_29",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 255,
+        "key": "Compress_37",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 256,
+        "key": "Compress_35",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 257,
+        "key": "Compress_30",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 258,
+        "key": "Compress_33",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 259,
+        "key": "Compress_34",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 260,
+        "key": "Compress_36",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 261,
+        "key": "Compress_38",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 262,
+        "key": "Compress_40",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 263,
+        "key": "Compress_39",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 264,
+        "key": "Compress_41",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 265,
+        "key": "Compress_5",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 266,
+        "key": "Compress_43",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 267,
+        "key": "Compress_8",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 268,
+        "key": "Compress_7",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 269,
+        "key": "Compress_6",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 270,
+        "key": "Compress_42",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 271,
+        "key": "Compress_45",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 272,
+        "key": "Csv_1",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 273,
+        "key": "Compress_44",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 274,
+        "key": "Compress_47",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 275,
+        "key": "Compress_46",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 276,
+        "key": "Compress_9",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 277,
+        "key": "Csv_12",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 278,
+        "key": "Csv_13",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 279,
+        "key": "Csv_10",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 280,
+        "key": "Csv_11",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 281,
+        "key": "Csv_3",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 282,
+        "key": "Csv_14",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 283,
+        "key": "Csv_6",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 284,
+        "key": "Csv_15",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 285,
+        "key": "Csv_8",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 286,
+        "key": "Csv_7",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 287,
+        "key": "Csv_16",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 288,
+        "key": "Csv_2",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 289,
+        "key": "Csv_4",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 290,
+        "key": "Csv_5",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 291,
+        "key": "Gson_13",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 292,
+        "key": "Csv_9",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 293,
+        "key": "Gson_1",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 294,
+        "key": "Gson_3",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 295,
+        "key": "Gson_12",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 296,
+        "key": "Gson_14",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 297,
+        "key": "Gson_10",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 298,
+        "key": "JacksonCore_11",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 299,
+        "key": "Gson_18",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 300,
+        "key": "Gson_8",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 301,
+        "key": "Gson_15",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 302,
+        "key": "Gson_5",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 303,
+        "key": "JacksonCore_1",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 304,
+        "key": "JacksonCore_17",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 305,
+        "key": "Gson_7",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 306,
+        "key": "JacksonCore_10",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 307,
+        "key": "JacksonCore_14",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 308,
+        "key": "JacksonCore_15",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 309,
+        "key": "JacksonCore_12",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 310,
+        "key": "JacksonCore_18",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 311,
+        "key": "JacksonCore_4",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 312,
+        "key": "JacksonCore_2",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 313,
+        "key": "JacksonCore_16",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 314,
+        "key": "JacksonCore_19",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 315,
+        "key": "JacksonCore_20",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 316,
+        "key": "JacksonCore_22",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 317,
+        "key": "JacksonCore_21",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 318,
+        "key": "JacksonDatabind_10",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 319,
+        "key": "JacksonCore_3",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 320,
+        "key": "JacksonCore_24",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 321,
+        "key": "JacksonCore_6",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 322,
+        "key": "JacksonCore_26",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 323,
+        "key": "JacksonCore_23",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 324,
+        "key": "JacksonCore_7",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 325,
+        "key": "JacksonDatabind_1",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 326,
+        "key": "JacksonCore_5",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 327,
+        "key": "JacksonCore_8",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 328,
+        "key": "JacksonCore_9",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 329,
+        "key": "JacksonDatabind_104",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 330,
+        "key": "JacksonDatabind_102",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 331,
+        "key": "JacksonDatabind_100",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 332,
+        "key": "JacksonDatabind_101",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 333,
+        "key": "JacksonDatabind_108",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 334,
+        "key": "JacksonDatabind_11",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 335,
+        "key": "JacksonDatabind_109",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 336,
+        "key": "JacksonDatabind_106",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 337,
+        "key": "JacksonDatabind_105",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 338,
+        "key": "JacksonDatabind_107",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 339,
+        "key": "JacksonDatabind_103",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 340,
+        "key": "JacksonDatabind_12",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 341,
+        "key": "JacksonDatabind_111",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 342,
+        "key": "JacksonDatabind_110",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 343,
+        "key": "JacksonDatabind_2",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 344,
+        "key": "JacksonDatabind_112",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 345,
+        "key": "JacksonDatabind_15",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 346,
+        "key": "JacksonDatabind_13",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 347,
+        "key": "JacksonDatabind_14",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 348,
+        "key": "JacksonDatabind_18",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 349,
+        "key": "JacksonDatabind_16",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 350,
+        "key": "JacksonDatabind_17",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 351,
+        "key": "JacksonDatabind_3",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 352,
+        "key": "JacksonDatabind_19",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 353,
+        "key": "JacksonDatabind_21",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 354,
+        "key": "JacksonDatabind_25",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 355,
+        "key": "JacksonDatabind_23",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 356,
+        "key": "JacksonDatabind_20",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 357,
+        "key": "JacksonDatabind_26",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 358,
+        "key": "JacksonDatabind_24",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 359,
+        "key": "JacksonDatabind_22",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 360,
+        "key": "JacksonDatabind_32",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 361,
+        "key": "JacksonDatabind_27",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 362,
+        "key": "JacksonDatabind_28",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 363,
+        "key": "JacksonDatabind_30",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 364,
+        "key": "JacksonDatabind_31",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 365,
+        "key": "JacksonDatabind_34",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 366,
+        "key": "JacksonDatabind_35",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 367,
+        "key": "JacksonDatabind_33",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 368,
+        "key": "JacksonDatabind_39",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 369,
+        "key": "JacksonDatabind_38",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 370,
+        "key": "JacksonDatabind_4",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 371,
+        "key": "JacksonDatabind_47",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 372,
+        "key": "JacksonDatabind_37",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 373,
+        "key": "JacksonDatabind_50",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 374,
+        "key": "JacksonDatabind_36",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 375,
+        "key": "JacksonDatabind_49",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 376,
+        "key": "JacksonDatabind_53",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 377,
+        "key": "JacksonDatabind_41",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 378,
+        "key": "JacksonDatabind_40",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 379,
+        "key": "JacksonDatabind_55",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 380,
+        "key": "JacksonDatabind_42",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 381,
+        "key": "JacksonDatabind_58",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 382,
+        "key": "JacksonDatabind_5",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 383,
+        "key": "JacksonDatabind_60",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 384,
+        "key": "JacksonDatabind_44",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 385,
+        "key": "JacksonDatabind_46",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 386,
+        "key": "JacksonDatabind_51",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 387,
+        "key": "JacksonDatabind_48",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 388,
+        "key": "JacksonDatabind_52",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 389,
+        "key": "JacksonDatabind_54",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 390,
+        "key": "JacksonDatabind_59",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 391,
+        "key": "JacksonDatabind_61",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 392,
+        "key": "JacksonDatabind_6",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 393,
+        "key": "JacksonDatabind_62",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 394,
+        "key": "JacksonDatabind_57",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 395,
+        "key": "JacksonDatabind_63",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 396,
+        "key": "JacksonDatabind_64",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 397,
+        "key": "JacksonDatabind_56",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 398,
+        "key": "JacksonDatabind_7",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 399,
+        "key": "JacksonDatabind_67",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 400,
+        "key": "JacksonDatabind_66",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 401,
+        "key": "JacksonDatabind_68",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 402,
+        "key": "JacksonDatabind_70",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 403,
+        "key": "JacksonDatabind_71",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 404,
+        "key": "JacksonDatabind_69",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 405,
+        "key": "JacksonDatabind_72",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 406,
+        "key": "JacksonDatabind_76",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 407,
+        "key": "JacksonDatabind_73",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 408,
+        "key": "JacksonDatabind_75",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 409,
+        "key": "JacksonDatabind_82",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 410,
+        "key": "JacksonDatabind_85",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 411,
+        "key": "JacksonDatabind_90",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 412,
+        "key": "JacksonDatabind_74",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 413,
+        "key": "JacksonDatabind_92",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 414,
+        "key": "JacksonDatabind_93",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 415,
+        "key": "JacksonDatabind_91",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 416,
+        "key": "JacksonDatabind_79",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 417,
+        "key": "JacksonDatabind_9",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 418,
+        "key": "JacksonDatabind_80",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 419,
+        "key": "JacksonDatabind_8",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 420,
+        "key": "JacksonDatabind_83",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 421,
+        "key": "JacksonDatabind_84",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 422,
+        "key": "JacksonDatabind_81",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 423,
+        "key": "JacksonDatabind_98",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 424,
+        "key": "JacksonDatabind_88",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 425,
+        "key": "JacksonXml_1",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 426,
+        "key": "JacksonDatabind_86",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 427,
+        "key": "JacksonDatabind_94",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 428,
+        "key": "JacksonXml_4",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 429,
+        "key": "JacksonXml_2",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 430,
+        "key": "JacksonDatabind_87",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 431,
+        "key": "JacksonXml_5",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 432,
+        "key": "JacksonDatabind_96",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 433,
+        "key": "JacksonXml_3",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 434,
+        "key": "Jsoup_1",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 435,
+        "key": "JacksonXml_6",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 436,
+        "key": "Jsoup_12",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 437,
+        "key": "Jsoup_11",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 438,
+        "key": "Jsoup_10",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 439,
+        "key": "Jsoup_15",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 440,
+        "key": "JacksonDatabind_95",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 441,
+        "key": "JacksonDatabind_97",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 442,
+        "key": "Jsoup_16",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 443,
+        "key": "Jsoup_13",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 444,
+        "key": "JacksonDatabind_99",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 445,
+        "key": "Jsoup_14",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 446,
+        "key": "Jsoup_17",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 447,
+        "key": "Jsoup_18",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 448,
+        "key": "Jsoup_2",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 449,
+        "key": "Jsoup_19",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 450,
+        "key": "Jsoup_22",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 451,
+        "key": "Jsoup_27",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 452,
+        "key": "Jsoup_24",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 453,
+        "key": "Jsoup_21",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 454,
+        "key": "Jsoup_20",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 455,
+        "key": "Jsoup_3",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 456,
+        "key": "Jsoup_23",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 457,
+        "key": "Jsoup_25",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 458,
+        "key": "Jsoup_26",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 459,
+        "key": "Jsoup_28",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 460,
+        "key": "Jsoup_29",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 461,
+        "key": "Jsoup_30",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 462,
+        "key": "Jsoup_32",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 463,
+        "key": "Jsoup_33",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 464,
+        "key": "Jsoup_31",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 465,
+        "key": "Jsoup_34",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 466,
+        "key": "Jsoup_35",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 467,
+        "key": "Jsoup_36",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 468,
+        "key": "Jsoup_37",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 469,
+        "key": "Jsoup_39",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 470,
+        "key": "Jsoup_38",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 471,
+        "key": "Jsoup_4",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 472,
+        "key": "Jsoup_41",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 473,
+        "key": "Jsoup_40",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 474,
+        "key": "Jsoup_42",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 475,
+        "key": "Jsoup_43",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 476,
+        "key": "Jsoup_46",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 477,
+        "key": "Jsoup_48",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 478,
+        "key": "Jsoup_44",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 479,
+        "key": "Jsoup_49",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 480,
+        "key": "Jsoup_50",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 481,
+        "key": "Jsoup_5",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 482,
+        "key": "Jsoup_47",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 483,
+        "key": "Jsoup_51",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 484,
+        "key": "Jsoup_53",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 485,
+        "key": "Jsoup_54",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 486,
+        "key": "Jsoup_52",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 487,
+        "key": "Jsoup_55",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 488,
+        "key": "Jsoup_57",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 489,
+        "key": "Jsoup_56",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 490,
+        "key": "Jsoup_6",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 491,
+        "key": "Jsoup_60",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 492,
+        "key": "Jsoup_58",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 493,
+        "key": "Jsoup_59",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 494,
+        "key": "Jsoup_63",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 495,
+        "key": "Jsoup_61",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 496,
+        "key": "Jsoup_62",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 497,
+        "key": "Jsoup_64",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 498,
+        "key": "Jsoup_65",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 499,
+        "key": "Jsoup_68",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 500,
+        "key": "Jsoup_66",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 501,
+        "key": "Jsoup_7",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 502,
+        "key": "Jsoup_69",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 503,
+        "key": "Jsoup_67",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 504,
+        "key": "Jsoup_70",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 505,
+        "key": "Jsoup_71",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 506,
+        "key": "Jsoup_73",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 507,
+        "key": "Jsoup_72",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 508,
+        "key": "Jsoup_74",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 509,
+        "key": "Jsoup_8",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 510,
+        "key": "Jsoup_75",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 511,
+        "key": "Jsoup_87",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 512,
+        "key": "Jsoup_78",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 513,
+        "key": "Jsoup_76",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 514,
+        "key": "Jsoup_79",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 515,
+        "key": "Jsoup_77",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 516,
+        "key": "Jsoup_80",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 517,
+        "key": "Jsoup_81",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 518,
+        "key": "Jsoup_84",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 519,
+        "key": "Jsoup_91",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 520,
+        "key": "Jsoup_82",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 521,
+        "key": "Jsoup_83",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 522,
+        "key": "Jsoup_9",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 523,
+        "key": "Jsoup_85",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 524,
+        "key": "Jsoup_90",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 525,
+        "key": "Jsoup_89",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 526,
+        "key": "Jsoup_86",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 527,
+        "key": "Jsoup_88",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 528,
+        "key": "Jsoup_93",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 529,
+        "key": "JxPath_11",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 530,
+        "key": "JxPath_1",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 531,
+        "key": "JxPath_10",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 532,
+        "key": "Jsoup_92",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 533,
+        "key": "JxPath_4",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 534,
+        "key": "JxPath_22",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 535,
+        "key": "JxPath_15",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 536,
+        "key": "JxPath_14",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 537,
+        "key": "JxPath_16",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 538,
+        "key": "JxPath_17",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 539,
+        "key": "JxPath_18",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 540,
+        "key": "JxPath_2",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 541,
+        "key": "JxPath_19",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 542,
+        "key": "JxPath_20",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 543,
+        "key": "JxPath_5",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 544,
+        "key": "JxPath_3",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 545,
+        "key": "JxPath_21",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 546,
+        "key": "JxPath_6",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 547,
+        "key": "JxPath_9",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 548,
+        "key": "JxPath_8",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 549,
+        "key": "Lang_10",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 550,
+        "key": "Lang_1",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 551,
+        "key": "Lang_15",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 552,
+        "key": "Lang_11",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 553,
+        "key": "Lang_12",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 554,
+        "key": "Lang_13",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 555,
+        "key": "Lang_14",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 556,
+        "key": "Lang_17",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 557,
+        "key": "Lang_16",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 558,
+        "key": "Lang_19",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 559,
+        "key": "Lang_21",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 560,
+        "key": "Lang_20",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 561,
+        "key": "Lang_29",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 562,
+        "key": "Lang_22",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 563,
+        "key": "Lang_32",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 564,
+        "key": "Lang_23",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 565,
+        "key": "Lang_24",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 566,
+        "key": "Lang_26",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 567,
+        "key": "Lang_27",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 568,
+        "key": "Lang_28",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 569,
+        "key": "Lang_34",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 570,
+        "key": "Lang_3",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 571,
+        "key": "Lang_31",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 572,
+        "key": "Lang_33",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 573,
+        "key": "Lang_35",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 574,
+        "key": "Lang_36",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 575,
+        "key": "Lang_38",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 576,
+        "key": "Lang_37",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 577,
+        "key": "Lang_39",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 578,
+        "key": "Lang_40",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 579,
+        "key": "Lang_42",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 580,
+        "key": "Lang_4",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 581,
+        "key": "Lang_43",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 582,
+        "key": "Lang_41",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 583,
+        "key": "Lang_44",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 584,
+        "key": "Lang_45",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 585,
+        "key": "Lang_46",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 586,
+        "key": "Lang_49",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 587,
+        "key": "Lang_47",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 588,
+        "key": "Lang_50",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 589,
+        "key": "Lang_5",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 590,
+        "key": "Lang_51",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 591,
+        "key": "Lang_52",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 592,
+        "key": "Lang_53",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 593,
+        "key": "Lang_54",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 594,
+        "key": "Lang_56",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 595,
+        "key": "Lang_57",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 596,
+        "key": "Lang_58",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 597,
+        "key": "Lang_59",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 598,
+        "key": "Lang_6",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 599,
+        "key": "Lang_60",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 600,
+        "key": "Lang_62",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 601,
+        "key": "Lang_61",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 602,
+        "key": "Lang_63",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 603,
+        "key": "Lang_64",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 604,
+        "key": "Lang_65",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 605,
+        "key": "Lang_7",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 606,
+        "key": "Lang_9",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 607,
+        "key": "Lang_8",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 608,
+        "key": "Math_100",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 609,
+        "key": "Math_104",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 610,
+        "key": "Math_103",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 611,
+        "key": "Math_101",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 612,
+        "key": "Math_102",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 613,
+        "key": "Math_105",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 614,
+        "key": "Math_106",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 615,
+        "key": "Math_10",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 616,
+        "key": "Math_1",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 617,
+        "key": "Math_13",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 618,
+        "key": "Math_14",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 619,
+        "key": "Math_12",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 620,
+        "key": "Math_11",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 621,
+        "key": "Math_20",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 622,
+        "key": "Math_17",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 623,
+        "key": "Math_15",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 624,
+        "key": "Math_18",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 625,
+        "key": "Math_16",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 626,
+        "key": "Math_19",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 627,
+        "key": "Math_21",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 628,
+        "key": "Math_2",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 629,
+        "key": "Math_22",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 630,
+        "key": "Math_28",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 631,
+        "key": "Math_23",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 632,
+        "key": "Math_25",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 633,
+        "key": "Math_24",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 634,
+        "key": "Math_26",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 635,
+        "key": "Math_27",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 636,
+        "key": "Math_30",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 637,
+        "key": "Math_29",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 638,
+        "key": "Math_31",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 639,
+        "key": "Math_3",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 640,
+        "key": "Math_34",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 641,
+        "key": "Math_33",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 642,
+        "key": "Math_32",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 643,
+        "key": "Math_35",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 644,
+        "key": "Math_36",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 645,
+        "key": "Math_37",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 646,
+        "key": "Math_38",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 647,
+        "key": "Math_49",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 648,
+        "key": "Math_40",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 649,
+        "key": "Math_39",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 650,
+        "key": "Math_4",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 651,
+        "key": "Math_42",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 652,
+        "key": "Math_41",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 653,
+        "key": "Math_45",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 654,
+        "key": "Math_44",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 655,
+        "key": "Math_43",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 656,
+        "key": "Math_48",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 657,
+        "key": "Math_47",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 658,
+        "key": "Math_50",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 659,
+        "key": "Math_52",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 660,
+        "key": "Math_5",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 661,
+        "key": "Math_56",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 662,
+        "key": "Math_53",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 663,
+        "key": "Math_57",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 664,
+        "key": "Math_55",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 665,
+        "key": "Math_54",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 666,
+        "key": "Math_58",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 667,
+        "key": "Math_61",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 668,
+        "key": "Math_68",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 669,
+        "key": "Math_60",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 670,
+        "key": "Math_59",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 671,
+        "key": "Math_62",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 672,
+        "key": "Math_6",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 673,
+        "key": "Math_65",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 674,
+        "key": "Math_66",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 675,
+        "key": "Math_63",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 676,
+        "key": "Math_64",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 677,
+        "key": "Math_67",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 678,
+        "key": "Math_70",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 679,
+        "key": "Math_69",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 680,
+        "key": "Math_72",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 681,
+        "key": "Math_73",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 682,
+        "key": "Math_71",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 683,
+        "key": "Math_7",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 684,
+        "key": "Math_74",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 685,
+        "key": "Math_78",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 686,
+        "key": "Math_75",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 687,
+        "key": "Math_76",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 688,
+        "key": "Math_77",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 689,
+        "key": "Math_79",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 690,
+        "key": "Math_80",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 691,
+        "key": "Math_81",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 692,
+        "key": "Math_82",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 693,
+        "key": "Math_83",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 694,
+        "key": "Math_85",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 695,
+        "key": "Math_84",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 696,
+        "key": "Math_8",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 697,
+        "key": "Math_86",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 698,
+        "key": "Math_87",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 699,
+        "key": "Math_88",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 700,
+        "key": "Math_89",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 701,
+        "key": "Math_95",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 702,
+        "key": "Math_96",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 703,
+        "key": "Math_97",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 704,
+        "key": "Math_9",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 705,
+        "key": "Math_93",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 706,
+        "key": "Math_92",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 707,
+        "key": "Math_94",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 708,
+        "key": "Math_98",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 709,
+        "key": "Math_90",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 710,
+        "key": "Math_91",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 711,
+        "key": "Mockito_20",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 712,
+        "key": "Math_99",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 713,
+        "key": "Mockito_19",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 714,
+        "key": "Mockito_5",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 715,
+        "key": "Mockito_7",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 716,
+        "key": "Mockito_11",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 717,
+        "key": "Mockito_10",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 718,
+        "key": "Time_10",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 719,
+        "key": "Mockito_3",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 720,
+        "key": "Time_11",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 721,
+        "key": "Time_12",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 722,
+        "key": "Time_13",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 723,
+        "key": "Mockito_4",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 724,
+        "key": "Time_14",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 725,
+        "key": "Time_15",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 726,
+        "key": "Time_16",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 727,
+        "key": "Time_17",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 728,
+        "key": "Mockito_18",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 729,
+        "key": "Mockito_2",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 730,
+        "key": "Mockito_8",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 731,
+        "key": "Time_18",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 732,
+        "key": "Mockito_6",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 733,
+        "key": "Time_19",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 734,
+        "key": "Time_2",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 735,
+        "key": "Time_4",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 736,
+        "key": "Time_3",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 737,
+        "key": "Time_20",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 738,
+        "key": "Time_6",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 739,
+        "key": "Time_5",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 740,
+        "key": "Time_7",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 741,
+        "key": "Time_9",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 742,
+        "key": "Time_8",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gemini-2.5-flash-lite",
+        "model_b": "mistral-nemo-12b",
+        "idx": 743,
+        "key": "Mockito_9",
+        "winner": "model_b"
+    }
+]

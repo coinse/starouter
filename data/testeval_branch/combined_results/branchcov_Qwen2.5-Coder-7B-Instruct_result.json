@@ -1,0 +1,3934 @@
+{
+  "4_15_16": {
+    "difficulty": 1,
+    "covered": true
+  },
+  "4_28_32": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "4_29_30": {
+    "difficulty": 1,
+    "covered": false
+  },
+  "4_31_32": {
+    "difficulty": 1,
+    "covered": true
+  },
+  "4_33_34": {
+    "difficulty": 1,
+    "covered": false
+  },
+  "4_35_36": {
+    "difficulty": 1,
+    "covered": true
+  },
+  "10_22_23": {
+    "difficulty": 2,
+    "covered": true
+  },
+  "10_27_30": {
+    "difficulty": 2,
+    "covered": true
+  },
+  "10_31_32": {
+    "difficulty": 1,
+    "covered": true
+  },
+  "15_13_14": {
+    "difficulty": 2,
+    "covered": true
+  },
+  "15_21_22": {
+    "difficulty": 1,
+    "covered": false
+  },
+  "15_28_35": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "15_36_37": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "15_38_39": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "44_22_23": {
+    "difficulty": 1,
+    "covered": true
+  },
+  "44_27_30": {
+    "difficulty": 1,
+    "covered": true
+  },
+  "44_31_32": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "54_13_14": {
+    "difficulty": 2,
+    "covered": true
+  },
+  "65_14_15": {
+    "difficulty": 2,
+    "covered": true
+  },
+  "65_22_25": {
+    "difficulty": 2,
+    "covered": true
+  },
+  "65_23_24": {
+    "difficulty": 2,
+    "covered": false
+  },
+  "65_26_30": {
+    "difficulty": 2,
+    "covered": true
+  },
+  "65_27_28": {
+    "difficulty": 2,
+    "covered": true
+  },
+  "65_31_34": {
+    "difficulty": 2,
+    "covered": true
+  },
+  "65_35_38": {
+    "difficulty": 1,
+    "covered": true
+  },
+  "65_32_33": {
+    "difficulty": 2,
+    "covered": true
+  },
+  "65_36_37": {
+    "difficulty": 1,
+    "covered": true
+  },
+  "73_29_30": {
+    "difficulty": 2,
+    "covered": true
+  },
+  "73_32_34": {
+    "difficulty": 2,
+    "covered": false
+  },
+  "73_20_22": {
+    "difficulty": 2,
+    "covered": true
+  },
+  "73_26_27": {
+    "difficulty": 2,
+    "covered": true
+  },
+  "97_15_16": {
+    "difficulty": 1,
+    "covered": true
+  },
+  "126_21_22": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "126_48_49": {
+    "difficulty": 2,
+    "covered": false
+  },
+  "126_54_56": {
+    "difficulty": 2,
+    "covered": true
+  },
+  "126_57_58": {
+    "difficulty": 2,
+    "covered": false
+  },
+  "126_17_18": {
+    "difficulty": 2,
+    "covered": true
+  },
+  "126_45_46": {
+    "difficulty": 2,
+    "covered": true
+  },
+  "126_60_63": {
+    "difficulty": 2,
+    "covered": true
+  },
+  "126_36_37": {
+    "difficulty": 2,
+    "covered": false
+  },
+  "126_38_39": {
+    "difficulty": 2,
+    "covered": false
+  },
+  "126_40_42": {
+    "difficulty": 2,
+    "covered": true
+  },
+  "130_13_14": {
+    "difficulty": 2,
+    "covered": true
+  },
+  "130_23_26": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "130_33_34": {
+    "difficulty": 0,
+    "covered": false
+  },
+  "130_35_36": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "130_42_43": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "130_44_45": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "130_24_26": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "132_26_28": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "132_31_32": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "218_14_15": {
+    "difficulty": 2,
+    "covered": true
+  },
+  "218_16_18": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "218_52_54": {
+    "difficulty": 0,
+    "covered": false
+  },
+  "218_55_56": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "218_32_35": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "218_36_39": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "227_19_20": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "227_21_33": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "227_22_24": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "227_25_26": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "227_27_31": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "227_28_29": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "227_30_31": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "289_23_24": {
+    "difficulty": 1,
+    "covered": true
+  },
+  "289_26_27": {
+    "difficulty": 1,
+    "covered": false
+  },
+  "310_13_14": {
+    "difficulty": 2,
+    "covered": true
+  },
+  "310_24_25": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "310_33_34": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "327_21_22": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "327_46_49": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "327_50_53": {
+    "difficulty": 0,
+    "covered": false
+  },
+  "335_13_14": {
+    "difficulty": 2,
+    "covered": true
+  },
+  "335_17_18": {
+    "difficulty": 1,
+    "covered": false
+  },
+  "335_19_20": {
+    "difficulty": 2,
+    "covered": false
+  },
+  "335_21_22": {
+    "difficulty": 2,
+    "covered": false
+  },
+  "336_17_18": {
+    "difficulty": 1,
+    "covered": false
+  },
+  "336_23_24": {
+    "difficulty": 1,
+    "covered": true
+  },
+  "336_25_26": {
+    "difficulty": 1,
+    "covered": true
+  },
+  "391_33_34": {
+    "difficulty": 0,
+    "covered": false
+  },
+  "391_35_36": {
+    "difficulty": 2,
+    "covered": false
+  },
+  "391_28_29": {
+    "difficulty": 1,
+    "covered": true
+  },
+  "391_30_31": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "402_13_14": {
+    "difficulty": 2,
+    "covered": true
+  },
+  "402_29_30": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "407_37_38": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "407_39_40": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "407_41_43": {
+    "difficulty": 1,
+    "covered": true
+  },
+  "407_44_45": {
+    "difficulty": 1,
+    "covered": true
+  },
+  "417_53_54": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "417_40_41": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "417_42_43": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "420_34_35": {
+    "difficulty": 2,
+    "covered": true
+  },
+  "420_36_37": {
+    "difficulty": 2,
+    "covered": false
+  },
+  "420_21_30": {
+    "difficulty": 2,
+    "covered": true
+  },
+  "420_31_32": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "420_27_28": {
+    "difficulty": 2,
+    "covered": true
+  },
+  "420_29_30": {
+    "difficulty": 2,
+    "covered": false
+  },
+  "423_16_17": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "423_18_19": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "423_20_21": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "423_22_23": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "423_24_25": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "423_26_27": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "423_28_29": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "423_30_31": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "423_32_33": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "423_34_35": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "457_16_17": {
+    "difficulty": 2,
+    "covered": true
+  },
+  "457_20_21": {
+    "difficulty": 1,
+    "covered": true
+  },
+  "457_26_29": {
+    "difficulty": 2,
+    "covered": false
+  },
+  "457_27_28": {
+    "difficulty": 2,
+    "covered": false
+  },
+  "524_20_22": {
+    "difficulty": 1,
+    "covered": true
+  },
+  "524_18_19": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "524_21_22": {
+    "difficulty": 1,
+    "covered": true
+  },
+  "542_21_23": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "542_30_31": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "542_32_33": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "547_20_21": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "547_22_23": {
+    "difficulty": 1,
+    "covered": false
+  },
+  "547_32_33": {
+    "difficulty": 0,
+    "covered": false
+  },
+  "547_24_25": {
+    "difficulty": 0,
+    "covered": false
+  },
+  "547_26_28": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "547_44_45": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "581_18_19": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "581_20_21": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "581_26_27": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "581_28_29": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "581_32_33": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "581_36_37": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "591_13_14": {
+    "difficulty": 2,
+    "covered": true
+  },
+  "591_24_25": {
+    "difficulty": 2,
+    "covered": false
+  },
+  "591_26_27": {
+    "difficulty": 2,
+    "covered": true
+  },
+  "591_29_30": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "591_38_39": {
+    "difficulty": 2,
+    "covered": false
+  },
+  "591_40_53": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "591_41_44": {
+    "difficulty": 2,
+    "covered": false
+  },
+  "591_43_44": {
+    "difficulty": 2,
+    "covered": false
+  },
+  "591_45_48": {
+    "difficulty": 0,
+    "covered": false
+  },
+  "591_49_52": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "591_47_48": {
+    "difficulty": 2,
+    "covered": false
+  },
+  "591_51_52": {
+    "difficulty": 2,
+    "covered": true
+  },
+  "648_18_19": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "648_26_27": {
+    "difficulty": 1,
+    "covered": true
+  },
+  "648_28_29": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "673_28_30": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "673_20_25": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "673_31_32": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "673_21_23": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "673_24_25": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "684_19_20": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "684_21_22": {
+    "difficulty": 0,
+    "covered": false
+  },
+  "684_31_32": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "684_23_24": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "684_25_27": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "684_42_43": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "685_19_20": {
+    "difficulty": 2,
+    "covered": false
+  },
+  "685_21_22": {
+    "difficulty": 0,
+    "covered": false
+  },
+  "685_31_32": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "685_57_58": {
+    "difficulty": 2,
+    "covered": false
+  },
+  "685_23_24": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "685_25_27": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "685_43_44": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "685_62_64": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "685_50_51": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "685_52_53": {
+    "difficulty": 2,
+    "covered": false
+  },
+  "685_63_64": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "688_24_25": {
+    "difficulty": 1,
+    "covered": true
+  },
+  "689_21_22": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "689_23_24": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "689_28_29": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "689_34_35": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "689_41_44": {
+    "difficulty": 0,
+    "covered": false
+  },
+  "691_18_19": {
+    "difficulty": 1,
+    "covered": true
+  },
+  "691_24_26": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "722_41_43": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "722_20_24": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "722_26_28": {
+    "difficulty": 1,
+    "covered": true
+  },
+  "722_21_22": {
+    "difficulty": 0,
+    "covered": false
+  },
+  "722_29_31": {
+    "difficulty": 1,
+    "covered": false
+  },
+  "722_32_36": {
+    "difficulty": 1,
+    "covered": false
+  },
+  "722_37_40": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "722_33_34": {
+    "difficulty": 1,
+    "covered": false
+  },
+  "722_35_36": {
+    "difficulty": 2,
+    "covered": false
+  },
+  "722_38_39": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "730_23_35": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "730_36_37": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "730_30_31": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "730_32_33": {
+    "difficulty": 0,
+    "covered": false
+  },
+  "730_34_35": {
+    "difficulty": 0,
+    "covered": false
+  },
+  "735_16_17": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "735_18_26": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "735_21_22": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "735_23_24": {
+    "difficulty": 1,
+    "covered": true
+  },
+  "735_25_26": {
+    "difficulty": 0,
+    "covered": false
+  },
+  "743_28_29": {
+    "difficulty": 1,
+    "covered": false
+  },
+  "743_31_33": {
+    "difficulty": 1,
+    "covered": true
+  },
+  "770_13_14": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "770_15_16": {
+    "difficulty": 1,
+    "covered": true
+  },
+  "770_56_57": {
+    "difficulty": 1,
+    "covered": false
+  },
+  "770_58_59": {
+    "difficulty": 2,
+    "covered": false
+  },
+  "770_99_100": {
+    "difficulty": 0,
+    "covered": false
+  },
+  "770_37_38": {
+    "difficulty": 2,
+    "covered": true
+  },
+  "770_41_42": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "770_47_48": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "770_66_68": {
+    "difficulty": 2,
+    "covered": true
+  },
+  "770_69_71": {
+    "difficulty": 2,
+    "covered": false
+  },
+  "770_81_82": {
+    "difficulty": 2,
+    "covered": true
+  },
+  "770_90_93": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "770_107_108": {
+    "difficulty": 2,
+    "covered": false
+  },
+  "770_112_113": {
+    "difficulty": 2,
+    "covered": true
+  },
+  "770_129_137": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "770_91_92": {
+    "difficulty": 0,
+    "covered": false
+  },
+  "770_94_98": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "770_114_117": {
+    "difficulty": 2,
+    "covered": true
+  },
+  "770_132_133": {
+    "difficulty": 1,
+    "covered": true
+  },
+  "770_138_139": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "770_140_141": {
+    "difficulty": 2,
+    "covered": true
+  },
+  "770_95_96": {
+    "difficulty": 2,
+    "covered": true
+  },
+  "770_118_121": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "770_122_123": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "770_134_135": {
+    "difficulty": 1,
+    "covered": true
+  },
+  "770_136_137": {
+    "difficulty": 1,
+    "covered": true
+  },
+  "777_13_14": {
+    "difficulty": 0,
+    "covered": false
+  },
+  "777_24_25": {
+    "difficulty": 2,
+    "covered": true
+  },
+  "777_26_27": {
+    "difficulty": 2,
+    "covered": false
+  },
+  "777_28_29": {
+    "difficulty": 2,
+    "covered": false
+  },
+  "777_30_31": {
+    "difficulty": 2,
+    "covered": false
+  },
+  "782_23_24": {
+    "difficulty": 2,
+    "covered": false
+  },
+  "782_25_26": {
+    "difficulty": 2,
+    "covered": false
+  },
+  "782_31_35": {
+    "difficulty": 2,
+    "covered": false
+  },
+  "782_36_38": {
+    "difficulty": 2,
+    "covered": true
+  },
+  "782_32_33": {
+    "difficulty": 2,
+    "covered": false
+  },
+  "782_34_35": {
+    "difficulty": 2,
+    "covered": false
+  },
+  "782_17_18": {
+    "difficulty": 0,
+    "covered": false
+  },
+  "786_34_35": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "786_28_29": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "786_30_32": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "786_36_37": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "786_38_39": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "787_30_31": {
+    "difficulty": 1,
+    "covered": true
+  },
+  "787_32_33": {
+    "difficulty": 1,
+    "covered": false
+  },
+  "787_35_37": {
+    "difficulty": 1,
+    "covered": true
+  },
+  "794_19_20": {
+    "difficulty": 0,
+    "covered": false
+  },
+  "794_21_22": {
+    "difficulty": 2,
+    "covered": true
+  },
+  "805_15_16": {
+    "difficulty": 1,
+    "covered": false
+  },
+  "805_27_28": {
+    "difficulty": 2,
+    "covered": true
+  },
+  "815_13_14": {
+    "difficulty": 2,
+    "covered": true
+  },
+  "815_30_31": {
+    "difficulty": 1,
+    "covered": true
+  },
+  "815_34_35": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "838_18_23": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "838_19_22": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "838_24_39": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "838_25_30": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "838_31_38": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "838_26_27": {
+    "difficulty": 1,
+    "covered": false
+  },
+  "845_31_32": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "854_39_42": {
+    "difficulty": 1,
+    "covered": true
+  },
+  "854_20_21": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "854_23_24": {
+    "difficulty": 1,
+    "covered": false
+  },
+  "861_14_15": {
+    "difficulty": 1,
+    "covered": true
+  },
+  "861_18_19": {
+    "difficulty": 1,
+    "covered": true
+  },
+  "866_26_27": {
+    "difficulty": 2,
+    "covered": true
+  },
+  "866_28_29": {
+    "difficulty": 2,
+    "covered": true
+  },
+  "866_30_31": {
+    "difficulty": 2,
+    "covered": true
+  },
+  "866_32_33": {
+    "difficulty": 2,
+    "covered": true
+  },
+  "866_34_35": {
+    "difficulty": 2,
+    "covered": true
+  },
+  "866_22_23": {
+    "difficulty": 0,
+    "covered": false
+  },
+  "866_41_42": {
+    "difficulty": 0,
+    "covered": false
+  },
+  "882_36_37": {
+    "difficulty": 2,
+    "covered": false
+  },
+  "882_38_39": {
+    "difficulty": 1,
+    "covered": false
+  },
+  "882_42_44": {
+    "difficulty": 1,
+    "covered": true
+  },
+  "909_21_22": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "909_23_24": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "909_32_33": {
+    "difficulty": 1,
+    "covered": true
+  },
+  "909_34_35": {
+    "difficulty": 1,
+    "covered": false
+  },
+  "913_41_42": {
+    "difficulty": 1,
+    "covered": true
+  },
+  "913_46_47": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "913_49_50": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "913_51_54": {
+    "difficulty": 2,
+    "covered": false
+  },
+  "913_55_59": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "913_57_59": {
+    "difficulty": 1,
+    "covered": true
+  },
+  "923_20_21": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "923_22_23": {
+    "difficulty": 2,
+    "covered": true
+  },
+  "923_24_25": {
+    "difficulty": 1,
+    "covered": false
+  },
+  "923_26_27": {
+    "difficulty": 1,
+    "covered": true
+  },
+  "927_15_16": {
+    "difficulty": 2,
+    "covered": true
+  },
+  "927_17_18": {
+    "difficulty": 1,
+    "covered": false
+  },
+  "927_51_52": {
+    "difficulty": 2,
+    "covered": false
+  },
+  "927_24_26": {
+    "difficulty": 2,
+    "covered": false
+  },
+  "927_31_35": {
+    "difficulty": 2,
+    "covered": false
+  },
+  "927_40_44": {
+    "difficulty": 2,
+    "covered": false
+  },
+  "927_33_35": {
+    "difficulty": 2,
+    "covered": false
+  },
+  "927_42_44": {
+    "difficulty": 2,
+    "covered": false
+  },
+  "935_23_24": {
+    "difficulty": 0,
+    "covered": false
+  },
+  "935_28_29": {
+    "difficulty": 0,
+    "covered": false
+  },
+  "935_30_31": {
+    "difficulty": 0,
+    "covered": false
+  },
+  "939_23_24": {
+    "difficulty": 1,
+    "covered": true
+  },
+  "939_25_26": {
+    "difficulty": 2,
+    "covered": true
+  },
+  "952_19_20": {
+    "difficulty": 0,
+    "covered": false
+  },
+  "952_21_22": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "952_30_31": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "952_23_24": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "952_25_27": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "952_43_45": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "963_28_31": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "963_30_31": {
+    "difficulty": 2,
+    "covered": true
+  },
+  "990_19_20": {
+    "difficulty": 1,
+    "covered": true
+  },
+  "990_29_30": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "990_33_35": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "990_34_35": {
+    "difficulty": 1,
+    "covered": true
+  },
+  "999_17_19": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "999_25_26": {
+    "difficulty": 1,
+    "covered": true
+  },
+  "999_27_28": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "1001_21_26": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "1001_29_38": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "1001_39_40": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "1001_33_38": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "1093_23_25": {
+    "difficulty": 0,
+    "covered": false
+  },
+  "1093_31_33": {
+    "difficulty": 0,
+    "covered": false
+  },
+  "1129_36_37": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "1129_39_40": {
+    "difficulty": 1,
+    "covered": true
+  },
+  "1139_21_29": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "1139_22_23": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "1139_24_25": {
+    "difficulty": 1,
+    "covered": true
+  },
+  "1139_26_27": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "1139_28_29": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "1139_36_37": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "1162_26_27": {
+    "difficulty": 2,
+    "covered": true
+  },
+  "1162_21_22": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "1162_23_24": {
+    "difficulty": 1,
+    "covered": true
+  },
+  "1162_39_40": {
+    "difficulty": 1,
+    "covered": true
+  },
+  "1162_41_42": {
+    "difficulty": 1,
+    "covered": true
+  },
+  "1202_19_20": {
+    "difficulty": 1,
+    "covered": false
+  },
+  "1202_21_22": {
+    "difficulty": 0,
+    "covered": false
+  },
+  "1202_30_31": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "1202_23_24": {
+    "difficulty": 0,
+    "covered": false
+  },
+  "1202_25_27": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "1210_28_29": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "1210_33_34": {
+    "difficulty": 1,
+    "covered": true
+  },
+  "1210_48_49": {
+    "difficulty": 2,
+    "covered": true
+  },
+  "1210_50_52": {
+    "difficulty": 1,
+    "covered": false
+  },
+  "1210_53_55": {
+    "difficulty": 1,
+    "covered": true
+  },
+  "1210_57_59": {
+    "difficulty": 1,
+    "covered": true
+  },
+  "1253_13_14": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "1253_15_16": {
+    "difficulty": 2,
+    "covered": false
+  },
+  "1253_21_25": {
+    "difficulty": 2,
+    "covered": true
+  },
+  "1253_28_31": {
+    "difficulty": 2,
+    "covered": false
+  },
+  "1253_32_34": {
+    "difficulty": 2,
+    "covered": true
+  },
+  "1254_17_18": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "1254_19_20": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "1254_30_32": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "1254_38_40": {
+    "difficulty": 1,
+    "covered": false
+  },
+  "1254_31_32": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "1263_44_45": {
+    "difficulty": 2,
+    "covered": false
+  },
+  "1263_16_17": {
+    "difficulty": 0,
+    "covered": false
+  },
+  "1263_18_19": {
+    "difficulty": 0,
+    "covered": false
+  },
+  "1263_20_21": {
+    "difficulty": 0,
+    "covered": false
+  },
+  "1263_31_32": {
+    "difficulty": 2,
+    "covered": false
+  },
+  "1263_51_54": {
+    "difficulty": 1,
+    "covered": false
+  },
+  "1263_35_37": {
+    "difficulty": 2,
+    "covered": false
+  },
+  "1263_52_54": {
+    "difficulty": 2,
+    "covered": false
+  },
+  "1267_21_23": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "1267_27_28": {
+    "difficulty": 0,
+    "covered": false
+  },
+  "1284_16_17": {
+    "difficulty": 2,
+    "covered": true
+  },
+  "1284_50_51": {
+    "difficulty": 1,
+    "covered": false
+  },
+  "1284_37_38": {
+    "difficulty": 1,
+    "covered": false
+  },
+  "1284_39_40": {
+    "difficulty": 1,
+    "covered": false
+  },
+  "1284_34_35": {
+    "difficulty": 1,
+    "covered": false
+  },
+  "1293_15_16": {
+    "difficulty": 2,
+    "covered": true
+  },
+  "1293_30_31": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "1293_32_33": {
+    "difficulty": 1,
+    "covered": true
+  },
+  "1293_34_35": {
+    "difficulty": 2,
+    "covered": false
+  },
+  "1293_37_38": {
+    "difficulty": 1,
+    "covered": true
+  },
+  "1301_25_26": {
+    "difficulty": 0,
+    "covered": false
+  },
+  "1301_37_39": {
+    "difficulty": 0,
+    "covered": false
+  },
+  "1301_30_32": {
+    "difficulty": 0,
+    "covered": false
+  },
+  "1301_33_35": {
+    "difficulty": 0,
+    "covered": false
+  },
+  "1334_19_21": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "1340_23_24": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "1340_25_26": {
+    "difficulty": 0,
+    "covered": false
+  },
+  "1345_25_26": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "1345_29_30": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "1345_31_32": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "1345_34_35": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "1377_35_36": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "1377_30_31": {
+    "difficulty": 1,
+    "covered": false
+  },
+  "1417_22_23": {
+    "difficulty": 2,
+    "covered": false
+  },
+  "1417_24_25": {
+    "difficulty": 0,
+    "covered": false
+  },
+  "1417_33_34": {
+    "difficulty": 2,
+    "covered": false
+  },
+  "1417_15_16": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "1417_19_20": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "1462_26_27": {
+    "difficulty": 0,
+    "covered": false
+  },
+  "1489_19_20": {
+    "difficulty": 2,
+    "covered": false
+  },
+  "1489_21_22": {
+    "difficulty": 1,
+    "covered": true
+  },
+  "1489_30_31": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "1489_23_24": {
+    "difficulty": 1,
+    "covered": true
+  },
+  "1489_25_27": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "1489_49_51": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "1489_62_63": {
+    "difficulty": 1,
+    "covered": false
+  },
+  "1489_71_72": {
+    "difficulty": 2,
+    "covered": true
+  },
+  "1489_54_55": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "1489_56_57": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "1489_73_74": {
+    "difficulty": 1,
+    "covered": false
+  },
+  "1573_15_16": {
+    "difficulty": 1,
+    "covered": false
+  },
+  "1573_17_19": {
+    "difficulty": 2,
+    "covered": true
+  },
+  "1573_28_29": {
+    "difficulty": 2,
+    "covered": false
+  },
+  "1573_30_31": {
+    "difficulty": 2,
+    "covered": false
+  },
+  "1573_34_35": {
+    "difficulty": 2,
+    "covered": false
+  },
+  "1573_32_33": {
+    "difficulty": 2,
+    "covered": false
+  },
+  "1573_36_37": {
+    "difficulty": 2,
+    "covered": false
+  },
+  "1574_26_27": {
+    "difficulty": 1,
+    "covered": true
+  },
+  "1574_28_29": {
+    "difficulty": 1,
+    "covered": true
+  },
+  "1579_20_21": {
+    "difficulty": 1,
+    "covered": true
+  },
+  "1579_22_23": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "1579_33_34": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "1579_57_58": {
+    "difficulty": 2,
+    "covered": true
+  },
+  "1579_59_60": {
+    "difficulty": 1,
+    "covered": false
+  },
+  "1579_24_25": {
+    "difficulty": 0,
+    "covered": false
+  },
+  "1579_26_28": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "1579_47_49": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "1579_48_49": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "1579_50_53": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "1579_51_52": {
+    "difficulty": 1,
+    "covered": false
+  },
+  "1579_54_55": {
+    "difficulty": 1,
+    "covered": false
+  },
+  "1582_21_23": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "1582_27_28": {
+    "difficulty": 2,
+    "covered": true
+  },
+  "1583_29_31": {
+    "difficulty": 1,
+    "covered": true
+  },
+  "1591_49_50": {
+    "difficulty": 0,
+    "covered": false
+  },
+  "1591_51_52": {
+    "difficulty": 2,
+    "covered": true
+  },
+  "1591_55_56": {
+    "difficulty": 0,
+    "covered": false
+  },
+  "1591_62_63": {
+    "difficulty": 0,
+    "covered": false
+  },
+  "1591_35_39": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "1591_43_44": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "1604_26_27": {
+    "difficulty": 1,
+    "covered": false
+  },
+  "1604_21_22": {
+    "difficulty": 1,
+    "covered": false
+  },
+  "1604_30_31": {
+    "difficulty": 1,
+    "covered": false
+  },
+  "1615_36_38": {
+    "difficulty": 1,
+    "covered": false
+  },
+  "1615_39_42": {
+    "difficulty": 1,
+    "covered": false
+  },
+  "1615_22_24": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "1615_31_32": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "1615_47_48": {
+    "difficulty": 1,
+    "covered": true
+  },
+  "1615_25_26": {
+    "difficulty": 1,
+    "covered": true
+  },
+  "1615_33_34": {
+    "difficulty": 1,
+    "covered": true
+  },
+  "1616_18_19": {
+    "difficulty": 0,
+    "covered": false
+  },
+  "1616_26_27": {
+    "difficulty": 0,
+    "covered": false
+  },
+  "1617_56_57": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "1617_58_59": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "1617_19_20": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "1617_46_47": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "1617_50_51": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "1617_52_53": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "1627_19_20": {
+    "difficulty": 2,
+    "covered": false
+  },
+  "1627_21_22": {
+    "difficulty": 1,
+    "covered": false
+  },
+  "1627_31_32": {
+    "difficulty": 1,
+    "covered": true
+  },
+  "1627_23_24": {
+    "difficulty": 1,
+    "covered": true
+  },
+  "1627_25_27": {
+    "difficulty": 1,
+    "covered": true
+  },
+  "1631_24_25": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "1631_30_31": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "1631_32_33": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "1631_36_38": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "1632_20_21": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "1632_30_31": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "1654_31_32": {
+    "difficulty": 2,
+    "covered": false
+  },
+  "1654_35_37": {
+    "difficulty": 0,
+    "covered": false
+  },
+  "1654_38_40": {
+    "difficulty": 1,
+    "covered": false
+  },
+  "1655_45_46": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "1655_38_39": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "1655_27_28": {
+    "difficulty": 2,
+    "covered": true
+  },
+  "1681_34_35": {
+    "difficulty": 1,
+    "covered": false
+  },
+  "1681_36_37": {
+    "difficulty": 2,
+    "covered": false
+  },
+  "1681_26_27": {
+    "difficulty": 2,
+    "covered": false
+  },
+  "1681_43_44": {
+    "difficulty": 1,
+    "covered": false
+  },
+  "1681_50_51": {
+    "difficulty": 0,
+    "covered": false
+  },
+  "1681_58_60": {
+    "difficulty": 1,
+    "covered": false
+  },
+  "1681_30_31": {
+    "difficulty": 1,
+    "covered": false
+  },
+  "1687_22_23": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "1687_27_28": {
+    "difficulty": 0,
+    "covered": false
+  },
+  "1705_21_22": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "1705_23_27": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "1705_25_26": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "1706_29_30": {
+    "difficulty": 2,
+    "covered": false
+  },
+  "1706_21_22": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "1706_23_24": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "1707_25_26": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "1707_35_37": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "1707_70_71": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "1707_38_39": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "1707_40_41": {
+    "difficulty": 2,
+    "covered": false
+  },
+  "1717_13_14": {
+    "difficulty": 1,
+    "covered": true
+  },
+  "1717_15_16": {
+    "difficulty": 1,
+    "covered": true
+  },
+  "1717_24_26": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "1717_27_28": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "1717_31_33": {
+    "difficulty": 1,
+    "covered": true
+  },
+  "1717_34_35": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "1719_30_31": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "1719_52_53": {
+    "difficulty": 2,
+    "covered": false
+  },
+  "1719_54_55": {
+    "difficulty": 2,
+    "covered": false
+  },
+  "1719_56_57": {
+    "difficulty": 2,
+    "covered": false
+  },
+  "1719_39_40": {
+    "difficulty": 2,
+    "covered": false
+  },
+  "1719_43_44": {
+    "difficulty": 2,
+    "covered": false
+  },
+  "1719_45_46": {
+    "difficulty": 2,
+    "covered": false
+  },
+  "1719_47_48": {
+    "difficulty": 2,
+    "covered": false
+  },
+  "1722_19_20": {
+    "difficulty": 1,
+    "covered": false
+  },
+  "1722_21_22": {
+    "difficulty": 0,
+    "covered": false
+  },
+  "1722_30_31": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "1722_23_24": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "1722_25_27": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "1722_51_52": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "1722_53_56": {
+    "difficulty": 1,
+    "covered": true
+  },
+  "1722_55_56": {
+    "difficulty": 1,
+    "covered": true
+  },
+  "1735_42_44": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "1765_21_23": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "1765_30_31": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "1765_32_33": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "1782_30_32": {
+    "difficulty": 2,
+    "covered": true
+  },
+  "1782_33_34": {
+    "difficulty": 0,
+    "covered": false
+  },
+  "1782_37_38": {
+    "difficulty": 2,
+    "covered": true
+  },
+  "1786_32_33": {
+    "difficulty": 0,
+    "covered": false
+  },
+  "1786_35_37": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "1786_38_40": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "1793_20_21": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "1805_23_24": {
+    "difficulty": 2,
+    "covered": true
+  },
+  "1805_30_31": {
+    "difficulty": 1,
+    "covered": false
+  },
+  "1805_32_33": {
+    "difficulty": 0,
+    "covered": false
+  },
+  "1805_17_18": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "1805_19_21": {
+    "difficulty": 0,
+    "covered": false
+  },
+  "1857_41_42": {
+    "difficulty": 2,
+    "covered": true
+  },
+  "1857_43_44": {
+    "difficulty": 1,
+    "covered": false
+  },
+  "1857_26_27": {
+    "difficulty": 1,
+    "covered": true
+  },
+  "1857_38_39": {
+    "difficulty": 1,
+    "covered": true
+  },
+  "1878_26_27": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "1896_16_18": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "1896_19_21": {
+    "difficulty": 1,
+    "covered": true
+  },
+  "1896_22_23": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "1896_24_45": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "1896_28_37": {
+    "difficulty": 1,
+    "covered": true
+  },
+  "1896_29_30": {
+    "difficulty": 1,
+    "covered": true
+  },
+  "1896_38_39": {
+    "difficulty": 1,
+    "covered": false
+  },
+  "1896_31_32": {
+    "difficulty": 1,
+    "covered": true
+  },
+  "1896_40_41": {
+    "difficulty": 1,
+    "covered": true
+  },
+  "1896_33_34": {
+    "difficulty": 1,
+    "covered": true
+  },
+  "1896_35_36": {
+    "difficulty": 1,
+    "covered": true
+  },
+  "1896_42_43": {
+    "difficulty": 1,
+    "covered": false
+  },
+  "1896_44_45": {
+    "difficulty": 1,
+    "covered": false
+  },
+  "1906_19_20": {
+    "difficulty": 2,
+    "covered": true
+  },
+  "1906_30_31": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "1906_32_33": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "1923_22_23": {
+    "difficulty": 2,
+    "covered": true
+  },
+  "1923_24_25": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "1923_33_34": {
+    "difficulty": 2,
+    "covered": true
+  },
+  "1923_45_46": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "1923_47_48": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "1923_49_50": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "1926_27_28": {
+    "difficulty": 2,
+    "covered": true
+  },
+  "1926_29_30": {
+    "difficulty": 1,
+    "covered": true
+  },
+  "1926_31_32": {
+    "difficulty": 1,
+    "covered": true
+  },
+  "1928_32_33": {
+    "difficulty": 2,
+    "covered": true
+  },
+  "1928_34_35": {
+    "difficulty": 2,
+    "covered": false
+  },
+  "1928_37_38": {
+    "difficulty": 1,
+    "covered": true
+  },
+  "1928_39_42": {
+    "difficulty": 1,
+    "covered": true
+  },
+  "1928_43_45": {
+    "difficulty": 2,
+    "covered": false
+  },
+  "1938_26_27": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "1938_37_39": {
+    "difficulty": 1,
+    "covered": true
+  },
+  "1938_40_41": {
+    "difficulty": 1,
+    "covered": true
+  },
+  "1938_55_56": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "1938_57_58": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "1971_19_20": {
+    "difficulty": 1,
+    "covered": false
+  },
+  "1971_21_22": {
+    "difficulty": 0,
+    "covered": false
+  },
+  "1971_30_31": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "1971_23_24": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "1971_25_27": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "1976_32_33": {
+    "difficulty": 1,
+    "covered": false
+  },
+  "1976_35_38": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "1976_39_41": {
+    "difficulty": 2,
+    "covered": false
+  },
+  "1977_13_14": {
+    "difficulty": 2,
+    "covered": true
+  },
+  "1977_23_24": {
+    "difficulty": 1,
+    "covered": true
+  },
+  "1977_31_32": {
+    "difficulty": 1,
+    "covered": false
+  },
+  "1977_33_35": {
+    "difficulty": 1,
+    "covered": true
+  },
+  "1977_36_38": {
+    "difficulty": 1,
+    "covered": false
+  },
+  "1977_40_41": {
+    "difficulty": 1,
+    "covered": true
+  },
+  "1977_42_43": {
+    "difficulty": 1,
+    "covered": false
+  },
+  "1994_20_21": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "1994_22_23": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "1994_26_27": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "1994_29_30": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "1998_19_20": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "1998_21_22": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "1998_31_32": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "1998_23_24": {
+    "difficulty": 0,
+    "covered": false
+  },
+  "1998_25_27": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "1998_47_48": {
+    "difficulty": 0,
+    "covered": false
+  },
+  "1998_55_57": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "2019_36_37": {
+    "difficulty": 1,
+    "covered": false
+  },
+  "2019_38_39": {
+    "difficulty": 1,
+    "covered": true
+  },
+  "2019_30_31": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "2030_21_26": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "2030_27_28": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "2030_19_20": {
+    "difficulty": 1,
+    "covered": false
+  },
+  "2030_22_24": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "2030_25_26": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "2040_20_22": {
+    "difficulty": 1,
+    "covered": true
+  },
+  "2040_23_26": {
+    "difficulty": 1,
+    "covered": false
+  },
+  "2040_42_43": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "2040_44_45": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "2045_29_31": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "2045_32_36": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "2045_33_34": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "2059_23_24": {
+    "difficulty": 2,
+    "covered": true
+  },
+  "2059_25_26": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "2076_19_20": {
+    "difficulty": 1,
+    "covered": false
+  },
+  "2076_21_22": {
+    "difficulty": 1,
+    "covered": false
+  },
+  "2076_30_31": {
+    "difficulty": 1,
+    "covered": false
+  },
+  "2076_23_24": {
+    "difficulty": 1,
+    "covered": false
+  },
+  "2076_25_27": {
+    "difficulty": 1,
+    "covered": true
+  },
+  "2076_44_50": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "2076_52_53": {
+    "difficulty": 1,
+    "covered": true
+  },
+  "2076_48_50": {
+    "difficulty": 1,
+    "covered": true
+  },
+  "2086_16_24": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "2086_17_18": {
+    "difficulty": 1,
+    "covered": true
+  },
+  "2086_19_20": {
+    "difficulty": 1,
+    "covered": true
+  },
+  "2086_21_22": {
+    "difficulty": 1,
+    "covered": false
+  },
+  "2086_23_24": {
+    "difficulty": 0,
+    "covered": false
+  },
+  "2092_19_20": {
+    "difficulty": 2,
+    "covered": true
+  },
+  "2092_21_22": {
+    "difficulty": 0,
+    "covered": false
+  },
+  "2092_36_37": {
+    "difficulty": 1,
+    "covered": true
+  },
+  "2092_23_24": {
+    "difficulty": 1,
+    "covered": true
+  },
+  "2092_25_27": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "2092_63_64": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "2092_58_59": {
+    "difficulty": 0,
+    "covered": false
+  },
+  "2115_26_27": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "2115_21_23": {
+    "difficulty": 2,
+    "covered": true
+  },
+  "2115_34_35": {
+    "difficulty": 2,
+    "covered": false
+  },
+  "2127_43_44": {
+    "difficulty": 2,
+    "covered": false
+  },
+  "2127_69_70": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "2127_38_39": {
+    "difficulty": 0,
+    "covered": false
+  },
+  "2127_56_58": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "2127_59_65": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "2132_22_26": {
+    "difficulty": 2,
+    "covered": true
+  },
+  "2132_34_38": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "2132_25_26": {
+    "difficulty": 2,
+    "covered": true
+  },
+  "2132_37_38": {
+    "difficulty": 0,
+    "covered": false
+  },
+  "2146_20_23": {
+    "difficulty": 2,
+    "covered": false
+  },
+  "2146_22_23": {
+    "difficulty": 2,
+    "covered": true
+  },
+  "2146_45_46": {
+    "difficulty": 1,
+    "covered": true
+  },
+  "2146_47_48": {
+    "difficulty": 2,
+    "covered": true
+  },
+  "2146_35_36": {
+    "difficulty": 1,
+    "covered": false
+  },
+  "2146_37_38": {
+    "difficulty": 0,
+    "covered": false
+  },
+  "2146_39_40": {
+    "difficulty": 1,
+    "covered": true
+  },
+  "2157_20_21": {
+    "difficulty": 0,
+    "covered": false
+  },
+  "2157_22_24": {
+    "difficulty": 0,
+    "covered": false
+  },
+  "2157_25_27": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "2157_31_32": {
+    "difficulty": 0,
+    "covered": false
+  },
+  "2157_48_49": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "2157_53_54": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "2157_62_63": {
+    "difficulty": 0,
+    "covered": false
+  },
+  "2157_65_66": {
+    "difficulty": 0,
+    "covered": false
+  },
+  "2157_67_68": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "2157_69_70": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "2182_19_20": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "2182_29_30": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "2182_35_36": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "2203_24_25": {
+    "difficulty": 1,
+    "covered": false
+  },
+  "2203_26_27": {
+    "difficulty": 2,
+    "covered": true
+  },
+  "2203_37_38": {
+    "difficulty": 2,
+    "covered": false
+  },
+  "2203_40_42": {
+    "difficulty": 1,
+    "covered": true
+  },
+  "2242_27_28": {
+    "difficulty": 1,
+    "covered": true
+  },
+  "2245_31_33": {
+    "difficulty": 1,
+    "covered": true
+  },
+  "2245_39_41": {
+    "difficulty": 1,
+    "covered": true
+  },
+  "2257_29_30": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "2257_31_32": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "2257_35_36": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "2257_37_38": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "2257_43_44": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "2257_45_46": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "2257_49_50": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "2257_51_52": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "2257_56_57": {
+    "difficulty": 1,
+    "covered": true
+  },
+  "2258_24_26": {
+    "difficulty": 2,
+    "covered": false
+  },
+  "2258_27_28": {
+    "difficulty": 0,
+    "covered": false
+  },
+  "2258_38_40": {
+    "difficulty": 0,
+    "covered": false
+  },
+  "2258_48_49": {
+    "difficulty": 0,
+    "covered": false
+  },
+  "2258_50_51": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "2258_52_53": {
+    "difficulty": 0,
+    "covered": false
+  },
+  "2258_68_69": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "2258_70_71": {
+    "difficulty": 1,
+    "covered": false
+  },
+  "2258_72_75": {
+    "difficulty": 2,
+    "covered": false
+  },
+  "2258_76_77": {
+    "difficulty": 1,
+    "covered": true
+  },
+  "2258_78_79": {
+    "difficulty": 2,
+    "covered": false
+  },
+  "2258_73_74": {
+    "difficulty": 2,
+    "covered": false
+  },
+  "2290_22_23": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "2290_27_28": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "2290_30_32": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "2299_13_14": {
+    "difficulty": 2,
+    "covered": true
+  },
+  "2299_15_16": {
+    "difficulty": 2,
+    "covered": true
+  },
+  "2299_17_18": {
+    "difficulty": 2,
+    "covered": false
+  },
+  "2299_19_20": {
+    "difficulty": 2,
+    "covered": false
+  },
+  "2299_21_22": {
+    "difficulty": 2,
+    "covered": false
+  },
+  "2301_25_26": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "2301_19_20": {
+    "difficulty": 2,
+    "covered": true
+  },
+  "2301_31_32": {
+    "difficulty": 2,
+    "covered": true
+  },
+  "2322_37_38": {
+    "difficulty": 2,
+    "covered": true
+  },
+  "2322_25_26": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "2322_41_42": {
+    "difficulty": 2,
+    "covered": true
+  },
+  "2322_44_45": {
+    "difficulty": 2,
+    "covered": false
+  },
+  "2322_46_47": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "2322_48_49": {
+    "difficulty": 0,
+    "covered": false
+  },
+  "2332_16_17": {
+    "difficulty": 2,
+    "covered": true
+  },
+  "2332_30_31": {
+    "difficulty": 0,
+    "covered": false
+  },
+  "2332_25_26": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "2337_22_23": {
+    "difficulty": 2,
+    "covered": true
+  },
+  "2337_24_25": {
+    "difficulty": 1,
+    "covered": true
+  },
+  "2337_26_27": {
+    "difficulty": 2,
+    "covered": false
+  },
+  "2337_28_29": {
+    "difficulty": 2,
+    "covered": false
+  },
+  "2392_14_15": {
+    "difficulty": 1,
+    "covered": false
+  },
+  "2392_18_19": {
+    "difficulty": 2,
+    "covered": false
+  },
+  "2392_52_53": {
+    "difficulty": 2,
+    "covered": true
+  },
+  "2392_54_55": {
+    "difficulty": 0,
+    "covered": false
+  },
+  "2392_49_50": {
+    "difficulty": 2,
+    "covered": true
+  },
+  "2437_14_15": {
+    "difficulty": 1,
+    "covered": true
+  },
+  "2437_16_17": {
+    "difficulty": 2,
+    "covered": false
+  },
+  "2437_19_20": {
+    "difficulty": 2,
+    "covered": true
+  },
+  "2437_21_25": {
+    "difficulty": 2,
+    "covered": true
+  },
+  "2437_26_30": {
+    "difficulty": 2,
+    "covered": true
+  },
+  "2437_22_23": {
+    "difficulty": 2,
+    "covered": false
+  },
+  "2437_24_25": {
+    "difficulty": 2,
+    "covered": false
+  },
+  "2437_27_28": {
+    "difficulty": 2,
+    "covered": true
+  },
+  "2437_29_30": {
+    "difficulty": 2,
+    "covered": false
+  },
+  "2456_25_28": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "2456_32_34": {
+    "difficulty": 0,
+    "covered": false
+  },
+  "2456_37_38": {
+    "difficulty": 0,
+    "covered": false
+  },
+  "2462_26_27": {
+    "difficulty": 2,
+    "covered": false
+  },
+  "2462_28_29": {
+    "difficulty": 2,
+    "covered": false
+  },
+  "2462_30_31": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "2462_32_33": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "2467_44_45": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "2467_34_35": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "2467_49_50": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "2467_26_27": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "2467_36_37": {
+    "difficulty": 2,
+    "covered": true
+  },
+  "2499_41_42": {
+    "difficulty": 2,
+    "covered": false
+  },
+  "2499_43_44": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "2499_21_28": {
+    "difficulty": 1,
+    "covered": true
+  },
+  "2499_31_32": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "2499_33_34": {
+    "difficulty": 2,
+    "covered": false
+  },
+  "2499_36_37": {
+    "difficulty": 2,
+    "covered": false
+  },
+  "2499_24_26": {
+    "difficulty": 1,
+    "covered": true
+  },
+  "2503_34_36": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "2503_41_42": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "2503_43_44": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "2508_20_21": {
+    "difficulty": 2,
+    "covered": true
+  },
+  "2508_22_24": {
+    "difficulty": 2,
+    "covered": false
+  },
+  "2508_25_27": {
+    "difficulty": 2,
+    "covered": false
+  },
+  "2523_19_20": {
+    "difficulty": 2,
+    "covered": false
+  },
+  "2523_16_17": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "2523_28_31": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "2523_40_42": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "2532_28_31": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "2532_32_36": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "2532_37_46": {
+    "difficulty": 1,
+    "covered": true
+  },
+  "2532_38_39": {
+    "difficulty": 2,
+    "covered": false
+  },
+  "2532_40_41": {
+    "difficulty": 1,
+    "covered": true
+  },
+  "2532_42_43": {
+    "difficulty": 1,
+    "covered": true
+  },
+  "2532_44_45": {
+    "difficulty": 2,
+    "covered": false
+  },
+  "2577_13_14": {
+    "difficulty": 0,
+    "covered": false
+  },
+  "2577_24_25": {
+    "difficulty": 2,
+    "covered": true
+  },
+  "2577_29_30": {
+    "difficulty": 2,
+    "covered": true
+  },
+  "2577_31_32": {
+    "difficulty": 2,
+    "covered": true
+  },
+  "2577_33_34": {
+    "difficulty": 2,
+    "covered": true
+  },
+  "2577_35_36": {
+    "difficulty": 2,
+    "covered": true
+  },
+  "2601_19_20": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "2601_21_22": {
+    "difficulty": 0,
+    "covered": false
+  },
+  "2601_32_34": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "2603_26_27": {
+    "difficulty": 0,
+    "covered": false
+  },
+  "2603_32_36": {
+    "difficulty": 0,
+    "covered": false
+  },
+  "2603_35_36": {
+    "difficulty": 0,
+    "covered": false
+  },
+  "2653_17_18": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "2653_19_20": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "2653_21_22": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "2653_30_31": {
+    "difficulty": 1,
+    "covered": true
+  },
+  "2662_27_28": {
+    "difficulty": 1,
+    "covered": false
+  },
+  "2662_31_32": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "2662_35_37": {
+    "difficulty": 1,
+    "covered": false
+  },
+  "2663_19_20": {
+    "difficulty": 2,
+    "covered": true
+  },
+  "2672_18_22": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "2672_23_27": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "2672_19_20": {
+    "difficulty": 2,
+    "covered": false
+  },
+  "2672_21_22": {
+    "difficulty": 2,
+    "covered": false
+  },
+  "2672_24_25": {
+    "difficulty": 2,
+    "covered": false
+  },
+  "2672_26_27": {
+    "difficulty": 2,
+    "covered": true
+  },
+  "2684_19_20": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "2684_21_22": {
+    "difficulty": 0,
+    "covered": false
+  },
+  "2684_23_24": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "2685_22_23": {
+    "difficulty": 1,
+    "covered": false
+  },
+  "2685_24_27": {
+    "difficulty": 1,
+    "covered": false
+  },
+  "2685_39_40": {
+    "difficulty": 1,
+    "covered": true
+  },
+  "2685_28_31": {
+    "difficulty": 1,
+    "covered": true
+  },
+  "2685_32_36": {
+    "difficulty": 1,
+    "covered": true
+  },
+  "2685_58_60": {
+    "difficulty": 2,
+    "covered": false
+  },
+  "2699_24_25": {
+    "difficulty": 1,
+    "covered": false
+  },
+  "2699_26_30": {
+    "difficulty": 2,
+    "covered": false
+  },
+  "2699_18_19": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "2699_33_34": {
+    "difficulty": 2,
+    "covered": false
+  },
+  "2699_39_44": {
+    "difficulty": 2,
+    "covered": false
+  },
+  "2699_56_57": {
+    "difficulty": 1,
+    "covered": false
+  },
+  "2699_28_29": {
+    "difficulty": 2,
+    "covered": false
+  },
+  "2699_59_61": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "2699_42_43": {
+    "difficulty": 2,
+    "covered": false
+  },
+  "2708_31_32": {
+    "difficulty": 2,
+    "covered": true
+  },
+  "2708_33_34": {
+    "difficulty": 2,
+    "covered": false
+  },
+  "2708_35_36": {
+    "difficulty": 1,
+    "covered": true
+  },
+  "2708_37_38": {
+    "difficulty": 2,
+    "covered": false
+  },
+  "2708_39_40": {
+    "difficulty": 2,
+    "covered": false
+  },
+  "2708_21_23": {
+    "difficulty": 1,
+    "covered": true
+  },
+  "2708_24_27": {
+    "difficulty": 1,
+    "covered": true
+  },
+  "2708_28_29": {
+    "difficulty": 1,
+    "covered": true
+  },
+  "2709_19_20": {
+    "difficulty": 0,
+    "covered": false
+  },
+  "2709_21_23": {
+    "difficulty": 0,
+    "covered": false
+  },
+  "2709_24_26": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "2709_32_33": {
+    "difficulty": 0,
+    "covered": false
+  },
+  "2709_57_59": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "2709_47_48": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "2709_49_50": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "2736_50_51": {
+    "difficulty": 1,
+    "covered": true
+  },
+  "2736_52_53": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "2736_62_63": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "2736_64_65": {
+    "difficulty": 0,
+    "covered": false
+  },
+  "2736_46_47": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "2747_35_36": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "2747_40_41": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "2751_26_28": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "2751_39_40": {
+    "difficulty": 0,
+    "covered": false
+  },
+  "2751_30_32": {
+    "difficulty": 2,
+    "covered": true
+  },
+  "2751_33_35": {
+    "difficulty": 0,
+    "covered": false
+  },
+  "2751_36_38": {
+    "difficulty": 0,
+    "covered": false
+  },
+  "2812_18_19": {
+    "difficulty": 0,
+    "covered": false
+  },
+  "2812_26_27": {
+    "difficulty": 0,
+    "covered": false
+  },
+  "2812_28_29": {
+    "difficulty": 0,
+    "covered": false
+  },
+  "2812_52_54": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "2812_33_34": {
+    "difficulty": 0,
+    "covered": false
+  },
+  "2812_35_36": {
+    "difficulty": 0,
+    "covered": false
+  },
+  "2812_64_65": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "2812_66_67": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "2818_37_38": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "2818_39_40": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "2818_55_57": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "2836_33_35": {
+    "difficulty": 0,
+    "covered": false
+  },
+  "2844_29_30": {
+    "difficulty": 2,
+    "covered": true
+  },
+  "2844_31_32": {
+    "difficulty": 2,
+    "covered": true
+  },
+  "2844_18_19": {
+    "difficulty": 2,
+    "covered": false
+  },
+  "2844_20_21": {
+    "difficulty": 2,
+    "covered": false
+  },
+  "2844_22_23": {
+    "difficulty": 2,
+    "covered": true
+  },
+  "2844_24_25": {
+    "difficulty": 2,
+    "covered": false
+  },
+  "2846_26_27": {
+    "difficulty": 0,
+    "covered": false
+  },
+  "2846_44_45": {
+    "difficulty": 1,
+    "covered": false
+  },
+  "2846_49_50": {
+    "difficulty": 1,
+    "covered": false
+  },
+  "2846_30_31": {
+    "difficulty": 0,
+    "covered": false
+  },
+  "2846_47_48": {
+    "difficulty": 1,
+    "covered": false
+  },
+  "2846_52_54": {
+    "difficulty": 1,
+    "covered": false
+  },
+  "2850_13_14": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "2850_20_28": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "2850_23_28": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "2851_24_25": {
+    "difficulty": 2,
+    "covered": false
+  },
+  "2851_26_27": {
+    "difficulty": 0,
+    "covered": false
+  },
+  "2851_37_38": {
+    "difficulty": 0,
+    "covered": false
+  },
+  "2851_41_43": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "2876_27_28": {
+    "difficulty": 0,
+    "covered": false
+  },
+  "2876_33_34": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "2901_20_21": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "2901_22_23": {
+    "difficulty": 0,
+    "covered": false
+  },
+  "2901_24_25": {
+    "difficulty": 1,
+    "covered": true
+  },
+  "2901_26_28": {
+    "difficulty": 1,
+    "covered": false
+  },
+  "2904_31_32": {
+    "difficulty": 1,
+    "covered": true
+  },
+  "2904_33_34": {
+    "difficulty": 1,
+    "covered": true
+  },
+  "2904_19_20": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "2904_22_24": {
+    "difficulty": 1,
+    "covered": true
+  },
+  "2904_27_28": {
+    "difficulty": 1,
+    "covered": true
+  },
+  "2904_25_26": {
+    "difficulty": 1,
+    "covered": true
+  },
+  "2911_51_52": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "2932_27_28": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "2932_39_41": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "2932_42_43": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "2932_44_45": {
+    "difficulty": 2,
+    "covered": false
+  },
+  "2940_30_31": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "2940_32_40": {
+    "difficulty": 0,
+    "covered": false
+  },
+  "2940_49_50": {
+    "difficulty": 0,
+    "covered": false
+  },
+  "2940_51_52": {
+    "difficulty": 0,
+    "covered": false
+  },
+  "2940_39_40": {
+    "difficulty": 0,
+    "covered": false
+  },
+  "2948_18_19": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "2948_20_21": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "2953_24_27": {
+    "difficulty": 0,
+    "covered": false
+  },
+  "2953_28_30": {
+    "difficulty": 2,
+    "covered": true
+  },
+  "2953_31_32": {
+    "difficulty": 2,
+    "covered": true
+  },
+  "2959_20_21": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "2959_24_26": {
+    "difficulty": 1,
+    "covered": true
+  },
+  "2959_29_34": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "2959_37_40": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "2959_31_34": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "2959_39_40": {
+    "difficulty": 1,
+    "covered": true
+  },
+  "2959_33_34": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "2973_27_28": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "2973_29_30": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "2973_32_33": {
+    "difficulty": 0,
+    "covered": false
+  },
+  "2973_34_35": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "2973_52_53": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "2976_29_30": {
+    "difficulty": 1,
+    "covered": true
+  },
+  "2976_33_34": {
+    "difficulty": 2,
+    "covered": true
+  },
+  "2976_23_26": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "2976_25_26": {
+    "difficulty": 0,
+    "covered": false
+  },
+  "2977_50_51": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "2977_52_53": {
+    "difficulty": 2,
+    "covered": true
+  },
+  "2977_34_35": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "2977_36_37": {
+    "difficulty": 2,
+    "covered": true
+  },
+  "2977_58_59": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "2977_26_29": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "2977_39_40": {
+    "difficulty": 2,
+    "covered": false
+  },
+  "2977_43_44": {
+    "difficulty": 0,
+    "covered": false
+  },
+  "2977_47_48": {
+    "difficulty": 2,
+    "covered": false
+  },
+  "2977_28_29": {
+    "difficulty": 2,
+    "covered": true
+  },
+  "2983_29_30": {
+    "difficulty": 0,
+    "covered": false
+  },
+  "2983_31_48": {
+    "difficulty": 2,
+    "covered": true
+  },
+  "2983_55_56": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "2983_34_36": {
+    "difficulty": 2,
+    "covered": false
+  },
+  "2983_37_39": {
+    "difficulty": 2,
+    "covered": false
+  },
+  "2983_40_42": {
+    "difficulty": 2,
+    "covered": false
+  },
+  "2983_43_45": {
+    "difficulty": 2,
+    "covered": false
+  },
+  "3001_13_17": {
+    "difficulty": 2,
+    "covered": true
+  },
+  "3001_18_22": {
+    "difficulty": 2,
+    "covered": true
+  },
+  "3001_23_27": {
+    "difficulty": 2,
+    "covered": false
+  },
+  "3001_28_32": {
+    "difficulty": 2,
+    "covered": true
+  },
+  "3001_14_15": {
+    "difficulty": 2,
+    "covered": true
+  },
+  "3001_16_17": {
+    "difficulty": 2,
+    "covered": true
+  },
+  "3001_19_20": {
+    "difficulty": 2,
+    "covered": false
+  },
+  "3001_21_22": {
+    "difficulty": 2,
+    "covered": false
+  },
+  "3001_24_25": {
+    "difficulty": 2,
+    "covered": false
+  },
+  "3001_26_27": {
+    "difficulty": 2,
+    "covered": false
+  },
+  "3001_29_30": {
+    "difficulty": 2,
+    "covered": false
+  },
+  "3001_31_32": {
+    "difficulty": 2,
+    "covered": true
+  },
+  "3006_21_22": {
+    "difficulty": 2,
+    "covered": true
+  },
+  "3006_43_48": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "3006_33_35": {
+    "difficulty": 2,
+    "covered": true
+  },
+  "3006_46_48": {
+    "difficulty": 2,
+    "covered": true
+  },
+  "3006_49_50": {
+    "difficulty": 1,
+    "covered": false
+  },
+  "3006_51_52": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "3029_18_19": {
+    "difficulty": 2,
+    "covered": true
+  },
+  "3029_29_30": {
+    "difficulty": 2,
+    "covered": true
+  },
+  "3029_33_35": {
+    "difficulty": 1,
+    "covered": true
+  },
+  "3030_20_25": {
+    "difficulty": 1,
+    "covered": false
+  },
+  "3030_29_30": {
+    "difficulty": 1,
+    "covered": false
+  },
+  "3030_37_38": {
+    "difficulty": 1,
+    "covered": true
+  },
+  "3030_39_40": {
+    "difficulty": 1,
+    "covered": false
+  },
+  "3043_30_31": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "3044_35_36": {
+    "difficulty": 2,
+    "covered": false
+  },
+  "3044_30_31": {
+    "difficulty": 1,
+    "covered": true
+  },
+  "3072_50_51": {
+    "difficulty": 0,
+    "covered": false
+  },
+  "3072_52_53": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "3072_54_55": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "3072_56_57": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "3095_29_32": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "3095_37_40": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "3095_31_32": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "3095_39_40": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "3102_46_47": {
+    "difficulty": 1,
+    "covered": true
+  },
+  "3102_48_49": {
+    "difficulty": 1,
+    "covered": true
+  },
+  "3102_29_30": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "3102_33_35": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "3102_36_38": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "3102_39_41": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "3102_42_44": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "3108_23_24": {
+    "difficulty": 1,
+    "covered": true
+  },
+  "3108_25_26": {
+    "difficulty": 0,
+    "covered": false
+  },
+  "3108_34_35": {
+    "difficulty": 2,
+    "covered": true
+  },
+  "3108_38_39": {
+    "difficulty": 1,
+    "covered": true
+  },
+  "3108_40_41": {
+    "difficulty": 1,
+    "covered": false
+  },
+  "3108_44_45": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "3108_27_28": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "3108_29_31": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "3112_29_30": {
+    "difficulty": 2,
+    "covered": false
+  },
+  "3112_38_39": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "3112_40_41": {
+    "difficulty": 0,
+    "covered": true
+  },
+  "3112_32_34": {
+    "difficulty": 1,
+    "covered": true
+  },
+  "3123_31_32": {
+    "difficulty": 1,
+    "covered": false
+  },
+  "3123_34_36": {
+    "difficulty": 1,
+    "covered": true
+  }
+}

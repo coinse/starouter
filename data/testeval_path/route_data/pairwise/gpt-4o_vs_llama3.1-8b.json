@@ -1,0 +1,5980 @@
+[
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 0,
+        "key": "4_0",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 1,
+        "key": "4_1",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 2,
+        "key": "10_0",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 3,
+        "key": "10_1",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 4,
+        "key": "10_2",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 5,
+        "key": "10_3",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 6,
+        "key": "15_0",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 7,
+        "key": "15_1",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 8,
+        "key": "15_2",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 9,
+        "key": "15_3",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 10,
+        "key": "44_0",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 11,
+        "key": "44_1",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 12,
+        "key": "44_2",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 13,
+        "key": "44_3",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 14,
+        "key": "54_0",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 15,
+        "key": "54_1",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 16,
+        "key": "54_2",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 17,
+        "key": "54_3",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 18,
+        "key": "65_0",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 19,
+        "key": "65_1",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 20,
+        "key": "65_2",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 21,
+        "key": "73_0",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 22,
+        "key": "73_1",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 23,
+        "key": "73_2",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 24,
+        "key": "73_3",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 25,
+        "key": "97_0",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 26,
+        "key": "97_1",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 27,
+        "key": "97_2",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 28,
+        "key": "126_0",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 29,
+        "key": "126_1",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 30,
+        "key": "126_2",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 31,
+        "key": "130_0",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 32,
+        "key": "130_1",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 33,
+        "key": "130_2",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 34,
+        "key": "132_0",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 35,
+        "key": "132_1",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 36,
+        "key": "132_2",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 37,
+        "key": "132_3",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 38,
+        "key": "218_0",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 39,
+        "key": "218_1",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 40,
+        "key": "218_2",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 41,
+        "key": "218_3",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 42,
+        "key": "227_0",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 43,
+        "key": "227_1",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 44,
+        "key": "227_2",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 45,
+        "key": "227_3",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 46,
+        "key": "289_0",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 47,
+        "key": "289_1",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 48,
+        "key": "289_2",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 49,
+        "key": "289_3",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 50,
+        "key": "310_0",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 51,
+        "key": "310_1",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 52,
+        "key": "310_2",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 53,
+        "key": "310_3",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 54,
+        "key": "327_0",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 55,
+        "key": "327_1",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 56,
+        "key": "335_0",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 57,
+        "key": "335_1",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 58,
+        "key": "336_0",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 59,
+        "key": "336_1",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 60,
+        "key": "336_2",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 61,
+        "key": "391_0",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 62,
+        "key": "391_1",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 63,
+        "key": "391_2",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 64,
+        "key": "391_3",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 65,
+        "key": "391_4",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 66,
+        "key": "402_0",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 67,
+        "key": "402_1",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 68,
+        "key": "402_2",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 69,
+        "key": "402_3",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 70,
+        "key": "407_0",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 71,
+        "key": "407_1",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 72,
+        "key": "407_2",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 73,
+        "key": "407_3",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 74,
+        "key": "417_0",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 75,
+        "key": "417_1",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 76,
+        "key": "417_2",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 77,
+        "key": "417_3",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 78,
+        "key": "420_0",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 79,
+        "key": "420_1",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 80,
+        "key": "420_2",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 81,
+        "key": "423_0",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 82,
+        "key": "423_1",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 83,
+        "key": "423_2",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 84,
+        "key": "423_3",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 85,
+        "key": "457_0",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 86,
+        "key": "457_1",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 87,
+        "key": "457_2",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 88,
+        "key": "457_3",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 89,
+        "key": "524_0",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 90,
+        "key": "524_1",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 91,
+        "key": "524_2",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 92,
+        "key": "524_3",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 93,
+        "key": "542_0",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 94,
+        "key": "542_1",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 95,
+        "key": "542_2",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 96,
+        "key": "542_3",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 97,
+        "key": "547_0",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 98,
+        "key": "547_1",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 99,
+        "key": "547_2",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 100,
+        "key": "547_3",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 101,
+        "key": "581_0",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 102,
+        "key": "581_1",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 103,
+        "key": "581_2",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 104,
+        "key": "581_3",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 105,
+        "key": "581_4",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 106,
+        "key": "591_0",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 107,
+        "key": "591_1",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 108,
+        "key": "591_2",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 109,
+        "key": "648_0",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 110,
+        "key": "648_1",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 111,
+        "key": "648_2",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 112,
+        "key": "648_3",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 113,
+        "key": "673_0",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 114,
+        "key": "673_1",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 115,
+        "key": "673_2",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 116,
+        "key": "673_3",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 117,
+        "key": "684_0",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 118,
+        "key": "684_1",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 119,
+        "key": "684_2",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 120,
+        "key": "685_0",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 121,
+        "key": "685_1",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 122,
+        "key": "685_2",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 123,
+        "key": "685_3",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 124,
+        "key": "688_0",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 125,
+        "key": "688_1",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 126,
+        "key": "688_2",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 127,
+        "key": "689_0",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 128,
+        "key": "689_1",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 129,
+        "key": "689_2",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 130,
+        "key": "689_3",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 131,
+        "key": "691_0",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 132,
+        "key": "691_1",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 133,
+        "key": "691_2",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 134,
+        "key": "722_0",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 135,
+        "key": "722_1",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 136,
+        "key": "722_2",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 137,
+        "key": "730_0",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 138,
+        "key": "730_1",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 139,
+        "key": "730_2",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 140,
+        "key": "730_3",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 141,
+        "key": "735_0",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 142,
+        "key": "735_1",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 143,
+        "key": "735_2",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 144,
+        "key": "735_3",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 145,
+        "key": "743_0",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 146,
+        "key": "743_1",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 147,
+        "key": "743_2",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 148,
+        "key": "743_3",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 149,
+        "key": "770_0",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 150,
+        "key": "770_1",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 151,
+        "key": "770_2",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 152,
+        "key": "770_3",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 153,
+        "key": "770_4",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 154,
+        "key": "770_5",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 155,
+        "key": "777_0",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 156,
+        "key": "777_1",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 157,
+        "key": "777_2",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 158,
+        "key": "782_0",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 159,
+        "key": "782_1",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 160,
+        "key": "782_2",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 161,
+        "key": "786_0",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 162,
+        "key": "786_1",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 163,
+        "key": "786_2",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 164,
+        "key": "786_3",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 165,
+        "key": "787_0",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 166,
+        "key": "787_1",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 167,
+        "key": "787_2",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 168,
+        "key": "787_3",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 169,
+        "key": "787_4",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 170,
+        "key": "794_0",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 171,
+        "key": "794_1",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 172,
+        "key": "805_0",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 173,
+        "key": "805_1",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 174,
+        "key": "805_2",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 175,
+        "key": "805_3",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 176,
+        "key": "815_0",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 177,
+        "key": "815_1",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 178,
+        "key": "815_2",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 179,
+        "key": "815_3",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 180,
+        "key": "838_0",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 181,
+        "key": "838_1",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 182,
+        "key": "838_2",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 183,
+        "key": "838_3",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 184,
+        "key": "845_0",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 185,
+        "key": "845_1",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 186,
+        "key": "845_2",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 187,
+        "key": "854_0",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 188,
+        "key": "854_1",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 189,
+        "key": "854_2",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 190,
+        "key": "861_0",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 191,
+        "key": "861_1",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 192,
+        "key": "861_2",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 193,
+        "key": "866_0",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 194,
+        "key": "866_1",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 195,
+        "key": "866_2",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 196,
+        "key": "866_3",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 197,
+        "key": "882_0",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 198,
+        "key": "882_1",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 199,
+        "key": "882_2",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 200,
+        "key": "882_3",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 201,
+        "key": "882_4",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 202,
+        "key": "909_0",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 203,
+        "key": "909_1",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 204,
+        "key": "909_2",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 205,
+        "key": "909_3",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 206,
+        "key": "913_0",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 207,
+        "key": "913_1",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 208,
+        "key": "913_2",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 209,
+        "key": "913_3",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 210,
+        "key": "923_0",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 211,
+        "key": "923_1",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 212,
+        "key": "923_2",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 213,
+        "key": "923_3",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 214,
+        "key": "923_4",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 215,
+        "key": "927_0",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 216,
+        "key": "927_1",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 217,
+        "key": "927_2",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 218,
+        "key": "927_3",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 219,
+        "key": "935_0",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 220,
+        "key": "935_1",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 221,
+        "key": "935_2",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 222,
+        "key": "935_3",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 223,
+        "key": "935_4",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 224,
+        "key": "939_0",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 225,
+        "key": "939_1",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 226,
+        "key": "939_2",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 227,
+        "key": "939_3",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 228,
+        "key": "952_0",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 229,
+        "key": "952_1",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 230,
+        "key": "952_2",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 231,
+        "key": "952_3",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 232,
+        "key": "952_4",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 233,
+        "key": "952_5",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 234,
+        "key": "963_0",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 235,
+        "key": "963_1",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 236,
+        "key": "963_2",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 237,
+        "key": "963_3",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 238,
+        "key": "963_4",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 239,
+        "key": "963_5",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 240,
+        "key": "990_0",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 241,
+        "key": "990_1",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 242,
+        "key": "990_2",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 243,
+        "key": "999_0",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 244,
+        "key": "999_1",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 245,
+        "key": "999_2",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 246,
+        "key": "999_3",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 247,
+        "key": "999_4",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 248,
+        "key": "1001_0",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 249,
+        "key": "1001_1",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 250,
+        "key": "1001_2",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 251,
+        "key": "1001_3",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 252,
+        "key": "1001_4",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 253,
+        "key": "1001_5",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 254,
+        "key": "1093_0",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 255,
+        "key": "1129_0",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 256,
+        "key": "1129_1",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 257,
+        "key": "1129_2",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 258,
+        "key": "1139_0",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 259,
+        "key": "1139_1",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 260,
+        "key": "1139_2",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 261,
+        "key": "1139_3",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 262,
+        "key": "1162_0",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 263,
+        "key": "1162_1",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 264,
+        "key": "1162_2",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 265,
+        "key": "1162_3",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 266,
+        "key": "1202_0",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 267,
+        "key": "1202_1",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 268,
+        "key": "1202_2",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 269,
+        "key": "1202_3",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 270,
+        "key": "1202_4",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 271,
+        "key": "1202_5",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 272,
+        "key": "1210_0",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 273,
+        "key": "1210_1",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 274,
+        "key": "1210_2",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 275,
+        "key": "1210_3",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 276,
+        "key": "1253_0",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 277,
+        "key": "1253_1",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 278,
+        "key": "1253_2",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 279,
+        "key": "1253_3",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 280,
+        "key": "1253_4",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 281,
+        "key": "1254_0",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 282,
+        "key": "1254_1",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 283,
+        "key": "1254_2",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 284,
+        "key": "1254_3",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 285,
+        "key": "1254_4",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 286,
+        "key": "1254_5",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 287,
+        "key": "1263_0",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 288,
+        "key": "1263_1",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 289,
+        "key": "1267_0",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 290,
+        "key": "1267_1",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 291,
+        "key": "1267_2",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 292,
+        "key": "1267_3",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 293,
+        "key": "1267_4",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 294,
+        "key": "1284_0",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 295,
+        "key": "1284_1",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 296,
+        "key": "1284_2",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 297,
+        "key": "1284_3",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 298,
+        "key": "1284_4",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 299,
+        "key": "1293_0",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 300,
+        "key": "1293_1",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 301,
+        "key": "1293_2",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 302,
+        "key": "1293_3",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 303,
+        "key": "1301_0",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 304,
+        "key": "1301_1",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 305,
+        "key": "1301_2",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 306,
+        "key": "1301_3",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 307,
+        "key": "1301_4",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 308,
+        "key": "1334_0",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 309,
+        "key": "1334_1",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 310,
+        "key": "1334_2",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 311,
+        "key": "1334_3",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 312,
+        "key": "1340_0",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 313,
+        "key": "1340_1",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 314,
+        "key": "1340_2",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 315,
+        "key": "1340_3",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 316,
+        "key": "1340_4",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 317,
+        "key": "1340_5",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 318,
+        "key": "1345_0",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 319,
+        "key": "1345_1",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 320,
+        "key": "1345_2",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 321,
+        "key": "1345_3",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 322,
+        "key": "1345_4",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 323,
+        "key": "1377_0",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 324,
+        "key": "1377_1",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 325,
+        "key": "1377_2",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 326,
+        "key": "1377_3",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 327,
+        "key": "1417_0",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 328,
+        "key": "1417_1",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 329,
+        "key": "1417_2",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 330,
+        "key": "1417_3",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 331,
+        "key": "1417_4",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 332,
+        "key": "1417_5",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 333,
+        "key": "1462_0",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 334,
+        "key": "1462_1",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 335,
+        "key": "1462_2",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 336,
+        "key": "1462_3",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 337,
+        "key": "1489_0",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 338,
+        "key": "1489_1",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 339,
+        "key": "1489_2",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 340,
+        "key": "1489_3",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 341,
+        "key": "1573_0",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 342,
+        "key": "1573_1",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 343,
+        "key": "1573_2",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 344,
+        "key": "1573_3",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 345,
+        "key": "1574_0",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 346,
+        "key": "1574_1",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 347,
+        "key": "1574_2",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 348,
+        "key": "1574_3",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 349,
+        "key": "1579_0",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 350,
+        "key": "1579_1",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 351,
+        "key": "1579_2",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 352,
+        "key": "1579_3",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 353,
+        "key": "1579_4",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 354,
+        "key": "1579_5",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 355,
+        "key": "1582_0",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 356,
+        "key": "1582_1",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 357,
+        "key": "1582_2",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 358,
+        "key": "1582_3",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 359,
+        "key": "1583_0",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 360,
+        "key": "1583_1",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 361,
+        "key": "1583_2",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 362,
+        "key": "1583_3",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 363,
+        "key": "1591_0",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 364,
+        "key": "1591_1",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 365,
+        "key": "1591_2",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 366,
+        "key": "1591_3",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 367,
+        "key": "1591_4",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 368,
+        "key": "1604_0",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 369,
+        "key": "1604_1",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 370,
+        "key": "1604_2",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 371,
+        "key": "1604_3",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 372,
+        "key": "1615_0",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 373,
+        "key": "1615_1",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 374,
+        "key": "1615_2",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 375,
+        "key": "1615_3",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 376,
+        "key": "1615_4",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 377,
+        "key": "1616_0",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 378,
+        "key": "1616_1",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 379,
+        "key": "1616_2",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 380,
+        "key": "1616_3",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 381,
+        "key": "1617_0",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 382,
+        "key": "1617_1",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 383,
+        "key": "1617_2",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 384,
+        "key": "1617_3",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 385,
+        "key": "1617_4",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 386,
+        "key": "1617_5",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 387,
+        "key": "1627_0",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 388,
+        "key": "1627_1",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 389,
+        "key": "1627_2",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 390,
+        "key": "1627_3",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 391,
+        "key": "1631_0",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 392,
+        "key": "1631_1",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 393,
+        "key": "1631_2",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 394,
+        "key": "1631_3",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 395,
+        "key": "1631_4",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 396,
+        "key": "1631_5",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 397,
+        "key": "1632_0",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 398,
+        "key": "1632_1",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 399,
+        "key": "1632_2",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 400,
+        "key": "1632_3",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 401,
+        "key": "1632_4",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 402,
+        "key": "1632_5",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 403,
+        "key": "1654_0",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 404,
+        "key": "1654_1",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 405,
+        "key": "1654_2",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 406,
+        "key": "1654_3",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 407,
+        "key": "1654_4",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 408,
+        "key": "1654_5",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 409,
+        "key": "1655_0",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 410,
+        "key": "1655_1",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 411,
+        "key": "1655_2",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 412,
+        "key": "1655_3",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 413,
+        "key": "1655_4",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 414,
+        "key": "1655_5",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 415,
+        "key": "1681_0",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 416,
+        "key": "1681_1",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 417,
+        "key": "1681_2",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 418,
+        "key": "1681_3",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 419,
+        "key": "1681_4",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 420,
+        "key": "1687_0",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 421,
+        "key": "1687_1",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 422,
+        "key": "1687_2",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 423,
+        "key": "1687_3",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 424,
+        "key": "1687_4",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 425,
+        "key": "1705_0",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 426,
+        "key": "1705_1",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 427,
+        "key": "1705_2",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 428,
+        "key": "1705_3",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 429,
+        "key": "1706_0",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 430,
+        "key": "1706_1",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 431,
+        "key": "1706_2",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 432,
+        "key": "1706_3",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 433,
+        "key": "1706_4",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 434,
+        "key": "1707_0",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 435,
+        "key": "1707_1",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 436,
+        "key": "1707_2",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 437,
+        "key": "1717_0",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 438,
+        "key": "1717_1",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 439,
+        "key": "1717_2",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 440,
+        "key": "1719_0",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 441,
+        "key": "1719_1",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 442,
+        "key": "1719_2",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 443,
+        "key": "1719_3",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 444,
+        "key": "1719_4",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 445,
+        "key": "1719_5",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 446,
+        "key": "1722_0",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 447,
+        "key": "1722_1",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 448,
+        "key": "1722_2",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 449,
+        "key": "1722_3",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 450,
+        "key": "1722_4",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 451,
+        "key": "1722_5",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 452,
+        "key": "1735_0",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 453,
+        "key": "1765_0",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 454,
+        "key": "1765_1",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 455,
+        "key": "1765_2",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 456,
+        "key": "1765_3",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 457,
+        "key": "1782_0",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 458,
+        "key": "1782_1",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 459,
+        "key": "1782_2",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 460,
+        "key": "1782_3",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 461,
+        "key": "1786_0",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 462,
+        "key": "1786_1",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 463,
+        "key": "1786_2",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 464,
+        "key": "1786_3",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 465,
+        "key": "1793_0",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 466,
+        "key": "1793_1",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 467,
+        "key": "1793_2",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 468,
+        "key": "1793_3",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 469,
+        "key": "1805_0",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 470,
+        "key": "1805_1",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 471,
+        "key": "1805_2",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 472,
+        "key": "1805_3",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 473,
+        "key": "1857_0",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 474,
+        "key": "1857_1",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 475,
+        "key": "1878_0",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 476,
+        "key": "1878_1",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 477,
+        "key": "1878_2",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 478,
+        "key": "1878_3",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 479,
+        "key": "1878_4",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 480,
+        "key": "1878_5",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 481,
+        "key": "1896_0",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 482,
+        "key": "1896_1",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 483,
+        "key": "1896_2",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 484,
+        "key": "1896_3",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 485,
+        "key": "1896_4",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 486,
+        "key": "1906_0",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 487,
+        "key": "1906_1",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 488,
+        "key": "1923_0",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 489,
+        "key": "1923_1",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 490,
+        "key": "1923_2",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 491,
+        "key": "1923_3",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 492,
+        "key": "1923_4",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 493,
+        "key": "1926_0",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 494,
+        "key": "1926_1",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 495,
+        "key": "1926_2",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 496,
+        "key": "1926_3",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 497,
+        "key": "1926_4",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 498,
+        "key": "1926_5",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 499,
+        "key": "1928_0",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 500,
+        "key": "1928_1",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 501,
+        "key": "1928_2",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 502,
+        "key": "1928_3",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 503,
+        "key": "1928_4",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 504,
+        "key": "1928_5",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 505,
+        "key": "1938_0",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 506,
+        "key": "1938_1",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 507,
+        "key": "1938_2",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 508,
+        "key": "1971_0",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 509,
+        "key": "1971_1",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 510,
+        "key": "1971_2",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 511,
+        "key": "1976_0",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 512,
+        "key": "1976_1",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 513,
+        "key": "1976_2",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 514,
+        "key": "1977_0",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 515,
+        "key": "1977_1",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 516,
+        "key": "1977_2",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 517,
+        "key": "1994_0",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 518,
+        "key": "1994_1",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 519,
+        "key": "1998_0",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 520,
+        "key": "1998_1",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 521,
+        "key": "1998_2",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 522,
+        "key": "1998_3",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 523,
+        "key": "1998_4",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 524,
+        "key": "1998_5",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 525,
+        "key": "2019_0",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 526,
+        "key": "2019_1",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 527,
+        "key": "2019_2",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 528,
+        "key": "2019_3",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 529,
+        "key": "2019_4",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 530,
+        "key": "2019_5",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 531,
+        "key": "2030_0",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 532,
+        "key": "2030_1",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 533,
+        "key": "2030_2",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 534,
+        "key": "2030_3",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 535,
+        "key": "2030_4",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 536,
+        "key": "2040_0",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 537,
+        "key": "2040_1",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 538,
+        "key": "2040_2",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 539,
+        "key": "2045_0",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 540,
+        "key": "2045_1",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 541,
+        "key": "2045_2",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 542,
+        "key": "2045_3",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 543,
+        "key": "2059_0",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 544,
+        "key": "2059_1",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 545,
+        "key": "2059_2",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 546,
+        "key": "2059_3",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 547,
+        "key": "2059_4",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 548,
+        "key": "2059_5",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 549,
+        "key": "2076_0",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 550,
+        "key": "2076_1",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 551,
+        "key": "2076_2",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 552,
+        "key": "2086_0",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 553,
+        "key": "2086_1",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 554,
+        "key": "2086_2",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 555,
+        "key": "2086_3",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 556,
+        "key": "2092_0",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 557,
+        "key": "2092_1",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 558,
+        "key": "2092_2",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 559,
+        "key": "2092_3",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 560,
+        "key": "2092_4",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 561,
+        "key": "2115_0",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 562,
+        "key": "2115_1",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 563,
+        "key": "2115_2",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 564,
+        "key": "2115_3",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 565,
+        "key": "2115_4",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 566,
+        "key": "2127_0",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 567,
+        "key": "2127_1",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 568,
+        "key": "2127_2",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 569,
+        "key": "2127_3",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 570,
+        "key": "2127_4",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 571,
+        "key": "2132_0",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 572,
+        "key": "2132_1",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 573,
+        "key": "2132_2",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 574,
+        "key": "2132_3",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 575,
+        "key": "2146_0",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 576,
+        "key": "2146_1",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 577,
+        "key": "2146_2",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 578,
+        "key": "2146_3",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 579,
+        "key": "2146_4",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 580,
+        "key": "2146_5",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 581,
+        "key": "2157_0",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 582,
+        "key": "2157_1",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 583,
+        "key": "2157_2",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 584,
+        "key": "2182_0",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 585,
+        "key": "2182_1",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 586,
+        "key": "2182_2",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 587,
+        "key": "2182_3",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 588,
+        "key": "2203_0",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 589,
+        "key": "2203_1",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 590,
+        "key": "2203_2",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 591,
+        "key": "2242_0",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 592,
+        "key": "2242_1",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 593,
+        "key": "2242_2",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 594,
+        "key": "2242_3",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 595,
+        "key": "2245_0",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 596,
+        "key": "2245_1",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 597,
+        "key": "2245_2",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 598,
+        "key": "2245_3",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 599,
+        "key": "2257_0",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 600,
+        "key": "2257_1",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 601,
+        "key": "2257_2",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 602,
+        "key": "2257_3",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 603,
+        "key": "2258_0",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 604,
+        "key": "2258_1",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 605,
+        "key": "2258_2",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 606,
+        "key": "2258_3",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 607,
+        "key": "2258_4",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 608,
+        "key": "2258_5",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 609,
+        "key": "2290_0",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 610,
+        "key": "2290_1",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 611,
+        "key": "2290_2",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 612,
+        "key": "2290_3",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 613,
+        "key": "2299_0",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 614,
+        "key": "2299_1",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 615,
+        "key": "2299_2",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 616,
+        "key": "2301_0",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 617,
+        "key": "2301_1",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 618,
+        "key": "2301_2",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 619,
+        "key": "2301_3",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 620,
+        "key": "2301_4",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 621,
+        "key": "2322_0",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 622,
+        "key": "2322_1",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 623,
+        "key": "2322_2",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 624,
+        "key": "2322_3",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 625,
+        "key": "2332_0",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 626,
+        "key": "2332_1",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 627,
+        "key": "2332_2",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 628,
+        "key": "2332_3",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 629,
+        "key": "2337_0",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 630,
+        "key": "2337_1",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 631,
+        "key": "2337_2",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 632,
+        "key": "2337_3",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 633,
+        "key": "2392_0",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 634,
+        "key": "2392_1",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 635,
+        "key": "2392_2",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 636,
+        "key": "2437_0",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 637,
+        "key": "2437_1",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 638,
+        "key": "2437_2",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 639,
+        "key": "2456_0",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 640,
+        "key": "2456_1",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 641,
+        "key": "2456_2",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 642,
+        "key": "2462_0",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 643,
+        "key": "2462_1",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 644,
+        "key": "2462_2",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 645,
+        "key": "2462_3",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 646,
+        "key": "2467_0",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 647,
+        "key": "2467_1",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 648,
+        "key": "2467_2",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 649,
+        "key": "2467_3",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 650,
+        "key": "2499_0",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 651,
+        "key": "2499_1",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 652,
+        "key": "2499_2",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 653,
+        "key": "2499_3",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 654,
+        "key": "2499_4",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 655,
+        "key": "2503_0",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 656,
+        "key": "2503_1",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 657,
+        "key": "2503_2",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 658,
+        "key": "2508_0",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 659,
+        "key": "2508_1",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 660,
+        "key": "2508_2",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 661,
+        "key": "2523_0",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 662,
+        "key": "2523_1",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 663,
+        "key": "2523_2",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 664,
+        "key": "2523_3",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 665,
+        "key": "2532_0",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 666,
+        "key": "2532_1",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 667,
+        "key": "2577_0",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 668,
+        "key": "2577_1",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 669,
+        "key": "2577_2",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 670,
+        "key": "2601_0",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 671,
+        "key": "2603_0",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 672,
+        "key": "2603_1",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 673,
+        "key": "2603_2",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 674,
+        "key": "2603_3",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 675,
+        "key": "2653_0",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 676,
+        "key": "2653_1",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 677,
+        "key": "2662_0",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 678,
+        "key": "2662_1",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 679,
+        "key": "2662_2",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 680,
+        "key": "2662_3",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 681,
+        "key": "2663_0",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 682,
+        "key": "2663_1",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 683,
+        "key": "2672_0",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 684,
+        "key": "2672_1",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 685,
+        "key": "2672_2",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 686,
+        "key": "2684_0",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 687,
+        "key": "2684_1",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 688,
+        "key": "2684_2",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 689,
+        "key": "2684_3",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 690,
+        "key": "2685_0",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 691,
+        "key": "2685_1",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 692,
+        "key": "2685_2",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 693,
+        "key": "2685_3",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 694,
+        "key": "2699_0",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 695,
+        "key": "2699_1",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 696,
+        "key": "2699_2",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 697,
+        "key": "2699_3",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 698,
+        "key": "2699_4",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 699,
+        "key": "2699_5",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 700,
+        "key": "2708_0",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 701,
+        "key": "2708_1",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 702,
+        "key": "2708_2",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 703,
+        "key": "2708_3",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 704,
+        "key": "2709_0",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 705,
+        "key": "2709_1",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 706,
+        "key": "2709_2",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 707,
+        "key": "2709_3",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 708,
+        "key": "2709_4",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 709,
+        "key": "2709_5",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 710,
+        "key": "2736_0",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 711,
+        "key": "2736_1",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 712,
+        "key": "2736_2",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 713,
+        "key": "2736_3",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 714,
+        "key": "2736_4",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 715,
+        "key": "2747_0",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 716,
+        "key": "2747_1",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 717,
+        "key": "2747_2",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 718,
+        "key": "2747_3",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 719,
+        "key": "2751_0",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 720,
+        "key": "2751_1",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 721,
+        "key": "2751_2",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 722,
+        "key": "2751_3",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 723,
+        "key": "2751_4",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 724,
+        "key": "2812_0",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 725,
+        "key": "2812_1",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 726,
+        "key": "2812_2",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 727,
+        "key": "2812_3",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 728,
+        "key": "2812_4",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 729,
+        "key": "2812_5",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 730,
+        "key": "2818_0",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 731,
+        "key": "2818_1",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 732,
+        "key": "2818_2",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 733,
+        "key": "2818_3",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 734,
+        "key": "2836_0",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 735,
+        "key": "2836_1",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 736,
+        "key": "2836_2",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 737,
+        "key": "2836_3",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 738,
+        "key": "2844_0",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 739,
+        "key": "2844_1",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 740,
+        "key": "2844_2",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 741,
+        "key": "2846_0",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 742,
+        "key": "2846_1",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 743,
+        "key": "2846_2",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 744,
+        "key": "2846_3",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 745,
+        "key": "2850_0",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 746,
+        "key": "2850_1",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 747,
+        "key": "2850_2",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 748,
+        "key": "2851_0",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 749,
+        "key": "2851_1",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 750,
+        "key": "2851_2",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 751,
+        "key": "2851_3",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 752,
+        "key": "2876_0",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 753,
+        "key": "2876_1",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 754,
+        "key": "2876_2",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 755,
+        "key": "2876_3",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 756,
+        "key": "2901_0",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 757,
+        "key": "2901_1",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 758,
+        "key": "2901_2",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 759,
+        "key": "2901_3",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 760,
+        "key": "2904_0",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 761,
+        "key": "2904_1",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 762,
+        "key": "2904_2",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 763,
+        "key": "2904_3",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 764,
+        "key": "2904_4",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 765,
+        "key": "2911_0",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 766,
+        "key": "2911_1",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 767,
+        "key": "2911_2",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 768,
+        "key": "2911_3",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 769,
+        "key": "2911_4",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 770,
+        "key": "2911_5",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 771,
+        "key": "2932_0",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 772,
+        "key": "2932_1",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 773,
+        "key": "2932_2",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 774,
+        "key": "2932_3",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 775,
+        "key": "2932_4",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 776,
+        "key": "2940_0",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 777,
+        "key": "2940_1",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 778,
+        "key": "2940_2",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 779,
+        "key": "2940_3",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 780,
+        "key": "2948_0",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 781,
+        "key": "2948_1",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 782,
+        "key": "2948_2",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 783,
+        "key": "2948_3",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 784,
+        "key": "2948_4",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 785,
+        "key": "2948_5",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 786,
+        "key": "2953_0",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 787,
+        "key": "2953_1",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 788,
+        "key": "2953_2",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 789,
+        "key": "2953_3",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 790,
+        "key": "2959_0",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 791,
+        "key": "2959_1",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 792,
+        "key": "2959_2",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 793,
+        "key": "2959_3",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 794,
+        "key": "2959_4",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 795,
+        "key": "2959_5",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 796,
+        "key": "2973_0",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 797,
+        "key": "2976_0",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 798,
+        "key": "2976_1",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 799,
+        "key": "2977_0",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 800,
+        "key": "2977_1",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 801,
+        "key": "2977_2",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 802,
+        "key": "2977_3",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 803,
+        "key": "2977_4",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 804,
+        "key": "2977_5",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 805,
+        "key": "2983_0",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 806,
+        "key": "2983_1",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 807,
+        "key": "2983_2",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 808,
+        "key": "2983_3",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 809,
+        "key": "2983_4",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 810,
+        "key": "2983_5",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 811,
+        "key": "3001_0",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 812,
+        "key": "3001_1",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 813,
+        "key": "3006_0",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 814,
+        "key": "3006_1",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 815,
+        "key": "3006_2",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 816,
+        "key": "3029_0",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 817,
+        "key": "3029_1",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 818,
+        "key": "3029_2",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 819,
+        "key": "3029_3",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 820,
+        "key": "3029_4",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 821,
+        "key": "3030_0",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 822,
+        "key": "3043_0",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 823,
+        "key": "3043_1",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 824,
+        "key": "3043_2",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 825,
+        "key": "3043_3",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 826,
+        "key": "3044_0",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 827,
+        "key": "3044_1",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 828,
+        "key": "3044_2",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 829,
+        "key": "3044_3",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 830,
+        "key": "3072_0",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 831,
+        "key": "3072_1",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 832,
+        "key": "3072_2",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 833,
+        "key": "3072_3",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 834,
+        "key": "3072_4",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 835,
+        "key": "3095_0",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 836,
+        "key": "3095_1",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 837,
+        "key": "3095_2",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 838,
+        "key": "3102_0",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 839,
+        "key": "3102_1",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 840,
+        "key": "3102_2",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 841,
+        "key": "3102_3",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 842,
+        "key": "3108_0",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 843,
+        "key": "3108_1",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 844,
+        "key": "3108_2",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 845,
+        "key": "3108_3",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 846,
+        "key": "3112_0",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 847,
+        "key": "3112_1",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 848,
+        "key": "3112_2",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 849,
+        "key": "3112_3",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 850,
+        "key": "3123_0",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 851,
+        "key": "3123_1",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 852,
+        "key": "3123_2",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3.1-8b",
+        "idx": 853,
+        "key": "3123_3",
+        "winner": "model_b"
+    }
+]

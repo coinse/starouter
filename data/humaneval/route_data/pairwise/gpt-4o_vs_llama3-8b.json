@@ -1,0 +1,1150 @@
+[
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3-8b",
+        "idx": 0,
+        "key": "HumanEval/0",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3-8b",
+        "idx": 1,
+        "key": "HumanEval/1",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3-8b",
+        "idx": 2,
+        "key": "HumanEval/2",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3-8b",
+        "idx": 3,
+        "key": "HumanEval/3",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3-8b",
+        "idx": 4,
+        "key": "HumanEval/4",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3-8b",
+        "idx": 5,
+        "key": "HumanEval/5",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3-8b",
+        "idx": 6,
+        "key": "HumanEval/6",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3-8b",
+        "idx": 7,
+        "key": "HumanEval/7",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3-8b",
+        "idx": 8,
+        "key": "HumanEval/8",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3-8b",
+        "idx": 9,
+        "key": "HumanEval/9",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3-8b",
+        "idx": 10,
+        "key": "HumanEval/10",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3-8b",
+        "idx": 11,
+        "key": "HumanEval/11",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3-8b",
+        "idx": 12,
+        "key": "HumanEval/12",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3-8b",
+        "idx": 13,
+        "key": "HumanEval/13",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3-8b",
+        "idx": 14,
+        "key": "HumanEval/14",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3-8b",
+        "idx": 15,
+        "key": "HumanEval/15",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3-8b",
+        "idx": 16,
+        "key": "HumanEval/16",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3-8b",
+        "idx": 17,
+        "key": "HumanEval/17",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3-8b",
+        "idx": 18,
+        "key": "HumanEval/18",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3-8b",
+        "idx": 19,
+        "key": "HumanEval/19",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3-8b",
+        "idx": 20,
+        "key": "HumanEval/20",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3-8b",
+        "idx": 21,
+        "key": "HumanEval/21",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3-8b",
+        "idx": 22,
+        "key": "HumanEval/22",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3-8b",
+        "idx": 23,
+        "key": "HumanEval/23",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3-8b",
+        "idx": 24,
+        "key": "HumanEval/24",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3-8b",
+        "idx": 25,
+        "key": "HumanEval/25",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3-8b",
+        "idx": 26,
+        "key": "HumanEval/26",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3-8b",
+        "idx": 27,
+        "key": "HumanEval/27",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3-8b",
+        "idx": 28,
+        "key": "HumanEval/28",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3-8b",
+        "idx": 29,
+        "key": "HumanEval/29",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3-8b",
+        "idx": 30,
+        "key": "HumanEval/30",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3-8b",
+        "idx": 31,
+        "key": "HumanEval/31",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3-8b",
+        "idx": 32,
+        "key": "HumanEval/32",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3-8b",
+        "idx": 33,
+        "key": "HumanEval/33",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3-8b",
+        "idx": 34,
+        "key": "HumanEval/34",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3-8b",
+        "idx": 35,
+        "key": "HumanEval/35",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3-8b",
+        "idx": 36,
+        "key": "HumanEval/36",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3-8b",
+        "idx": 37,
+        "key": "HumanEval/37",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3-8b",
+        "idx": 38,
+        "key": "HumanEval/38",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3-8b",
+        "idx": 39,
+        "key": "HumanEval/39",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3-8b",
+        "idx": 40,
+        "key": "HumanEval/40",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3-8b",
+        "idx": 41,
+        "key": "HumanEval/41",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3-8b",
+        "idx": 42,
+        "key": "HumanEval/42",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3-8b",
+        "idx": 43,
+        "key": "HumanEval/43",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3-8b",
+        "idx": 44,
+        "key": "HumanEval/44",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3-8b",
+        "idx": 45,
+        "key": "HumanEval/45",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3-8b",
+        "idx": 46,
+        "key": "HumanEval/46",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3-8b",
+        "idx": 47,
+        "key": "HumanEval/47",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3-8b",
+        "idx": 48,
+        "key": "HumanEval/48",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3-8b",
+        "idx": 49,
+        "key": "HumanEval/49",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3-8b",
+        "idx": 50,
+        "key": "HumanEval/50",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3-8b",
+        "idx": 51,
+        "key": "HumanEval/51",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3-8b",
+        "idx": 52,
+        "key": "HumanEval/52",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3-8b",
+        "idx": 53,
+        "key": "HumanEval/53",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3-8b",
+        "idx": 54,
+        "key": "HumanEval/54",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3-8b",
+        "idx": 55,
+        "key": "HumanEval/55",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3-8b",
+        "idx": 56,
+        "key": "HumanEval/56",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3-8b",
+        "idx": 57,
+        "key": "HumanEval/57",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3-8b",
+        "idx": 58,
+        "key": "HumanEval/58",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3-8b",
+        "idx": 59,
+        "key": "HumanEval/59",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3-8b",
+        "idx": 60,
+        "key": "HumanEval/60",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3-8b",
+        "idx": 61,
+        "key": "HumanEval/61",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3-8b",
+        "idx": 62,
+        "key": "HumanEval/62",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3-8b",
+        "idx": 63,
+        "key": "HumanEval/63",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3-8b",
+        "idx": 64,
+        "key": "HumanEval/64",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3-8b",
+        "idx": 65,
+        "key": "HumanEval/65",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3-8b",
+        "idx": 66,
+        "key": "HumanEval/66",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3-8b",
+        "idx": 67,
+        "key": "HumanEval/67",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3-8b",
+        "idx": 68,
+        "key": "HumanEval/68",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3-8b",
+        "idx": 69,
+        "key": "HumanEval/69",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3-8b",
+        "idx": 70,
+        "key": "HumanEval/70",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3-8b",
+        "idx": 71,
+        "key": "HumanEval/71",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3-8b",
+        "idx": 72,
+        "key": "HumanEval/72",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3-8b",
+        "idx": 73,
+        "key": "HumanEval/73",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3-8b",
+        "idx": 74,
+        "key": "HumanEval/74",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3-8b",
+        "idx": 75,
+        "key": "HumanEval/75",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3-8b",
+        "idx": 76,
+        "key": "HumanEval/76",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3-8b",
+        "idx": 77,
+        "key": "HumanEval/77",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3-8b",
+        "idx": 78,
+        "key": "HumanEval/78",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3-8b",
+        "idx": 79,
+        "key": "HumanEval/79",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3-8b",
+        "idx": 80,
+        "key": "HumanEval/80",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3-8b",
+        "idx": 81,
+        "key": "HumanEval/81",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3-8b",
+        "idx": 82,
+        "key": "HumanEval/82",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3-8b",
+        "idx": 83,
+        "key": "HumanEval/83",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3-8b",
+        "idx": 84,
+        "key": "HumanEval/84",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3-8b",
+        "idx": 85,
+        "key": "HumanEval/85",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3-8b",
+        "idx": 86,
+        "key": "HumanEval/86",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3-8b",
+        "idx": 87,
+        "key": "HumanEval/87",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3-8b",
+        "idx": 88,
+        "key": "HumanEval/88",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3-8b",
+        "idx": 89,
+        "key": "HumanEval/89",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3-8b",
+        "idx": 90,
+        "key": "HumanEval/90",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3-8b",
+        "idx": 91,
+        "key": "HumanEval/91",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3-8b",
+        "idx": 92,
+        "key": "HumanEval/92",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3-8b",
+        "idx": 93,
+        "key": "HumanEval/93",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3-8b",
+        "idx": 94,
+        "key": "HumanEval/94",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3-8b",
+        "idx": 95,
+        "key": "HumanEval/95",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3-8b",
+        "idx": 96,
+        "key": "HumanEval/96",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3-8b",
+        "idx": 97,
+        "key": "HumanEval/97",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3-8b",
+        "idx": 98,
+        "key": "HumanEval/98",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3-8b",
+        "idx": 99,
+        "key": "HumanEval/99",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3-8b",
+        "idx": 100,
+        "key": "HumanEval/100",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3-8b",
+        "idx": 101,
+        "key": "HumanEval/101",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3-8b",
+        "idx": 102,
+        "key": "HumanEval/102",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3-8b",
+        "idx": 103,
+        "key": "HumanEval/103",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3-8b",
+        "idx": 104,
+        "key": "HumanEval/104",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3-8b",
+        "idx": 105,
+        "key": "HumanEval/105",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3-8b",
+        "idx": 106,
+        "key": "HumanEval/106",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3-8b",
+        "idx": 107,
+        "key": "HumanEval/107",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3-8b",
+        "idx": 108,
+        "key": "HumanEval/108",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3-8b",
+        "idx": 109,
+        "key": "HumanEval/109",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3-8b",
+        "idx": 110,
+        "key": "HumanEval/110",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3-8b",
+        "idx": 111,
+        "key": "HumanEval/111",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3-8b",
+        "idx": 112,
+        "key": "HumanEval/112",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3-8b",
+        "idx": 113,
+        "key": "HumanEval/113",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3-8b",
+        "idx": 114,
+        "key": "HumanEval/114",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3-8b",
+        "idx": 115,
+        "key": "HumanEval/115",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3-8b",
+        "idx": 116,
+        "key": "HumanEval/116",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3-8b",
+        "idx": 117,
+        "key": "HumanEval/117",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3-8b",
+        "idx": 118,
+        "key": "HumanEval/118",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3-8b",
+        "idx": 119,
+        "key": "HumanEval/119",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3-8b",
+        "idx": 120,
+        "key": "HumanEval/120",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3-8b",
+        "idx": 121,
+        "key": "HumanEval/121",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3-8b",
+        "idx": 122,
+        "key": "HumanEval/122",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3-8b",
+        "idx": 123,
+        "key": "HumanEval/123",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3-8b",
+        "idx": 124,
+        "key": "HumanEval/124",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3-8b",
+        "idx": 125,
+        "key": "HumanEval/125",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3-8b",
+        "idx": 126,
+        "key": "HumanEval/126",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3-8b",
+        "idx": 127,
+        "key": "HumanEval/127",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3-8b",
+        "idx": 128,
+        "key": "HumanEval/128",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3-8b",
+        "idx": 129,
+        "key": "HumanEval/129",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3-8b",
+        "idx": 130,
+        "key": "HumanEval/130",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3-8b",
+        "idx": 131,
+        "key": "HumanEval/131",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3-8b",
+        "idx": 132,
+        "key": "HumanEval/132",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3-8b",
+        "idx": 133,
+        "key": "HumanEval/133",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3-8b",
+        "idx": 134,
+        "key": "HumanEval/134",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3-8b",
+        "idx": 135,
+        "key": "HumanEval/135",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3-8b",
+        "idx": 136,
+        "key": "HumanEval/136",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3-8b",
+        "idx": 137,
+        "key": "HumanEval/137",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3-8b",
+        "idx": 138,
+        "key": "HumanEval/138",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3-8b",
+        "idx": 139,
+        "key": "HumanEval/139",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3-8b",
+        "idx": 140,
+        "key": "HumanEval/140",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3-8b",
+        "idx": 141,
+        "key": "HumanEval/141",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3-8b",
+        "idx": 142,
+        "key": "HumanEval/142",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3-8b",
+        "idx": 143,
+        "key": "HumanEval/143",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3-8b",
+        "idx": 144,
+        "key": "HumanEval/144",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3-8b",
+        "idx": 145,
+        "key": "HumanEval/145",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3-8b",
+        "idx": 146,
+        "key": "HumanEval/146",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3-8b",
+        "idx": 147,
+        "key": "HumanEval/147",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3-8b",
+        "idx": 148,
+        "key": "HumanEval/148",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3-8b",
+        "idx": 149,
+        "key": "HumanEval/149",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3-8b",
+        "idx": 150,
+        "key": "HumanEval/150",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3-8b",
+        "idx": 151,
+        "key": "HumanEval/151",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3-8b",
+        "idx": 152,
+        "key": "HumanEval/152",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3-8b",
+        "idx": 153,
+        "key": "HumanEval/153",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3-8b",
+        "idx": 154,
+        "key": "HumanEval/154",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3-8b",
+        "idx": 155,
+        "key": "HumanEval/155",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3-8b",
+        "idx": 156,
+        "key": "HumanEval/156",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3-8b",
+        "idx": 157,
+        "key": "HumanEval/157",
+        "winner": "model_b"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3-8b",
+        "idx": 158,
+        "key": "HumanEval/158",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3-8b",
+        "idx": 159,
+        "key": "HumanEval/159",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3-8b",
+        "idx": 160,
+        "key": "HumanEval/160",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3-8b",
+        "idx": 161,
+        "key": "HumanEval/161",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3-8b",
+        "idx": 162,
+        "key": "HumanEval/162",
+        "winner": "model_a"
+    },
+    {
+        "model_a": "gpt-4o",
+        "model_b": "llama3-8b",
+        "idx": 163,
+        "key": "HumanEval/163",
+        "winner": "model_a"
+    }
+]
