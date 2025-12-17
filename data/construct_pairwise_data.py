@@ -6,7 +6,7 @@ import sys
 sys.path.append("..")
 from config import path_to_result_file_for
 
-def load_code_generation_data(weak_model_result_path, strong_model_result_path):
+def label_simple_data(weak_model_result_path, strong_model_result_path):
     with open(weak_model_result_path) as f:
         weak_result = json.load(f)
 
@@ -16,17 +16,17 @@ def load_code_generation_data(weak_model_result_path, strong_model_result_path):
     assert strong_result.keys() == weak_result.keys()
     problem_indices = strong_result.keys()
     vs_result = list(map(
-                         lambda pair_of_pass_rates: pair_of_pass_rates[0] > pair_of_pass_rates[1], # Strong win only when its pass rate is greater
+                         lambda pair_of_results: pair_of_results[0] > pair_of_results[1], # Strong win when its pass rate is greater / binary labels also can be compared directly as True > False
                          zip(strong_result.values(), weak_result.values())
                         ))
-    
+ 
     return vs_result, problem_indices
 
 def load_humaneval_data(weak_model_result_path, strong_model_result_path):
-    return load_code_generation_data(weak_model_result_path, strong_model_result_path)
+    return label_simple_data(weak_model_result_path, strong_model_result_path)
     
 def load_apps_data(weak_model_result_path, strong_model_result_path):
-    return load_code_generation_data(weak_model_result_path, strong_model_result_path)
+    return label_simple_data(weak_model_result_path, strong_model_result_path)
 
 def load_testeval_overall_coverage_data(weak_model_result_path, strong_model_result_path):
     with open(weak_model_result_path) as f:
@@ -65,30 +65,14 @@ def load_testeval_targeted_branch_coverage_data(weak_model_result_path, strong_m
     
     return vs_result, problem_indices
 
-def load_binary_data(weak_model_result_path, strong_model_result_path):
-    with open(weak_model_result_path) as f:
-        weak_result = json.load(f)
-
-    with open(strong_model_result_path) as f:
-        strong_result = json.load(f)
-
-    assert strong_result.keys() == weak_result.keys()
-    problem_indices = strong_result.keys()
-    vs_result = list(map(
-                         lambda pair_of_covered: float(pair_of_covered[0]) > float(pair_of_covered[1]), # True -> 1.0, False -> 0.0 / for path coverage, path similarity float is compared
-                         zip(strong_result.values(), weak_result.values())
-                        ))
-    
-    return vs_result, problem_indices
-
 def load_testeval_targeted_line_coverage_data(weak_model_result_path, strong_model_result_path):
-    return load_binary_data(weak_model_result_path, strong_model_result_path)
+    return label_simple_data(weak_model_result_path, strong_model_result_path)
 
 def load_testeval_targeted_path_coverage_data(weak_model_result_path, strong_model_result_path):
-    return load_binary_data(weak_model_result_path, strong_model_result_path)
+    return label_simple_data(weak_model_result_path, strong_model_result_path)
 
 def load_libro_d4j_data(weak_model_result_path, strong_model_result_path):
-    return load_binary_data(weak_model_result_path, strong_model_result_path)
+    return label_simple_data(weak_model_result_path, strong_model_result_path)
 
 def retrieve_pairwise_data_loader(benchmark):
     return {

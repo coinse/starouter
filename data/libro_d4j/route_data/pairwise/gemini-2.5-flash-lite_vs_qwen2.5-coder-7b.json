@@ -60,7 +60,7 @@
         "model_b": "qwen2.5-coder-7b",
         "idx": 8,
         "key": "Cli_17",
-        "winner": "model_b"
+        "winner": "model_a"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
@@ -74,7 +74,7 @@
         "model_b": "qwen2.5-coder-7b",
         "idx": 10,
         "key": "Chart_9",
-        "winner": "model_b"
+        "winner": "model_a"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
@@ -1481,7 +1481,7 @@
         "model_b": "qwen2.5-coder-7b",
         "idx": 211,
         "key": "Codec_11",
-        "winner": "model_b"
+        "winner": "model_a"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
@@ -3371,7 +3371,7 @@
         "model_b": "qwen2.5-coder-7b",
         "idx": 481,
         "key": "Jsoup_5",
-        "winner": "model_b"
+        "winner": "model_a"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
@@ -3490,7 +3490,7 @@
         "model_b": "qwen2.5-coder-7b",
         "idx": 498,
         "key": "Jsoup_65",
-        "winner": "model_b"
+        "winner": "model_a"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
@@ -4400,7 +4400,7 @@
         "model_b": "qwen2.5-coder-7b",
         "idx": 628,
         "key": "Math_2",
-        "winner": "model_b"
+        "winner": "model_a"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
@@ -4477,7 +4477,7 @@
         "model_b": "qwen2.5-coder-7b",
         "idx": 639,
         "key": "Math_3",
-        "winner": "model_b"
+        "winner": "model_a"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
@@ -4820,7 +4820,7 @@
         "model_b": "qwen2.5-coder-7b",
         "idx": 688,
         "key": "Math_77",
-        "winner": "model_b"
+        "winner": "model_a"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
@@ -4876,7 +4876,7 @@
         "model_b": "qwen2.5-coder-7b",
         "idx": 696,
         "key": "Math_8",
-        "winner": "model_b"
+        "winner": "model_a"
     },
     {
         "model_a": "gemini-2.5-flash-lite",

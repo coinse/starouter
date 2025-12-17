@@ -11,21 +11,21 @@
         "model_b": "qwen2.5-coder-7b",
         "idx": 1,
         "key": "Lang_4",
-        "winner": "model_b"
+        "winner": "model_a"
     },
     {
         "model_a": "gpt-4o",
         "model_b": "qwen2.5-coder-7b",
         "idx": 2,
         "key": "Lang_8",
-        "winner": "model_b"
+        "winner": "model_a"
     },
     {
         "model_a": "gpt-4o",
         "model_b": "qwen2.5-coder-7b",
         "idx": 3,
         "key": "Time_15",
-        "winner": "model_b"
+        "winner": "model_a"
     },
     {
         "model_a": "gpt-4o",
@@ -46,7 +46,7 @@
         "model_b": "qwen2.5-coder-7b",
         "idx": 6,
         "key": "Chart_9",
-        "winner": "model_b"
+        "winner": "model_a"
     },
     {
         "model_a": "gpt-4o",
@@ -60,7 +60,7 @@
         "model_b": "qwen2.5-coder-7b",
         "idx": 8,
         "key": "Chart_5",
-        "winner": "model_b"
+        "winner": "model_a"
     },
     {
         "model_a": "gpt-4o",
@@ -81,7 +81,7 @@
         "model_b": "qwen2.5-coder-7b",
         "idx": 11,
         "key": "Lang_27",
-        "winner": "model_b"
+        "winner": "model_a"
     },
     {
         "model_a": "gpt-4o",
@@ -123,14 +123,14 @@
         "model_b": "qwen2.5-coder-7b",
         "idx": 17,
         "key": "Time_19",
-        "winner": "model_b"
+        "winner": "model_a"
     },
     {
         "model_a": "gpt-4o",
         "model_b": "qwen2.5-coder-7b",
         "idx": 18,
         "key": "Lang_26",
-        "winner": "model_b"
+        "winner": "model_a"
     },
     {
         "model_a": "gpt-4o",
@@ -193,7 +193,7 @@
         "model_b": "qwen2.5-coder-7b",
         "idx": 27,
         "key": "Time_3",
-        "winner": "model_b"
+        "winner": "model_a"
     },
     {
         "model_a": "gpt-4o",
@@ -270,7 +270,7 @@
         "model_b": "qwen2.5-coder-7b",
         "idx": 38,
         "key": "Lang_6",
-        "winner": "model_b"
+        "winner": "model_a"
     },
     {
         "model_a": "gpt-4o",
@@ -284,7 +284,7 @@
         "model_b": "qwen2.5-coder-7b",
         "idx": 40,
         "key": "Lang_3",
-        "winner": "model_b"
+        "winner": "model_a"
     },
     {
         "model_a": "gpt-4o",
@@ -375,7 +375,7 @@
         "model_b": "qwen2.5-coder-7b",
         "idx": 53,
         "key": "Lang_31",
-        "winner": "model_b"
+        "winner": "model_a"
     },
     {
         "model_a": "gpt-4o",
@@ -452,7 +452,7 @@
         "model_b": "qwen2.5-coder-7b",
         "idx": 64,
         "key": "Math_102",
-        "winner": "model_b"
+        "winner": "model_a"
     },
     {
         "model_a": "gpt-4o",
@@ -487,7 +487,7 @@
         "model_b": "qwen2.5-coder-7b",
         "idx": 69,
         "key": "Math_105",
-        "winner": "model_b"
+        "winner": "model_a"
     },
     {
         "model_a": "gpt-4o",
@@ -718,7 +718,7 @@
         "model_b": "qwen2.5-coder-7b",
         "idx": 102,
         "key": "Math_47",
-        "winner": "model_b"
+        "winner": "model_a"
     },
     {
         "model_a": "gpt-4o",
@@ -809,7 +809,7 @@
         "model_b": "qwen2.5-coder-7b",
         "idx": 115,
         "key": "Math_106",
-        "winner": "model_b"
+        "winner": "model_a"
     },
     {
         "model_a": "gpt-4o",
@@ -837,7 +837,7 @@
         "model_b": "qwen2.5-coder-7b",
         "idx": 119,
         "key": "Math_16",
-        "winner": "model_b"
+        "winner": "model_a"
     },
     {
         "model_a": "gpt-4o",
@@ -851,7 +851,7 @@
         "model_b": "qwen2.5-coder-7b",
         "idx": 121,
         "key": "Math_2",
-        "winner": "model_b"
+        "winner": "model_a"
     },
     {
         "model_a": "gpt-4o",
@@ -872,7 +872,7 @@
         "model_b": "qwen2.5-coder-7b",
         "idx": 124,
         "key": "Math_3",
-        "winner": "model_b"
+        "winner": "model_a"
     },
     {
         "model_a": "gpt-4o",
@@ -991,7 +991,7 @@
         "model_b": "qwen2.5-coder-7b",
         "idx": 141,
         "key": "Math_60",
-        "winner": "model_b"
+        "winner": "model_a"
     },
     {
         "model_a": "gpt-4o",
@@ -1110,7 +1110,7 @@
         "model_b": "qwen2.5-coder-7b",
         "idx": 158,
         "key": "Math_89",
-        "winner": "model_b"
+        "winner": "model_a"
     },
     {
         "model_a": "gpt-4o",
@@ -1124,7 +1124,7 @@
         "model_b": "qwen2.5-coder-7b",
         "idx": 160,
         "key": "Math_93",
-        "winner": "model_b"
+        "winner": "model_a"
     },
     {
         "model_a": "gpt-4o",
@@ -1292,7 +1292,7 @@
         "model_b": "qwen2.5-coder-7b",
         "idx": 184,
         "key": "Cli_34",
-        "winner": "model_b"
+        "winner": "model_a"
     },
     {
         "model_a": "gpt-4o",
@@ -2790,7 +2790,7 @@
         "model_b": "qwen2.5-coder-7b",
         "idx": 398,
         "key": "Codec_17",
-        "winner": "model_b"
+        "winner": "model_a"
     },
     {
         "model_a": "gpt-4o",
@@ -3343,7 +3343,7 @@
         "model_b": "qwen2.5-coder-7b",
         "idx": 477,
         "key": "Gson_13",
-        "winner": "model_b"
+        "winner": "model_a"
     },
     {
         "model_a": "gpt-4o",
@@ -3378,7 +3378,7 @@
         "model_b": "qwen2.5-coder-7b",
         "idx": 482,
         "key": "Gson_5",
-        "winner": "model_b"
+        "winner": "model_a"
     },
     {
         "model_a": "gpt-4o",
@@ -3560,7 +3560,7 @@
         "model_b": "qwen2.5-coder-7b",
         "idx": 508,
         "key": "JacksonCore_9",
-        "winner": "model_b"
+        "winner": "model_a"
     },
     {
         "model_a": "gpt-4o",
@@ -3931,7 +3931,7 @@
         "model_b": "qwen2.5-coder-7b",
         "idx": 561,
         "key": "JacksonDatabind_48",
-        "winner": "model_b"
+        "winner": "model_a"
     },
     {
         "model_a": "gpt-4o",
@@ -4337,7 +4337,7 @@
         "model_b": "qwen2.5-coder-7b",
         "idx": 619,
         "key": "Jsoup_11",
-        "winner": "model_b"
+        "winner": "model_a"
     },
     {
         "model_a": "gpt-4o",
@@ -4470,7 +4470,7 @@
         "model_b": "qwen2.5-coder-7b",
         "idx": 638,
         "key": "Jsoup_26",
-        "winner": "model_b"
+        "winner": "model_a"
     },
     {
         "model_a": "gpt-4o",
@@ -4547,7 +4547,7 @@
         "model_b": "qwen2.5-coder-7b",
         "idx": 649,
         "key": "Jsoup_35",
-        "winner": "model_b"
+        "winner": "model_a"
     },
     {
         "model_a": "gpt-4o",
@@ -4624,7 +4624,7 @@
         "model_b": "qwen2.5-coder-7b",
         "idx": 660,
         "key": "Jsoup_44",
-        "winner": "model_b"
+        "winner": "model_a"
     },
     {
         "model_a": "gpt-4o",
@@ -4701,7 +4701,7 @@
         "model_b": "qwen2.5-coder-7b",
         "idx": 671,
         "key": "Jsoup_56",
-        "winner": "model_b"
+        "winner": "model_a"
     },
     {
         "model_a": "gpt-4o",
@@ -4806,7 +4806,7 @@
         "model_b": "qwen2.5-coder-7b",
         "idx": 686,
         "key": "Jsoup_70",
-        "winner": "model_b"
+        "winner": "model_a"
     },
     {
         "model_a": "gpt-4o",

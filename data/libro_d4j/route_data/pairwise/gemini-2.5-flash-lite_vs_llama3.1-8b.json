@@ -53,7 +53,7 @@
         "model_b": "llama3.1-8b",
         "idx": 7,
         "key": "Cli_14",
-        "winner": "model_b"
+        "winner": "model_a"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
@@ -3294,7 +3294,7 @@
         "model_b": "llama3.1-8b",
         "idx": 470,
         "key": "Jsoup_38",
-        "winner": "model_b"
+        "winner": "model_a"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
@@ -4064,7 +4064,7 @@
         "model_b": "llama3.1-8b",
         "idx": 580,
         "key": "Lang_4",
-        "winner": "model_b"
+        "winner": "model_a"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
@@ -4974,7 +4974,7 @@
         "model_b": "llama3.1-8b",
         "idx": 710,
         "key": "Math_91",
-        "winner": "model_b"
+        "winner": "model_a"
     },
     {
         "model_a": "gemini-2.5-flash-lite",

@@ -53,7 +53,7 @@
         "model_b": "mistral-nemo-12b",
         "idx": 7,
         "key": "Cli_14",
-        "winner": "model_b"
+        "winner": "model_a"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
@@ -74,7 +74,7 @@
         "model_b": "mistral-nemo-12b",
         "idx": 10,
         "key": "Chart_9",
-        "winner": "model_b"
+        "winner": "model_a"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
@@ -207,7 +207,7 @@
         "model_b": "mistral-nemo-12b",
         "idx": 29,
         "key": "Cli_39",
-        "winner": "model_b"
+        "winner": "model_a"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
@@ -3371,7 +3371,7 @@
         "model_b": "mistral-nemo-12b",
         "idx": 481,
         "key": "Jsoup_5",
-        "winner": "model_b"
+        "winner": "model_a"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
@@ -3469,14 +3469,14 @@
         "model_b": "mistral-nemo-12b",
         "idx": 495,
         "key": "Jsoup_61",
-        "winner": "model_b"
+        "winner": "model_a"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
         "model_b": "mistral-nemo-12b",
         "idx": 496,
         "key": "Jsoup_62",
-        "winner": "model_b"
+        "winner": "model_a"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
@@ -3728,7 +3728,7 @@
         "model_b": "mistral-nemo-12b",
         "idx": 532,
         "key": "Jsoup_92",
-        "winner": "model_b"
+        "winner": "model_a"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
@@ -3896,7 +3896,7 @@
         "model_b": "mistral-nemo-12b",
         "idx": 556,
         "key": "Lang_17",
-        "winner": "model_b"
+        "winner": "model_a"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
@@ -4302,7 +4302,7 @@
         "model_b": "mistral-nemo-12b",
         "idx": 614,
         "key": "Math_106",
-        "winner": "model_b"
+        "winner": "model_a"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
@@ -4708,7 +4708,7 @@
         "model_b": "mistral-nemo-12b",
         "idx": 672,
         "key": "Math_6",
-        "winner": "model_b"
+        "winner": "model_a"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
