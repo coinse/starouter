@@ -11,4 +11,3 @@ python visualize.py -p input_only
 python visualize.py --code_generation -p input_only 
 
 python generalize.py -p entire
-python generalize.py -p input_only 

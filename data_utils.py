@@ -9,7 +9,7 @@ def load_keys(benchmark, strong_model_name, weak_model_name):
 
     return keys
 
-def load_code_generation_result(path, keys):
+def load_success_at_any_result(path, keys):
     with open(path) as f:
         strong_result = json.load(f)
 
@@ -46,11 +46,11 @@ def load_libro_d4j_results(path, keys):
 
 def retrieve_corresponding_result_loader(benchmark):
     return {
-        'HumanEval': load_code_generation_result,
-        'APPS': load_code_generation_result,
+        'HumanEval': load_success_at_any_result,
+        'APPS': load_success_at_any_result,
         'TestEval_total': load_testeval_overall_coverage_result,
         'TestEval_line': load_testeval_targeted_line_coverage_results,
         'TestEval_branch': load_testeval_targeted_branch_coverage_results,
         'TestEval_path': load_testeval_targeted_path_coverage_results,
-        'LIBRO_d4j': load_libro_d4j_results,
+        'LIBRO_d4j': load_success_at_any_result,
     }[benchmark]

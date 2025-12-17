@@ -99,46 +99,44 @@ def generalize_cross_benchamrks(benchmarks, prompt_type, strong_model_name):
         os.makedirs(f'./results/{benchmark.lower()}/benchmark_generalization/', exist_ok=True)
     
     for weak_model_name in WEAK_MODELS:
-        for embedding_model in tqdm.tqdm(EMBEDDING_MODELS):
-            dataset = list()
-            for benchmark in benchmarks:
-                embeddings, labels, _ = load_embeddings_with_labels(benchmark, strong_model_name, weak_model_name, embedding_model, prompt_type)
-                dataset.append((embeddings, labels))
-                
-            for i in range(len(benchmarks)):
-                train_benchmark = benchmarks[i]
+        embedding_model = DEFAULT_EMBEDDING_TYPE
+        dataset = list()
+        for benchmark in benchmarks:
+            embeddings, labels, _ = load_embeddings_with_labels(benchmark, strong_model_name, weak_model_name, embedding_model, prompt_type)
+            dataset.append((embeddings, labels))
+            
+        for i in range(len(benchmarks)):
+            train_benchmark = benchmarks[i]
 
-                if all([os.path.isfile(f'./results/{test_benchmark.lower()}/benchmark_generalization/{embedding_model}_from_{train_benchmark}_{strong_model_name}_{weak_model_name}_classifiers_{prompt_type}.pkl') for test_benchmark in benchmarks[:i] + benchmarks[i + 1:]]):
-                    print(f'Cross bench results for {embedding_model}/{strong_model_name}/{weak_model_name}/{train_benchmark} already exist!')
-                    continue
+            if all([os.path.isfile(f'./results/{test_benchmark.lower()}/benchmark_generalization/{embedding_model}_from_{train_benchmark}_{strong_model_name}_{weak_model_name}_classifiers_{prompt_type}.pkl') for test_benchmark in benchmarks[:i] + benchmarks[i + 1:]]):
+                print(f'Cross bench results for {embedding_model}/{strong_model_name}/{weak_model_name}/{train_benchmark} already exist!')
+                continue
 
-                train_X, train_y = dataset[i]
-                dataframes = find_best_model_with_hyperparameter_preset_without_cross_validation(train_X, train_y, dataset[:i] + dataset[i + 1:])
-                for test_benchmark, df in zip(benchmarks[:i] + benchmarks[i + 1:], dataframes):
-                    pkl_path = f'./results/{test_benchmark.lower()}/benchmark_generalization/{embedding_model}_from_{train_benchmark}_{strong_model_name}_{weak_model_name}_classifiers_{prompt_type}.pkl'
-                    pd.to_pickle(df, pkl_path)
+            train_X, train_y = dataset[i]
+            dataframes = find_best_model_with_hyperparameter_preset_without_cross_validation(train_X, train_y, dataset[:i] + dataset[i + 1:])
+            for test_benchmark, df in zip(benchmarks[:i] + benchmarks[i + 1:], dataframes):
+                pkl_path = f'./results/{test_benchmark.lower()}/benchmark_generalization/{embedding_model}_from_{train_benchmark}_{strong_model_name}_{weak_model_name}_classifiers_{prompt_type}.pkl'
+                pd.to_pickle(df, pkl_path)
 
         total_layers = total_number_of_layers_of(weak_model_name)
-        layers = [round(total_layers / 2), round(total_layers * 2 / 3), round(total_layers * 3 / 4)]
-    
-        for layer in tqdm.tqdm(layers):
-            dataset = list()
-            for benchmark in benchmarks:
-                internal_states, labels, _ = load_internal_states_with_layer(benchmark, strong_model_name, weak_model_name, layer, prompt_type)
-                dataset.append((internal_states, labels))
-                
-            for i in range(len(benchmarks)):
-                train_benchmark = benchmarks[i]
+        layer = round(total_layers * 3 / 4) # DEFAULT_INTERNAL_STATE_TYPE
+        dataset = list()
+        for benchmark in benchmarks:
+            internal_states, labels, _ = load_internal_states_with_layer(benchmark, strong_model_name, weak_model_name, layer, prompt_type)
+            dataset.append((internal_states, labels))
+            
+        for i in range(len(benchmarks)):
+            train_benchmark = benchmarks[i]
 
-                if all([os.path.isfile(f'./results/{test_benchmark.lower()}/benchmark_generalization/internal_state_layer{layer}_from_{train_benchmark}_{strong_model_name}_{weak_model_name}_classifiers_{prompt_type}.pkl') for test_benchmark in benchmarks[:i] + benchmarks[i + 1:]]):
-                    print(f'Cross bench results for layer{layer}/{strong_model_name}/{weak_model_name}/{train_benchmark} already exist!')
-                    continue
+            if all([os.path.isfile(f'./results/{test_benchmark.lower()}/benchmark_generalization/internal_state_layer{layer}_from_{train_benchmark}_{strong_model_name}_{weak_model_name}_classifiers_{prompt_type}.pkl') for test_benchmark in benchmarks[:i] + benchmarks[i + 1:]]):
+                print(f'Cross bench results for layer{layer}/{strong_model_name}/{weak_model_name}/{train_benchmark} already exist!')
+                continue
 
-                train_X, train_y = dataset[i]
-                dataframes = find_best_model_with_hyperparameter_preset_without_cross_validation(train_X, train_y, dataset[:i] + dataset[i + 1:])
-                for test_benchmark, df in zip(benchmarks[:i] + benchmarks[i + 1:], dataframes):
-                    pkl_path = f'./results/{test_benchmark.lower()}/benchmark_generalization/internal_state_layer{layer}_from_{train_benchmark}_{strong_model_name}_{weak_model_name}_classifiers_{prompt_type}.pkl'
-                    pd.to_pickle(df, pkl_path)
+            train_X, train_y = dataset[i]
+            dataframes = find_best_model_with_hyperparameter_preset_without_cross_validation(train_X, train_y, dataset[:i] + dataset[i + 1:])
+            for test_benchmark, df in zip(benchmarks[:i] + benchmarks[i + 1:], dataframes):
+                pkl_path = f'./results/{test_benchmark.lower()}/benchmark_generalization/internal_state_layer{layer}_from_{train_benchmark}_{strong_model_name}_{weak_model_name}_classifiers_{prompt_type}.pkl'
+                pd.to_pickle(df, pkl_path)
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
