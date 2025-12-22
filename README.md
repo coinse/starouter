@@ -34,3 +34,47 @@ Main scripts are presented in the repository, each containing
 Configuration and helper functions are included in
 - [config.py](./config.py): main configuration file that contains list of models and benchmarks. **You must set the value of** `REPO_PATH` based on your machine, which is now set as `/root/starouter`.
 - [data_utils.py](./data_utils.py) & [metric.py](./metric.py): Load model performance metrics on each benchmark and compute RO/CPT based on Trapezoidal rule.
+
+### Detailed Instruction
+To reproduce the experimental results, we recommend you to use `python>=3.9` - we specifically used `python=3.9.19`.  
+All required modules are listed in `requirements.txt` along with their versions. You may download them via `pip install -r requirements.txt`.  
+
+#### Data Processing
+1. Label win model
+   * Vanilla results of all models are included under `data/{BENCHMARK}/combined_results`.
+   * Labelled data is stored under `data/{BENCHMARK}/route_data/pairwise` directory.
+2. Extract internal state
+   * Downloading open-source language models from HuggingFace requires your HF token along with proper access to each language model. 
+   * **Note that downloading all five SLMs may take up ~200GB of disk storage**.
+3. Embed prompts
+   * Requires [Ollama](https://ollama.com/), with which `nomic-embed-text` model is pulled using `ollama pull nomic-embed-text` command. We assume that the Ollama endpoint is set to its default value (`endpoint = 'http://localhost:11434/api/embeddings'`), you may modify this value within `data/embed.py`
+   * Requires OpenAI api key, which we load from the default environmental variable `OPENAI_API_KEY`.
+
+For all three steps, we provide bash scripts(`data/*.sh`) that iterate over models/benchmarks along with their python scripts.
+Currently, scripts for internal state extracting and embedding check the existence of corresponding `*.pt` files before executing - which they are - to avoid redundant processing cost.
+
+#### Experiments
+We provide a single script `run.sh` that executes all routing experiments along with the visualization of individual runs.  
+
+```bash
+python experiment.py --skip_hyperparameter_tuning -p entire
+python experiment.py --skip_hyperparameter_tuning --code_generation -p entire
+python experiment.py --skip_hyperparameter_tuning -p input_only 
+python experiment.py --skip_hyperparameter_tuning --code_generation -p input_only 
+
+python visualize.py -p entire
+python visualize.py --code_generation -p entire
+python visualize.py -p input_only 
+python visualize.py --code_generation -p input_only 
+
+python generalize.py -p entire
+```
+All above scripts also check the resulting file existence to avoid redundant executions.
+1. Experiment routing (`experiment.py`)
+   - As noted above, we recommend you to add `--skip_hyperparameter_tuning` option when running the experiments by yourself.
+   - `--code_generation` flag tests routing on code generation benchmarks, if set to true. Otherwise, the default behavior is to experiment on testing benchmarks.
+   - `-p {prompt_type}` could be either `entire` or `input_only`.
+2. Visualize individual runs (`visualize.py`)
+3. Conduct cross-benchmark generalization experiments (`generalize.py`)
+   - By default, we iterate over all benchmarks including both testing and code generation tasks
+   - For RQ2-1, where we analyze the transferability of router predictions, we do not need extra experiments, but only the resulting predictions. In turn, all such processing is done within the python notebook.
