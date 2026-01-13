@@ -18,14 +18,14 @@
         "model_b": "llama3-8b",
         "idx": 2,
         "key": "10_0",
-        "winner": "model_a"
+        "winner": "model_b"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
         "model_b": "llama3-8b",
         "idx": 3,
         "key": "10_1",
-        "winner": "model_a"
+        "winner": "model_b"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
@@ -74,7 +74,7 @@
         "model_b": "llama3-8b",
         "idx": 10,
         "key": "44_0",
-        "winner": "model_a"
+        "winner": "model_b"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
@@ -95,7 +95,7 @@
         "model_b": "llama3-8b",
         "idx": 13,
         "key": "44_3",
-        "winner": "model_a"
+        "winner": "model_b"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
@@ -137,7 +137,7 @@
         "model_b": "llama3-8b",
         "idx": 19,
         "key": "65_1",
-        "winner": "model_a"
+        "winner": "model_b"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
@@ -151,7 +151,7 @@
         "model_b": "llama3-8b",
         "idx": 21,
         "key": "73_0",
-        "winner": "model_a"
+        "winner": "model_b"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
@@ -200,7 +200,7 @@
         "model_b": "llama3-8b",
         "idx": 28,
         "key": "126_0",
-        "winner": "model_b"
+        "winner": "model_a"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
@@ -284,14 +284,14 @@
         "model_b": "llama3-8b",
         "idx": 40,
         "key": "218_2",
-        "winner": "model_a"
+        "winner": "model_b"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
         "model_b": "llama3-8b",
         "idx": 41,
         "key": "218_3",
-        "winner": "model_a"
+        "winner": "model_b"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
@@ -312,7 +312,7 @@
         "model_b": "llama3-8b",
         "idx": 44,
         "key": "227_2",
-        "winner": "model_a"
+        "winner": "model_b"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
@@ -368,7 +368,7 @@
         "model_b": "llama3-8b",
         "idx": 52,
         "key": "310_2",
-        "winner": "model_a"
+        "winner": "model_b"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
@@ -396,7 +396,7 @@
         "model_b": "llama3-8b",
         "idx": 56,
         "key": "335_0",
-        "winner": "model_a"
+        "winner": "model_b"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
@@ -424,7 +424,7 @@
         "model_b": "llama3-8b",
         "idx": 60,
         "key": "336_2",
-        "winner": "model_a"
+        "winner": "model_b"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
@@ -613,7 +613,7 @@
         "model_b": "llama3-8b",
         "idx": 87,
         "key": "457_2",
-        "winner": "model_b"
+        "winner": "model_a"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
@@ -725,14 +725,14 @@
         "model_b": "llama3-8b",
         "idx": 103,
         "key": "581_2",
-        "winner": "model_a"
+        "winner": "model_b"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
         "model_b": "llama3-8b",
         "idx": 104,
         "key": "581_3",
-        "winner": "model_a"
+        "winner": "model_b"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
@@ -753,7 +753,7 @@
         "model_b": "llama3-8b",
         "idx": 107,
         "key": "591_1",
-        "winner": "model_a"
+        "winner": "model_b"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
@@ -781,14 +781,14 @@
         "model_b": "llama3-8b",
         "idx": 111,
         "key": "648_2",
-        "winner": "model_a"
+        "winner": "model_b"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
         "model_b": "llama3-8b",
         "idx": 112,
         "key": "648_3",
-        "winner": "model_a"
+        "winner": "model_b"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
@@ -844,7 +844,7 @@
         "model_b": "llama3-8b",
         "idx": 120,
         "key": "685_0",
-        "winner": "model_a"
+        "winner": "model_b"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
@@ -858,7 +858,7 @@
         "model_b": "llama3-8b",
         "idx": 122,
         "key": "685_2",
-        "winner": "model_a"
+        "winner": "model_b"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
@@ -893,14 +893,14 @@
         "model_b": "llama3-8b",
         "idx": 127,
         "key": "689_0",
-        "winner": "model_b"
+        "winner": "model_a"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
         "model_b": "llama3-8b",
         "idx": 128,
         "key": "689_1",
-        "winner": "model_a"
+        "winner": "model_b"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
@@ -949,7 +949,7 @@
         "model_b": "llama3-8b",
         "idx": 135,
         "key": "722_1",
-        "winner": "model_b"
+        "winner": "model_a"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
@@ -977,14 +977,14 @@
         "model_b": "llama3-8b",
         "idx": 139,
         "key": "730_2",
-        "winner": "model_a"
+        "winner": "model_b"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
         "model_b": "llama3-8b",
         "idx": 140,
         "key": "730_3",
-        "winner": "model_a"
+        "winner": "model_b"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
@@ -1089,14 +1089,14 @@
         "model_b": "llama3-8b",
         "idx": 155,
         "key": "777_0",
-        "winner": "model_a"
+        "winner": "model_b"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
         "model_b": "llama3-8b",
         "idx": 156,
         "key": "777_1",
-        "winner": "model_a"
+        "winner": "model_b"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
@@ -1327,7 +1327,7 @@
         "model_b": "llama3-8b",
         "idx": 189,
         "key": "854_2",
-        "winner": "model_a"
+        "winner": "model_b"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
@@ -1390,7 +1390,7 @@
         "model_b": "llama3-8b",
         "idx": 198,
         "key": "882_1",
-        "winner": "model_a"
+        "winner": "model_b"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
@@ -1460,7 +1460,7 @@
         "model_b": "llama3-8b",
         "idx": 208,
         "key": "913_2",
-        "winner": "model_a"
+        "winner": "model_b"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
@@ -1481,14 +1481,14 @@
         "model_b": "llama3-8b",
         "idx": 211,
         "key": "923_1",
-        "winner": "model_b"
+        "winner": "model_a"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
         "model_b": "llama3-8b",
         "idx": 212,
         "key": "923_2",
-        "winner": "model_b"
+        "winner": "model_a"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
@@ -1523,7 +1523,7 @@
         "model_b": "llama3-8b",
         "idx": 217,
         "key": "927_2",
-        "winner": "model_a"
+        "winner": "model_b"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
@@ -1600,7 +1600,7 @@
         "model_b": "llama3-8b",
         "idx": 228,
         "key": "952_0",
-        "winner": "model_b"
+        "winner": "model_a"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
@@ -1635,7 +1635,7 @@
         "model_b": "llama3-8b",
         "idx": 233,
         "key": "952_5",
-        "winner": "model_a"
+        "winner": "model_b"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
@@ -1733,7 +1733,7 @@
         "model_b": "llama3-8b",
         "idx": 247,
         "key": "999_4",
-        "winner": "model_b"
+        "winner": "model_a"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
@@ -1747,14 +1747,14 @@
         "model_b": "llama3-8b",
         "idx": 249,
         "key": "1001_1",
-        "winner": "model_a"
+        "winner": "model_b"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
         "model_b": "llama3-8b",
         "idx": 250,
         "key": "1001_2",
-        "winner": "model_b"
+        "winner": "model_a"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
@@ -1845,7 +1845,7 @@
         "model_b": "llama3-8b",
         "idx": 263,
         "key": "1162_1",
-        "winner": "model_a"
+        "winner": "model_b"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
@@ -1922,14 +1922,14 @@
         "model_b": "llama3-8b",
         "idx": 274,
         "key": "1210_2",
-        "winner": "model_b"
+        "winner": "model_a"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
         "model_b": "llama3-8b",
         "idx": 275,
         "key": "1210_3",
-        "winner": "model_a"
+        "winner": "model_b"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
@@ -1985,7 +1985,7 @@
         "model_b": "llama3-8b",
         "idx": 283,
         "key": "1254_2",
-        "winner": "model_b"
+        "winner": "model_a"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
@@ -2055,7 +2055,7 @@
         "model_b": "llama3-8b",
         "idx": 293,
         "key": "1267_4",
-        "winner": "model_a"
+        "winner": "model_b"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
@@ -2118,7 +2118,7 @@
         "model_b": "llama3-8b",
         "idx": 302,
         "key": "1293_3",
-        "winner": "model_a"
+        "winner": "model_b"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
@@ -2293,7 +2293,7 @@
         "model_b": "llama3-8b",
         "idx": 327,
         "key": "1417_0",
-        "winner": "model_a"
+        "winner": "model_b"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
@@ -2314,21 +2314,21 @@
         "model_b": "llama3-8b",
         "idx": 330,
         "key": "1417_3",
-        "winner": "model_a"
+        "winner": "model_b"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
         "model_b": "llama3-8b",
         "idx": 331,
         "key": "1417_4",
-        "winner": "model_a"
+        "winner": "model_b"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
         "model_b": "llama3-8b",
         "idx": 332,
         "key": "1417_5",
-        "winner": "model_a"
+        "winner": "model_b"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
@@ -2454,14 +2454,14 @@
         "model_b": "llama3-8b",
         "idx": 350,
         "key": "1579_1",
-        "winner": "model_a"
+        "winner": "model_b"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
         "model_b": "llama3-8b",
         "idx": 351,
         "key": "1579_2",
-        "winner": "model_a"
+        "winner": "model_b"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
@@ -2517,7 +2517,7 @@
         "model_b": "llama3-8b",
         "idx": 359,
         "key": "1583_0",
-        "winner": "model_a"
+        "winner": "model_b"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
@@ -2531,14 +2531,14 @@
         "model_b": "llama3-8b",
         "idx": 361,
         "key": "1583_2",
-        "winner": "model_a"
+        "winner": "model_b"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
         "model_b": "llama3-8b",
         "idx": 362,
         "key": "1583_3",
-        "winner": "model_a"
+        "winner": "model_b"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
@@ -2594,14 +2594,14 @@
         "model_b": "llama3-8b",
         "idx": 370,
         "key": "1604_2",
-        "winner": "model_a"
+        "winner": "model_b"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
         "model_b": "llama3-8b",
         "idx": 371,
         "key": "1604_3",
-        "winner": "model_a"
+        "winner": "model_b"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
@@ -2615,7 +2615,7 @@
         "model_b": "llama3-8b",
         "idx": 373,
         "key": "1615_1",
-        "winner": "model_b"
+        "winner": "model_a"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
@@ -2699,7 +2699,7 @@
         "model_b": "llama3-8b",
         "idx": 385,
         "key": "1617_4",
-        "winner": "model_b"
+        "winner": "model_a"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
@@ -2734,7 +2734,7 @@
         "model_b": "llama3-8b",
         "idx": 390,
         "key": "1627_3",
-        "winner": "model_a"
+        "winner": "model_b"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
@@ -3007,14 +3007,14 @@
         "model_b": "llama3-8b",
         "idx": 429,
         "key": "1706_0",
-        "winner": "model_a"
+        "winner": "model_b"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
         "model_b": "llama3-8b",
         "idx": 430,
         "key": "1706_1",
-        "winner": "model_a"
+        "winner": "model_b"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
@@ -3147,14 +3147,14 @@
         "model_b": "llama3-8b",
         "idx": 449,
         "key": "1722_3",
-        "winner": "model_a"
+        "winner": "model_b"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
         "model_b": "llama3-8b",
         "idx": 450,
         "key": "1722_4",
-        "winner": "model_b"
+        "winner": "model_a"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
@@ -3175,7 +3175,7 @@
         "model_b": "llama3-8b",
         "idx": 453,
         "key": "1765_0",
-        "winner": "model_a"
+        "winner": "model_b"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
@@ -3203,7 +3203,7 @@
         "model_b": "llama3-8b",
         "idx": 457,
         "key": "1782_0",
-        "winner": "model_a"
+        "winner": "model_b"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
@@ -3217,7 +3217,7 @@
         "model_b": "llama3-8b",
         "idx": 459,
         "key": "1782_2",
-        "winner": "model_b"
+        "winner": "model_a"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
@@ -3252,7 +3252,7 @@
         "model_b": "llama3-8b",
         "idx": 464,
         "key": "1786_3",
-        "winner": "model_a"
+        "winner": "model_b"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
@@ -3273,7 +3273,7 @@
         "model_b": "llama3-8b",
         "idx": 467,
         "key": "1793_2",
-        "winner": "model_a"
+        "winner": "model_b"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
@@ -3385,7 +3385,7 @@
         "model_b": "llama3-8b",
         "idx": 483,
         "key": "1896_2",
-        "winner": "model_a"
+        "winner": "model_b"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
@@ -3462,21 +3462,21 @@
         "model_b": "llama3-8b",
         "idx": 494,
         "key": "1926_1",
-        "winner": "model_a"
+        "winner": "model_b"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
         "model_b": "llama3-8b",
         "idx": 495,
         "key": "1926_2",
-        "winner": "model_a"
+        "winner": "model_b"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
         "model_b": "llama3-8b",
         "idx": 496,
         "key": "1926_3",
-        "winner": "model_a"
+        "winner": "model_b"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
@@ -3497,14 +3497,14 @@
         "model_b": "llama3-8b",
         "idx": 499,
         "key": "1928_0",
-        "winner": "model_a"
+        "winner": "model_b"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
         "model_b": "llama3-8b",
         "idx": 500,
         "key": "1928_1",
-        "winner": "model_a"
+        "winner": "model_b"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
@@ -3518,7 +3518,7 @@
         "model_b": "llama3-8b",
         "idx": 502,
         "key": "1928_3",
-        "winner": "model_a"
+        "winner": "model_b"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
@@ -3560,7 +3560,7 @@
         "model_b": "llama3-8b",
         "idx": 508,
         "key": "1971_0",
-        "winner": "model_a"
+        "winner": "model_b"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
@@ -3588,14 +3588,14 @@
         "model_b": "llama3-8b",
         "idx": 512,
         "key": "1976_1",
-        "winner": "model_b"
+        "winner": "model_a"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
         "model_b": "llama3-8b",
         "idx": 513,
         "key": "1976_2",
-        "winner": "model_b"
+        "winner": "model_a"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
@@ -3693,7 +3693,7 @@
         "model_b": "llama3-8b",
         "idx": 527,
         "key": "2019_2",
-        "winner": "model_a"
+        "winner": "model_b"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
@@ -3819,7 +3819,7 @@
         "model_b": "llama3-8b",
         "idx": 545,
         "key": "2059_2",
-        "winner": "model_a"
+        "winner": "model_b"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
@@ -3847,14 +3847,14 @@
         "model_b": "llama3-8b",
         "idx": 549,
         "key": "2076_0",
-        "winner": "model_a"
+        "winner": "model_b"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
         "model_b": "llama3-8b",
         "idx": 550,
         "key": "2076_1",
-        "winner": "model_a"
+        "winner": "model_b"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
@@ -3875,7 +3875,7 @@
         "model_b": "llama3-8b",
         "idx": 553,
         "key": "2086_1",
-        "winner": "model_a"
+        "winner": "model_b"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
@@ -3896,7 +3896,7 @@
         "model_b": "llama3-8b",
         "idx": 556,
         "key": "2092_0",
-        "winner": "model_a"
+        "winner": "model_b"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
@@ -3910,7 +3910,7 @@
         "model_b": "llama3-8b",
         "idx": 558,
         "key": "2092_2",
-        "winner": "model_a"
+        "winner": "model_b"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
@@ -4036,7 +4036,7 @@
         "model_b": "llama3-8b",
         "idx": 576,
         "key": "2146_1",
-        "winner": "model_a"
+        "winner": "model_b"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
@@ -4064,7 +4064,7 @@
         "model_b": "llama3-8b",
         "idx": 580,
         "key": "2146_5",
-        "winner": "model_a"
+        "winner": "model_b"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
@@ -4127,7 +4127,7 @@
         "model_b": "llama3-8b",
         "idx": 589,
         "key": "2203_1",
-        "winner": "model_a"
+        "winner": "model_b"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
@@ -4169,7 +4169,7 @@
         "model_b": "llama3-8b",
         "idx": 595,
         "key": "2245_0",
-        "winner": "model_a"
+        "winner": "model_b"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
@@ -4183,14 +4183,14 @@
         "model_b": "llama3-8b",
         "idx": 597,
         "key": "2245_2",
-        "winner": "model_a"
+        "winner": "model_b"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
         "model_b": "llama3-8b",
         "idx": 598,
         "key": "2245_3",
-        "winner": "model_a"
+        "winner": "model_b"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
@@ -4232,35 +4232,35 @@
         "model_b": "llama3-8b",
         "idx": 604,
         "key": "2258_1",
-        "winner": "model_a"
+        "winner": "model_b"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
         "model_b": "llama3-8b",
         "idx": 605,
         "key": "2258_2",
-        "winner": "model_a"
+        "winner": "model_b"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
         "model_b": "llama3-8b",
         "idx": 606,
         "key": "2258_3",
-        "winner": "model_a"
+        "winner": "model_b"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
         "model_b": "llama3-8b",
         "idx": 607,
         "key": "2258_4",
-        "winner": "model_a"
+        "winner": "model_b"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
         "model_b": "llama3-8b",
         "idx": 608,
         "key": "2258_5",
-        "winner": "model_a"
+        "winner": "model_b"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
@@ -4344,7 +4344,7 @@
         "model_b": "llama3-8b",
         "idx": 620,
         "key": "2301_4",
-        "winner": "model_a"
+        "winner": "model_b"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
@@ -4414,7 +4414,7 @@
         "model_b": "llama3-8b",
         "idx": 630,
         "key": "2337_1",
-        "winner": "model_a"
+        "winner": "model_b"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
@@ -4428,7 +4428,7 @@
         "model_b": "llama3-8b",
         "idx": 632,
         "key": "2337_3",
-        "winner": "model_a"
+        "winner": "model_b"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
@@ -4477,7 +4477,7 @@
         "model_b": "llama3-8b",
         "idx": 639,
         "key": "2456_0",
-        "winner": "model_a"
+        "winner": "model_b"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
@@ -4498,7 +4498,7 @@
         "model_b": "llama3-8b",
         "idx": 642,
         "key": "2462_0",
-        "winner": "model_a"
+        "winner": "model_b"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
@@ -4540,7 +4540,7 @@
         "model_b": "llama3-8b",
         "idx": 648,
         "key": "2467_2",
-        "winner": "model_a"
+        "winner": "model_b"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
@@ -4575,7 +4575,7 @@
         "model_b": "llama3-8b",
         "idx": 653,
         "key": "2499_3",
-        "winner": "model_b"
+        "winner": "model_a"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
@@ -4610,7 +4610,7 @@
         "model_b": "llama3-8b",
         "idx": 658,
         "key": "2508_0",
-        "winner": "model_a"
+        "winner": "model_b"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
@@ -4708,7 +4708,7 @@
         "model_b": "llama3-8b",
         "idx": 672,
         "key": "2603_1",
-        "winner": "model_a"
+        "winner": "model_b"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
@@ -4764,7 +4764,7 @@
         "model_b": "llama3-8b",
         "idx": 680,
         "key": "2662_3",
-        "winner": "model_b"
+        "winner": "model_a"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
@@ -4778,14 +4778,14 @@
         "model_b": "llama3-8b",
         "idx": 682,
         "key": "2663_1",
-        "winner": "model_a"
+        "winner": "model_b"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
         "model_b": "llama3-8b",
         "idx": 683,
         "key": "2672_0",
-        "winner": "model_a"
+        "winner": "model_b"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
@@ -4799,7 +4799,7 @@
         "model_b": "llama3-8b",
         "idx": 685,
         "key": "2672_2",
-        "winner": "model_a"
+        "winner": "model_b"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
@@ -4827,7 +4827,7 @@
         "model_b": "llama3-8b",
         "idx": 689,
         "key": "2684_3",
-        "winner": "model_a"
+        "winner": "model_b"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
@@ -4841,7 +4841,7 @@
         "model_b": "llama3-8b",
         "idx": 691,
         "key": "2685_1",
-        "winner": "model_a"
+        "winner": "model_b"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
@@ -4869,7 +4869,7 @@
         "model_b": "llama3-8b",
         "idx": 695,
         "key": "2699_1",
-        "winner": "model_a"
+        "winner": "model_b"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
@@ -4890,7 +4890,7 @@
         "model_b": "llama3-8b",
         "idx": 698,
         "key": "2699_4",
-        "winner": "model_a"
+        "winner": "model_b"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
@@ -5016,7 +5016,7 @@
         "model_b": "llama3-8b",
         "idx": 716,
         "key": "2747_1",
-        "winner": "model_a"
+        "winner": "model_b"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
@@ -5051,7 +5051,7 @@
         "model_b": "llama3-8b",
         "idx": 721,
         "key": "2751_2",
-        "winner": "model_a"
+        "winner": "model_b"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
@@ -5079,28 +5079,28 @@
         "model_b": "llama3-8b",
         "idx": 725,
         "key": "2812_1",
-        "winner": "model_a"
+        "winner": "model_b"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
         "model_b": "llama3-8b",
         "idx": 726,
         "key": "2812_2",
-        "winner": "model_a"
+        "winner": "model_b"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
         "model_b": "llama3-8b",
         "idx": 727,
         "key": "2812_3",
-        "winner": "model_a"
+        "winner": "model_b"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
         "model_b": "llama3-8b",
         "idx": 728,
         "key": "2812_4",
-        "winner": "model_a"
+        "winner": "model_b"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
@@ -5177,14 +5177,14 @@
         "model_b": "llama3-8b",
         "idx": 739,
         "key": "2844_1",
-        "winner": "model_a"
+        "winner": "model_b"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
         "model_b": "llama3-8b",
         "idx": 740,
         "key": "2844_2",
-        "winner": "model_a"
+        "winner": "model_b"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
@@ -5205,7 +5205,7 @@
         "model_b": "llama3-8b",
         "idx": 743,
         "key": "2846_2",
-        "winner": "model_b"
+        "winner": "model_a"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
@@ -5268,7 +5268,7 @@
         "model_b": "llama3-8b",
         "idx": 752,
         "key": "2876_0",
-        "winner": "model_a"
+        "winner": "model_b"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
@@ -5282,7 +5282,7 @@
         "model_b": "llama3-8b",
         "idx": 754,
         "key": "2876_2",
-        "winner": "model_a"
+        "winner": "model_b"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
@@ -5296,28 +5296,28 @@
         "model_b": "llama3-8b",
         "idx": 756,
         "key": "2901_0",
-        "winner": "model_a"
+        "winner": "model_b"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
         "model_b": "llama3-8b",
         "idx": 757,
         "key": "2901_1",
-        "winner": "model_a"
+        "winner": "model_b"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
         "model_b": "llama3-8b",
         "idx": 758,
         "key": "2901_2",
-        "winner": "model_a"
+        "winner": "model_b"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
         "model_b": "llama3-8b",
         "idx": 759,
         "key": "2901_3",
-        "winner": "model_a"
+        "winner": "model_b"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
@@ -5345,7 +5345,7 @@
         "model_b": "llama3-8b",
         "idx": 763,
         "key": "2904_3",
-        "winner": "model_a"
+        "winner": "model_b"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
@@ -5443,21 +5443,21 @@
         "model_b": "llama3-8b",
         "idx": 777,
         "key": "2940_1",
-        "winner": "model_a"
+        "winner": "model_b"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
         "model_b": "llama3-8b",
         "idx": 778,
         "key": "2940_2",
-        "winner": "model_a"
+        "winner": "model_b"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
         "model_b": "llama3-8b",
         "idx": 779,
         "key": "2940_3",
-        "winner": "model_a"
+        "winner": "model_b"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
@@ -5632,7 +5632,7 @@
         "model_b": "llama3-8b",
         "idx": 804,
         "key": "2977_5",
-        "winner": "model_a"
+        "winner": "model_b"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
@@ -5716,7 +5716,7 @@
         "model_b": "llama3-8b",
         "idx": 816,
         "key": "3029_0",
-        "winner": "model_a"
+        "winner": "model_b"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
@@ -5765,7 +5765,7 @@
         "model_b": "llama3-8b",
         "idx": 823,
         "key": "3043_1",
-        "winner": "model_a"
+        "winner": "model_b"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
@@ -5954,7 +5954,7 @@
         "model_b": "llama3-8b",
         "idx": 850,
         "key": "3123_0",
-        "winner": "model_a"
+        "winner": "model_b"
     },
     {
         "model_a": "gemini-2.5-flash-lite",

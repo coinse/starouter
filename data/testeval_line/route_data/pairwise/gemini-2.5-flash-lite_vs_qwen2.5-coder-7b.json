@@ -473,7 +473,7 @@
         "model_b": "qwen2.5-coder-7b",
         "idx": 67,
         "key": "130_34",
-        "winner": "model_a"
+        "winner": "model_b"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
@@ -1901,7 +1901,7 @@
         "model_b": "qwen2.5-coder-7b",
         "idx": 271,
         "key": "735_26",
-        "winner": "model_a"
+        "winner": "model_b"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
@@ -2342,7 +2342,7 @@
         "model_b": "qwen2.5-coder-7b",
         "idx": 334,
         "key": "787_33",
-        "winner": "model_a"
+        "winner": "model_b"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
@@ -3602,7 +3602,7 @@
         "model_b": "qwen2.5-coder-7b",
         "idx": 514,
         "key": "1267_28",
-        "winner": "model_b"
+        "winner": "model_a"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
@@ -4498,21 +4498,21 @@
         "model_b": "qwen2.5-coder-7b",
         "idx": 642,
         "key": "1681_27",
-        "winner": "model_a"
+        "winner": "model_b"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
         "model_b": "qwen2.5-coder-7b",
         "idx": 643,
         "key": "1681_31",
-        "winner": "model_a"
+        "winner": "model_b"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
         "model_b": "qwen2.5-coder-7b",
         "idx": 644,
         "key": "1681_35",
-        "winner": "model_a"
+        "winner": "model_b"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
@@ -4526,28 +4526,28 @@
         "model_b": "qwen2.5-coder-7b",
         "idx": 646,
         "key": "1681_44",
-        "winner": "model_a"
+        "winner": "model_b"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
         "model_b": "qwen2.5-coder-7b",
         "idx": 647,
         "key": "1681_51",
-        "winner": "model_a"
+        "winner": "model_b"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
         "model_b": "qwen2.5-coder-7b",
         "idx": 648,
         "key": "1681_59",
-        "winner": "model_a"
+        "winner": "model_b"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
         "model_b": "qwen2.5-coder-7b",
         "idx": 649,
         "key": "1681_60",
-        "winner": "model_a"
+        "winner": "model_b"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
@@ -4904,7 +4904,7 @@
         "model_b": "qwen2.5-coder-7b",
         "idx": 700,
         "key": "1782_34",
-        "winner": "model_b"
+        "winner": "model_a"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
@@ -5079,7 +5079,7 @@
         "model_b": "qwen2.5-coder-7b",
         "idx": 725,
         "key": "1896_26",
-        "winner": "model_b"
+        "winner": "model_a"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
@@ -5268,14 +5268,14 @@
         "model_b": "qwen2.5-coder-7b",
         "idx": 752,
         "key": "1926_28",
-        "winner": "model_a"
+        "winner": "model_b"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
         "model_b": "qwen2.5-coder-7b",
         "idx": 753,
         "key": "1926_30",
-        "winner": "model_b"
+        "winner": "model_a"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
@@ -5478,7 +5478,7 @@
         "model_b": "qwen2.5-coder-7b",
         "idx": 782,
         "key": "1977_24",
-        "winner": "model_b"
+        "winner": "model_a"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
@@ -5716,7 +5716,7 @@
         "model_b": "qwen2.5-coder-7b",
         "idx": 816,
         "key": "2040_25",
-        "winner": "model_b"
+        "winner": "model_a"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
@@ -6150,7 +6150,7 @@
         "model_b": "qwen2.5-coder-7b",
         "idx": 878,
         "key": "2132_38",
-        "winner": "model_b"
+        "winner": "model_a"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
@@ -6171,14 +6171,14 @@
         "model_b": "qwen2.5-coder-7b",
         "idx": 881,
         "key": "2146_23",
-        "winner": "model_b"
+        "winner": "model_a"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
         "model_b": "qwen2.5-coder-7b",
         "idx": 882,
         "key": "2146_36",
-        "winner": "model_a"
+        "winner": "model_b"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
@@ -6507,7 +6507,7 @@
         "model_b": "qwen2.5-coder-7b",
         "idx": 929,
         "key": "2258_69",
-        "winner": "model_a"
+        "winner": "model_b"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
@@ -6710,7 +6710,7 @@
         "model_b": "qwen2.5-coder-7b",
         "idx": 958,
         "key": "2337_25",
-        "winner": "model_b"
+        "winner": "model_a"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
@@ -7473,7 +7473,7 @@
         "model_b": "qwen2.5-coder-7b",
         "idx": 1067,
         "key": "2685_23",
-        "winner": "model_b"
+        "winner": "model_a"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
@@ -7606,7 +7606,7 @@
         "model_b": "qwen2.5-coder-7b",
         "idx": 1086,
         "key": "2699_30",
-        "winner": "model_b"
+        "winner": "model_a"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
@@ -7942,14 +7942,14 @@
         "model_b": "qwen2.5-coder-7b",
         "idx": 1134,
         "key": "2812_27",
-        "winner": "model_a"
+        "winner": "model_b"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
         "model_b": "qwen2.5-coder-7b",
         "idx": 1135,
         "key": "2812_29",
-        "winner": "model_a"
+        "winner": "model_b"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
@@ -7963,35 +7963,35 @@
         "model_b": "qwen2.5-coder-7b",
         "idx": 1137,
         "key": "2812_36",
-        "winner": "model_a"
+        "winner": "model_b"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
         "model_b": "qwen2.5-coder-7b",
         "idx": 1138,
         "key": "2812_53",
-        "winner": "model_a"
+        "winner": "model_b"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
         "model_b": "qwen2.5-coder-7b",
         "idx": 1139,
         "key": "2812_54",
-        "winner": "model_a"
+        "winner": "model_b"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
         "model_b": "qwen2.5-coder-7b",
         "idx": 1140,
         "key": "2812_65",
-        "winner": "model_a"
+        "winner": "model_b"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
         "model_b": "qwen2.5-coder-7b",
         "idx": 1141,
         "key": "2812_67",
-        "winner": "model_a"
+        "winner": "model_b"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
