@@ -34,9 +34,9 @@ def retrieve_metric_name(benchmark):
         'HumanEval': "pass@any",
         'APPS': "pass@any",
         'TestEval_total': "line-cov@1",
-        'TestEval_line': "lines covered",
-        'TestEval_branch': "branches covered",
-        'TestEval_path': "paths covered",
+        'TestEval_line': "lines-covered@any",
+        'TestEval_branch': "branches-covered@any",
+        'TestEval_path': "paths-covered@any",
         'LIBRO_d4j': "reproduced@any",
     }[benchmark]     
 
