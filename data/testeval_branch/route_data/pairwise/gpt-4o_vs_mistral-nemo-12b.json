@@ -585,7 +585,7 @@
         "model_b": "mistral-nemo-12b",
         "idx": 83,
         "key": "402_13_14",
-        "winner": "model_b"
+        "winner": "model_a"
     },
     {
         "model_a": "gpt-4o",
@@ -1348,7 +1348,7 @@
         "model_b": "mistral-nemo-12b",
         "idx": 192,
         "key": "735_21_22",
-        "winner": "model_b"
+        "winner": "model_a"
     },
     {
         "model_a": "gpt-4o",
@@ -1362,7 +1362,7 @@
         "model_b": "mistral-nemo-12b",
         "idx": 194,
         "key": "735_25_26",
-        "winner": "model_a"
+        "winner": "model_b"
     },
     {
         "model_a": "gpt-4o",
@@ -1691,7 +1691,7 @@
         "model_b": "mistral-nemo-12b",
         "idx": 241,
         "key": "787_32_33",
-        "winner": "model_a"
+        "winner": "model_b"
     },
     {
         "model_a": "gpt-4o",
@@ -1719,7 +1719,7 @@
         "model_b": "mistral-nemo-12b",
         "idx": 245,
         "key": "805_15_16",
-        "winner": "model_b"
+        "winner": "model_a"
     },
     {
         "model_a": "gpt-4o",
@@ -2216,7 +2216,7 @@
         "model_b": "mistral-nemo-12b",
         "idx": 316,
         "key": "1001_39_40",
-        "winner": "model_b"
+        "winner": "model_a"
     },
     {
         "model_a": "gpt-4o",
@@ -2748,7 +2748,7 @@
         "model_b": "mistral-nemo-12b",
         "idx": 392,
         "key": "1462_26_27",
-        "winner": "model_b"
+        "winner": "model_a"
     },
     {
         "model_a": "gpt-4o",
@@ -2923,7 +2923,7 @@
         "model_b": "mistral-nemo-12b",
         "idx": 417,
         "key": "1579_59_60",
-        "winner": "model_b"
+        "winner": "model_a"
     },
     {
         "model_a": "gpt-4o",
@@ -3007,7 +3007,7 @@
         "model_b": "mistral-nemo-12b",
         "idx": 429,
         "key": "1591_51_52",
-        "winner": "model_b"
+        "winner": "model_a"
     },
     {
         "model_a": "gpt-4o",
@@ -3245,7 +3245,7 @@
         "model_b": "mistral-nemo-12b",
         "idx": 463,
         "key": "1654_31_32",
-        "winner": "model_b"
+        "winner": "model_a"
     },
     {
         "model_a": "gpt-4o",
@@ -3280,14 +3280,14 @@
         "model_b": "mistral-nemo-12b",
         "idx": 468,
         "key": "1655_27_28",
-        "winner": "model_b"
+        "winner": "model_a"
     },
     {
         "model_a": "gpt-4o",
         "model_b": "mistral-nemo-12b",
         "idx": 469,
         "key": "1681_34_35",
-        "winner": "model_a"
+        "winner": "model_b"
     },
     {
         "model_a": "gpt-4o",
@@ -3301,35 +3301,35 @@
         "model_b": "mistral-nemo-12b",
         "idx": 471,
         "key": "1681_26_27",
-        "winner": "model_a"
+        "winner": "model_b"
     },
     {
         "model_a": "gpt-4o",
         "model_b": "mistral-nemo-12b",
         "idx": 472,
         "key": "1681_43_44",
-        "winner": "model_a"
+        "winner": "model_b"
     },
     {
         "model_a": "gpt-4o",
         "model_b": "mistral-nemo-12b",
         "idx": 473,
         "key": "1681_50_51",
-        "winner": "model_a"
+        "winner": "model_b"
     },
     {
         "model_a": "gpt-4o",
         "model_b": "mistral-nemo-12b",
         "idx": 474,
         "key": "1681_58_60",
-        "winner": "model_a"
+        "winner": "model_b"
     },
     {
         "model_a": "gpt-4o",
         "model_b": "mistral-nemo-12b",
         "idx": 475,
         "key": "1681_30_31",
-        "winner": "model_a"
+        "winner": "model_b"
     },
     {
         "model_a": "gpt-4o",
@@ -3378,7 +3378,7 @@
         "model_b": "mistral-nemo-12b",
         "idx": 482,
         "key": "1706_21_22",
-        "winner": "model_b"
+        "winner": "model_a"
     },
     {
         "model_a": "gpt-4o",
@@ -3707,7 +3707,7 @@
         "model_b": "mistral-nemo-12b",
         "idx": 529,
         "key": "1857_26_27",
-        "winner": "model_b"
+        "winner": "model_a"
     },
     {
         "model_a": "gpt-4o",
@@ -3812,7 +3812,7 @@
         "model_b": "mistral-nemo-12b",
         "idx": 544,
         "key": "1896_44_45",
-        "winner": "model_b"
+        "winner": "model_a"
     },
     {
         "model_a": "gpt-4o",
@@ -3917,7 +3917,7 @@
         "model_b": "mistral-nemo-12b",
         "idx": 559,
         "key": "1928_37_38",
-        "winner": "model_b"
+        "winner": "model_a"
     },
     {
         "model_a": "gpt-4o",
@@ -4281,7 +4281,7 @@
         "model_b": "mistral-nemo-12b",
         "idx": 611,
         "key": "2076_21_22",
-        "winner": "model_b"
+        "winner": "model_a"
     },
     {
         "model_a": "gpt-4o",
@@ -4526,7 +4526,7 @@
         "model_b": "mistral-nemo-12b",
         "idx": 646,
         "key": "2146_35_36",
-        "winner": "model_a"
+        "winner": "model_b"
     },
     {
         "model_a": "gpt-4o",
@@ -4589,7 +4589,7 @@
         "model_b": "mistral-nemo-12b",
         "idx": 655,
         "key": "2157_62_63",
-        "winner": "model_b"
+        "winner": "model_a"
     },
     {
         "model_a": "gpt-4o",
@@ -4974,7 +4974,7 @@
         "model_b": "mistral-nemo-12b",
         "idx": 710,
         "key": "2337_22_23",
-        "winner": "model_b"
+        "winner": "model_a"
     },
     {
         "model_a": "gpt-4o",
@@ -5009,7 +5009,7 @@
         "model_b": "mistral-nemo-12b",
         "idx": 715,
         "key": "2392_18_19",
-        "winner": "model_b"
+        "winner": "model_a"
     },
     {
         "model_a": "gpt-4o",
@@ -5219,7 +5219,7 @@
         "model_b": "mistral-nemo-12b",
         "idx": 745,
         "key": "2499_36_37",
-        "winner": "model_b"
+        "winner": "model_a"
     },
     {
         "model_a": "gpt-4o",
@@ -5331,7 +5331,7 @@
         "model_b": "mistral-nemo-12b",
         "idx": 761,
         "key": "2532_40_41",
-        "winner": "model_b"
+        "winner": "model_a"
     },
     {
         "model_a": "gpt-4o",
@@ -5373,7 +5373,7 @@
         "model_b": "mistral-nemo-12b",
         "idx": 767,
         "key": "2577_31_32",
-        "winner": "model_b"
+        "winner": "model_a"
     },
     {
         "model_a": "gpt-4o",
@@ -5506,7 +5506,7 @@
         "model_b": "mistral-nemo-12b",
         "idx": 786,
         "key": "2672_19_20",
-        "winner": "model_b"
+        "winner": "model_a"
     },
     {
         "model_a": "gpt-4o",
@@ -5849,21 +5849,21 @@
         "model_b": "mistral-nemo-12b",
         "idx": 835,
         "key": "2812_18_19",
-        "winner": "model_a"
+        "winner": "model_b"
     },
     {
         "model_a": "gpt-4o",
         "model_b": "mistral-nemo-12b",
         "idx": 836,
         "key": "2812_26_27",
-        "winner": "model_a"
+        "winner": "model_b"
     },
     {
         "model_a": "gpt-4o",
         "model_b": "mistral-nemo-12b",
         "idx": 837,
         "key": "2812_28_29",
-        "winner": "model_a"
+        "winner": "model_b"
     },
     {
         "model_a": "gpt-4o",
@@ -5877,14 +5877,14 @@
         "model_b": "mistral-nemo-12b",
         "idx": 839,
         "key": "2812_33_34",
-        "winner": "model_a"
+        "winner": "model_b"
     },
     {
         "model_a": "gpt-4o",
         "model_b": "mistral-nemo-12b",
         "idx": 840,
         "key": "2812_35_36",
-        "winner": "model_a"
+        "winner": "model_b"
     },
     {
         "model_a": "gpt-4o",
@@ -5926,7 +5926,7 @@
         "model_b": "mistral-nemo-12b",
         "idx": 846,
         "key": "2836_33_35",
-        "winner": "model_b"
+        "winner": "model_a"
     },
     {
         "model_a": "gpt-4o",
@@ -5940,7 +5940,7 @@
         "model_b": "mistral-nemo-12b",
         "idx": 848,
         "key": "2844_31_32",
-        "winner": "model_b"
+        "winner": "model_a"
     },
     {
         "model_a": "gpt-4o",
@@ -5968,7 +5968,7 @@
         "model_b": "mistral-nemo-12b",
         "idx": 852,
         "key": "2844_24_25",
-        "winner": "model_b"
+        "winner": "model_a"
     },
     {
         "model_a": "gpt-4o",
@@ -6325,7 +6325,7 @@
         "model_b": "mistral-nemo-12b",
         "idx": 903,
         "key": "2973_34_35",
-        "winner": "model_b"
+        "winner": "model_a"
     },
     {
         "model_a": "gpt-4o",
@@ -6409,14 +6409,14 @@
         "model_b": "mistral-nemo-12b",
         "idx": 915,
         "key": "2977_39_40",
-        "winner": "model_b"
+        "winner": "model_a"
     },
     {
         "model_a": "gpt-4o",
         "model_b": "mistral-nemo-12b",
         "idx": 916,
         "key": "2977_43_44",
-        "winner": "model_a"
+        "winner": "model_b"
     },
     {
         "model_a": "gpt-4o",
@@ -6479,7 +6479,7 @@
         "model_b": "mistral-nemo-12b",
         "idx": 925,
         "key": "2983_43_45",
-        "winner": "model_b"
+        "winner": "model_a"
     },
     {
         "model_a": "gpt-4o",
@@ -6556,7 +6556,7 @@
         "model_b": "mistral-nemo-12b",
         "idx": 936,
         "key": "3001_29_30",
-        "winner": "model_b"
+        "winner": "model_a"
     },
     {
         "model_a": "gpt-4o",
@@ -6570,7 +6570,7 @@
         "model_b": "mistral-nemo-12b",
         "idx": 938,
         "key": "3006_21_22",
-        "winner": "model_b"
+        "winner": "model_a"
     },
     {
         "model_a": "gpt-4o",
@@ -6675,7 +6675,7 @@
         "model_b": "mistral-nemo-12b",
         "idx": 953,
         "key": "3044_30_31",
-        "winner": "model_b"
+        "winner": "model_a"
     },
     {
         "model_a": "gpt-4o",
@@ -6843,7 +6843,7 @@
         "model_b": "mistral-nemo-12b",
         "idx": 977,
         "key": "3112_29_30",
-        "winner": "model_b"
+        "winner": "model_a"
     },
     {
         "model_a": "gpt-4o",
@@ -6864,7 +6864,7 @@
         "model_b": "mistral-nemo-12b",
         "idx": 980,
         "key": "3112_32_34",
-        "winner": "model_b"
+        "winner": "model_a"
     },
     {
         "model_a": "gpt-4o",

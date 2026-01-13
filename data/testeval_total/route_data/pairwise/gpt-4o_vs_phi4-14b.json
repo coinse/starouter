@@ -11,7 +11,7 @@
         "model_b": "phi4-14b",
         "idx": 1,
         "key": "10",
-        "winner": "model_b"
+        "winner": "model_a"
     },
     {
         "model_a": "gpt-4o",
@@ -32,7 +32,7 @@
         "model_b": "phi4-14b",
         "idx": 4,
         "key": "54",
-        "winner": "model_b"
+        "winner": "model_a"
     },
     {
         "model_a": "gpt-4o",
@@ -95,7 +95,7 @@
         "model_b": "phi4-14b",
         "idx": 13,
         "key": "289",
-        "winner": "model_a"
+        "winner": "model_b"
     },
     {
         "model_a": "gpt-4o",
@@ -319,21 +319,21 @@
         "model_b": "phi4-14b",
         "idx": 45,
         "key": "787",
-        "winner": "model_a"
+        "winner": "model_b"
     },
     {
         "model_a": "gpt-4o",
         "model_b": "phi4-14b",
         "idx": 46,
         "key": "794",
-        "winner": "model_b"
+        "winner": "model_a"
     },
     {
         "model_a": "gpt-4o",
         "model_b": "phi4-14b",
         "idx": 47,
         "key": "805",
-        "winner": "model_a"
+        "winner": "model_b"
     },
     {
         "model_a": "gpt-4o",
@@ -396,7 +396,7 @@
         "model_b": "phi4-14b",
         "idx": 56,
         "key": "913",
-        "winner": "model_a"
+        "winner": "model_b"
     },
     {
         "model_a": "gpt-4o",
@@ -536,14 +536,14 @@
         "model_b": "phi4-14b",
         "idx": 76,
         "key": "1284",
-        "winner": "model_b"
+        "winner": "model_a"
     },
     {
         "model_a": "gpt-4o",
         "model_b": "phi4-14b",
         "idx": 77,
         "key": "1293",
-        "winner": "model_a"
+        "winner": "model_b"
     },
     {
         "model_a": "gpt-4o",
@@ -606,7 +606,7 @@
         "model_b": "phi4-14b",
         "idx": 86,
         "key": "1573",
-        "winner": "model_b"
+        "winner": "model_a"
     },
     {
         "model_a": "gpt-4o",
@@ -648,7 +648,7 @@
         "model_b": "phi4-14b",
         "idx": 92,
         "key": "1604",
-        "winner": "model_a"
+        "winner": "model_b"
     },
     {
         "model_a": "gpt-4o",
@@ -704,7 +704,7 @@
         "model_b": "phi4-14b",
         "idx": 100,
         "key": "1655",
-        "winner": "model_b"
+        "winner": "model_a"
     },
     {
         "model_a": "gpt-4o",
@@ -788,7 +788,7 @@
         "model_b": "phi4-14b",
         "idx": 112,
         "key": "1786",
-        "winner": "model_b"
+        "winner": "model_a"
     },
     {
         "model_a": "gpt-4o",
@@ -816,7 +816,7 @@
         "model_b": "phi4-14b",
         "idx": 116,
         "key": "1878",
-        "winner": "model_b"
+        "winner": "model_a"
     },
     {
         "model_a": "gpt-4o",
@@ -844,14 +844,14 @@
         "model_b": "phi4-14b",
         "idx": 120,
         "key": "1926",
-        "winner": "model_a"
+        "winner": "model_b"
     },
     {
         "model_a": "gpt-4o",
         "model_b": "phi4-14b",
         "idx": 121,
         "key": "1928",
-        "winner": "model_b"
+        "winner": "model_a"
     },
     {
         "model_a": "gpt-4o",
@@ -893,21 +893,21 @@
         "model_b": "phi4-14b",
         "idx": 127,
         "key": "1998",
-        "winner": "model_b"
+        "winner": "model_a"
     },
     {
         "model_a": "gpt-4o",
         "model_b": "phi4-14b",
         "idx": 128,
         "key": "2019",
-        "winner": "model_b"
+        "winner": "model_a"
     },
     {
         "model_a": "gpt-4o",
         "model_b": "phi4-14b",
         "idx": 129,
         "key": "2030",
-        "winner": "model_b"
+        "winner": "model_a"
     },
     {
         "model_a": "gpt-4o",
@@ -942,7 +942,7 @@
         "model_b": "phi4-14b",
         "idx": 134,
         "key": "2086",
-        "winner": "model_b"
+        "winner": "model_a"
     },
     {
         "model_a": "gpt-4o",
@@ -1047,7 +1047,7 @@
         "model_b": "phi4-14b",
         "idx": 149,
         "key": "2301",
-        "winner": "model_a"
+        "winner": "model_b"
     },
     {
         "model_a": "gpt-4o",
@@ -1089,7 +1089,7 @@
         "model_b": "phi4-14b",
         "idx": 155,
         "key": "2456",
-        "winner": "model_b"
+        "winner": "model_a"
     },
     {
         "model_a": "gpt-4o",
@@ -1110,7 +1110,7 @@
         "model_b": "phi4-14b",
         "idx": 158,
         "key": "2499",
-        "winner": "model_b"
+        "winner": "model_a"
     },
     {
         "model_a": "gpt-4o",
@@ -1236,7 +1236,7 @@
         "model_b": "phi4-14b",
         "idx": 176,
         "key": "2747",
-        "winner": "model_a"
+        "winner": "model_b"
     },
     {
         "model_a": "gpt-4o",
@@ -1299,7 +1299,7 @@
         "model_b": "phi4-14b",
         "idx": 185,
         "key": "2876",
-        "winner": "model_a"
+        "winner": "model_b"
     },
     {
         "model_a": "gpt-4o",
@@ -1404,7 +1404,7 @@
         "model_b": "phi4-14b",
         "idx": 200,
         "key": "3029",
-        "winner": "model_b"
+        "winner": "model_a"
     },
     {
         "model_a": "gpt-4o",

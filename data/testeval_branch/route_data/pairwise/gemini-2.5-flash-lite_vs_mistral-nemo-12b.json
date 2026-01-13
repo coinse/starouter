@@ -585,7 +585,7 @@
         "model_b": "mistral-nemo-12b",
         "idx": 83,
         "key": "402_13_14",
-        "winner": "model_b"
+        "winner": "model_a"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
@@ -1362,7 +1362,7 @@
         "model_b": "mistral-nemo-12b",
         "idx": 194,
         "key": "735_25_26",
-        "winner": "model_a"
+        "winner": "model_b"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
@@ -1691,7 +1691,7 @@
         "model_b": "mistral-nemo-12b",
         "idx": 241,
         "key": "787_32_33",
-        "winner": "model_a"
+        "winner": "model_b"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
@@ -2748,7 +2748,7 @@
         "model_b": "mistral-nemo-12b",
         "idx": 392,
         "key": "1462_26_27",
-        "winner": "model_b"
+        "winner": "model_a"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
@@ -3280,14 +3280,14 @@
         "model_b": "mistral-nemo-12b",
         "idx": 468,
         "key": "1655_27_28",
-        "winner": "model_b"
+        "winner": "model_a"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
         "model_b": "mistral-nemo-12b",
         "idx": 469,
         "key": "1681_34_35",
-        "winner": "model_a"
+        "winner": "model_b"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
@@ -3301,35 +3301,35 @@
         "model_b": "mistral-nemo-12b",
         "idx": 471,
         "key": "1681_26_27",
-        "winner": "model_a"
+        "winner": "model_b"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
         "model_b": "mistral-nemo-12b",
         "idx": 472,
         "key": "1681_43_44",
-        "winner": "model_a"
+        "winner": "model_b"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
         "model_b": "mistral-nemo-12b",
         "idx": 473,
         "key": "1681_50_51",
-        "winner": "model_a"
+        "winner": "model_b"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
         "model_b": "mistral-nemo-12b",
         "idx": 474,
         "key": "1681_58_60",
-        "winner": "model_a"
+        "winner": "model_b"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
         "model_b": "mistral-nemo-12b",
         "idx": 475,
         "key": "1681_30_31",
-        "winner": "model_a"
+        "winner": "model_b"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
@@ -3707,7 +3707,7 @@
         "model_b": "mistral-nemo-12b",
         "idx": 529,
         "key": "1857_26_27",
-        "winner": "model_b"
+        "winner": "model_a"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
@@ -3812,7 +3812,7 @@
         "model_b": "mistral-nemo-12b",
         "idx": 544,
         "key": "1896_44_45",
-        "winner": "model_b"
+        "winner": "model_a"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
@@ -4526,7 +4526,7 @@
         "model_b": "mistral-nemo-12b",
         "idx": 646,
         "key": "2146_35_36",
-        "winner": "model_a"
+        "winner": "model_b"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
@@ -4792,7 +4792,7 @@
         "model_b": "mistral-nemo-12b",
         "idx": 684,
         "key": "2258_68_69",
-        "winner": "model_a"
+        "winner": "model_b"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
@@ -5373,7 +5373,7 @@
         "model_b": "mistral-nemo-12b",
         "idx": 767,
         "key": "2577_31_32",
-        "winner": "model_b"
+        "winner": "model_a"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
@@ -5849,7 +5849,7 @@
         "model_b": "mistral-nemo-12b",
         "idx": 835,
         "key": "2812_18_19",
-        "winner": "model_a"
+        "winner": "model_b"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
@@ -5863,7 +5863,7 @@
         "model_b": "mistral-nemo-12b",
         "idx": 837,
         "key": "2812_28_29",
-        "winner": "model_a"
+        "winner": "model_b"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
@@ -5877,7 +5877,7 @@
         "model_b": "mistral-nemo-12b",
         "idx": 839,
         "key": "2812_33_34",
-        "winner": "model_a"
+        "winner": "model_b"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
@@ -5926,7 +5926,7 @@
         "model_b": "mistral-nemo-12b",
         "idx": 846,
         "key": "2836_33_35",
-        "winner": "model_b"
+        "winner": "model_a"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
@@ -6416,7 +6416,7 @@
         "model_b": "mistral-nemo-12b",
         "idx": 916,
         "key": "2977_43_44",
-        "winner": "model_a"
+        "winner": "model_b"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
@@ -6675,7 +6675,7 @@
         "model_b": "mistral-nemo-12b",
         "idx": 953,
         "key": "3044_30_31",
-        "winner": "model_b"
+        "winner": "model_a"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
@@ -6864,14 +6864,14 @@
         "model_b": "mistral-nemo-12b",
         "idx": 980,
         "key": "3112_32_34",
-        "winner": "model_b"
+        "winner": "model_a"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
         "model_b": "mistral-nemo-12b",
         "idx": 981,
         "key": "3123_31_32",
-        "winner": "model_b"
+        "winner": "model_a"
     },
     {
         "model_a": "gemini-2.5-flash-lite",
