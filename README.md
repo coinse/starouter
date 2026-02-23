@@ -59,13 +59,9 @@ We provide a single script `run.sh` that executes all routing experiments along 
 ```bash
 python experiment.py --skip_hyperparameter_tuning -p entire
 python experiment.py --skip_hyperparameter_tuning --code_generation -p entire
-python experiment.py --skip_hyperparameter_tuning -p input_only 
-python experiment.py --skip_hyperparameter_tuning --code_generation -p input_only 
 
 python visualize.py -p entire
 python visualize.py --code_generation -p entire
-python visualize.py -p input_only 
-python visualize.py --code_generation -p input_only 
 
 python generalize.py -p entire
 ```
@@ -73,7 +69,6 @@ All above scripts also check the resulting file existence to avoid redundant exe
 1. Experiment routing (`experiment.py`)
    - As noted above, we recommend you to add `--skip_hyperparameter_tuning` option when running the experiments by yourself.
    - `--code_generation` flag tests routing on code generation benchmarks, if set to true. Otherwise, the default behavior is to experiment on testing benchmarks.
-   - `-p {prompt_type}` could be either `entire` or `input_only`.
 2. Visualize individual runs (`visualize.py`)
 3. Conduct cross-benchmark generalization experiments (`generalize.py`)
    - By default, we iterate over all benchmarks including both testing and code generation tasks
