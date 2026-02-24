@@ -3,12 +3,12 @@
 Replication package for the paper "STARouter: Internal State based LLM Router for Software Testing Tasks"
 
 ### Experimental Results
-We include notebooks that quickly walk you through our experimental results. For each Research Question, refer to
+We include notebooks that quickly walk you through our experimental results under `notebooks` directory. For each Research Question, refer to
 - **RQ1. Effectiveness**: To what extent does our router approximate the optimal routing scenario? [notebook](./notebooks/RQ1_Effectiveness.ipynb)
 - **RQ2. Generalizability**: Does our approach generalize across different contexts? [notebook](./notebooks/RQ2_Generalizability.ipynb)
-- **RQ3. Configurations**: How do variations in the input configuration affect router performance? [notebook](./notebooks/RQ3_Input_Variations.ipynb)  
+- **Additional**: [Sensitivity analysis on Input Variations](./notebooks/Input_Variations.ipynb) and a [Router Optimality demo](./notebooks/Router_Optimality.ipynb).
 
-We also provide a synthetic routing example about the definition of [Router Optimality](./notebooks/Router_Optimality.ipynb)
+> **Note**: We **bundle all extracted internal states, prompt embeddings, and final predictions** within this artifact. You can reproduce all tables and figures in the paper using the notebooks above **without** running any data processing or experiment scripts, but only by updating the `REPO_PATH` in `config.py`. 
 
 Cost-performance curves for individual runs (model pair/benchmark/input configurations) are stored under `results/{BENCHMARK}/preset` directories.
 
@@ -17,7 +17,8 @@ Cost-performance curves for individual runs (model pair/benchmark/input configur
 Under `data` directory, all scripts required to
 1. Label win model: [construct_pairwise_data.py](./data/construct_pairwise_data.py)
 2. Extract internal states from SLMs: [extract_internal_state.py](./data/extract_internal_state.py)
-3. Embed prompts: [embed.py](./data/embed.py)
+3. Embed prompts: [embed.py](./data/embed.py)  
+
 are included, along with resulting data files under each benchmark directory.
 
 Note that we exclude benchmark implementations for brevity, please refer to the original implementations:
@@ -45,7 +46,7 @@ All required modules are listed in `requirements.txt` along with their versions.
    * Labelled data is stored under `data/{BENCHMARK}/route_data/pairwise` directory.
 2. Extract internal state
    * Downloading open-source language models from HuggingFace requires your HF token along with proper access to each language model. 
-   * **Note that downloading all five SLMs may take up ~200GB of disk storage**.
+   * Note that downloading all five SLMs may take up ~200GB of disk storage.
 3. Embed prompts
    * Requires [Ollama](https://ollama.com/), with which `nomic-embed-text` model is pulled using `ollama pull nomic-embed-text` command. We assume that the Ollama endpoint is set to its default value (`endpoint = 'http://localhost:11434/api/embeddings'`), you may modify this value within `data/embed.py`
    * Requires OpenAI api key, which we load from the default environmental variable `OPENAI_API_KEY`.
